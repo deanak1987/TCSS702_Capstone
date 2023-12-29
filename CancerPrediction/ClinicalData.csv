@@ -1,0 +1,3295 @@
+,shared-gender,clin_shared-vital_status,clin_shared-race_list,bcr_patient_barcode,shared-tissue_source_site,shared-patient_id,shared-bcr_patient_uuid,clin_shared-patient_consent_status,clin_shared-icd_o_3_site,clin_shared-icd_o_3_histology,clin_shared-icd_10,clin_shared-initial_pathologic_dx_days_to,brca_shared-pr_status_by_ihc,brca_shared-er_status_by_ihc,brca_shared-her2_status_by_ihc,shared_stage-stage_event,clin_shared-form_completion_day,clin_shared-form_completion_month,clin_shared-form_completion_year,images
+0,FEMALE,Alive,"
+            ",TCGA-AC-A8OQ,AC,A8OQ,DFAABD03-2D40-4422-B210-CAF112FF4229,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Indeterminate,"
+            ",26,2,2014,2
+1,FEMALE,Alive,"
+            ",TCGA-D8-A146,D8,A146,03da7a65-fa2f-42cb-a709-5fe8736f21d3,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",30,3,2011,2
+2,FEMALE,Alive,"
+            ",TCGA-BH-A0H5,BH,A0H5,cab38ea8-4555-413c-b81e-4621aac4ef85,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",12,8,2011,4
+3,FEMALE,Alive,"
+            ",TCGA-AN-A0G0,AN,A0G0,96312510-c126-485d-8109-ed81844a1dc3,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",29,12,2010,3
+4,FEMALE,Alive,"
+            ",TCGA-3C-AALI,3C,AALI,55262FCB-1B01-4480-B322-36570430C917,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",28,7,2014,3
+5,FEMALE,Dead,"
+            ",TCGA-BH-A1ES,BH,A1ES,51ccbf1b-7cae-44ba-991a-11eda8b8c404,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",6,9,2011,6
+6,FEMALE,Dead,"
+            ",TCGA-A2-A3XS,A2,A3XS,A78B04B4-2380-4803-963E-E4E633CD69AB,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",15,8,2012,2
+7,FEMALE,Dead,"
+            ",TCGA-AR-A1AT,AR,A1AT,4d26dada-5eb7-4d4e-8eb8-f5465c5c3428,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",14,6,2011,2
+8,FEMALE,Alive,"
+            ",TCGA-A2-A0YE,A2,A0YE,84a88e8d-1e65-4b88-aae6-bf4c7a7e4c33,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",10,12,2010,3
+9,FEMALE,Dead,"
+            ",TCGA-BH-A1FM,BH,A1FM,7eb18190-5a41-4637-9783-f81bbde499e4,YES,C50.9,8500/3,C50.9,0,Negative,Positive,null,"
+            ",8,9,2011,3
+10,FEMALE,Alive,"
+            ",TCGA-E2-A106,E2,A106,87e09544-eddb-473b-8617-212407ce644e,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",11,2,2011,3
+11,FEMALE,Alive,"
+            ",TCGA-BH-A0B3,BH,A0B3,18eb4dfc-556f-4bf3-a411-4780209ed1e0,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",3,11,2010,4
+12,FEMALE,Alive,"
+            ",TCGA-AR-A1AX,AR,A1AX,f72c1d69-da35-459f-8542-59bfd6c09c23,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",14,6,2011,2
+13,FEMALE,Alive,"
+            ",TCGA-D8-A142,D8,A142,ccb22ecc-6e18-44b8-ad48-6ab51314b16e,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",25,2,2011,3
+14,FEMALE,Dead,"
+            ",TCGA-BH-A1FD,BH,A1FD,3c8b5af9-c34d-43c2-b8c9-39ea11e44fa6,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",8,9,2011,5
+15,FEMALE,Alive,"
+            ",TCGA-A7-A13H,A7,A13H,2E243F0E-9D7D-4CB0-9678-70607F90430A,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",22,6,2012,4
+16,FEMALE,Alive,"
+            ",TCGA-C8-A12K,C8,A12K,6b923e30-2ddc-407f-91b1-c202f1373fbb,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",12,4,2011,3
+17,FEMALE,Alive,"
+            ",TCGA-EW-A423,EW,A423,BDD08EC8-8892-4273-8F21-6FDE0F23C52D,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",4,1,2013,3
+18,FEMALE,Alive,"
+            ",TCGA-E2-A1IL,E2,A1IL,b63391a0-73f8-4544-9e94-f6529245ca2a,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,4,2011,2
+19,FEMALE,Alive,"
+            ",TCGA-B6-A408,B6,A408,9964F447-92AD-4D1E-AF20-11CF84FAB7B0,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",20,9,2012,1
+20,FEMALE,Alive,"
+            ",TCGA-C8-A274,C8,A274,dbcad60f-86c7-41e3-b0ae-baa39c9f83dd,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,7,2011,2
+21,FEMALE,Alive,"
+            ",TCGA-AC-A3HN,AC,A3HN,E37AE674-A107-4EB3-94D8-B86B0035A9F7,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",13,4,2012,2
+22,FEMALE,Alive,"
+            ",TCGA-BH-A0E0,BH,A0E0,20e8106b-1290-4735-abe4-7621e08e3dc8,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",9,11,2010,5
+23,FEMALE,Alive,"
+            ",TCGA-A8-A08Z,A8,A08Z,d7808cbc-4b8c-467b-b2c3-f48d05b9ecab,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+24,FEMALE,Alive,"
+            ",TCGA-D8-A1X5,D8,A1X5,eb93df3d-9e25-4e4c-9a5d-350f296e5acf,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",9,6,2011,3
+25,FEMALE,Alive,"
+            ",TCGA-E2-A1LG,E2,A1LG,ef4cbd38-bc79-4d60-a715-647edd2ebe9e,YES,C50.9,8520/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",3,6,2011,6
+26,FEMALE,Alive,"
+            ",TCGA-AC-A8OR,AC,A8OR,8CD1BA0B-EAD9-4661-A796-6C9DBF1C42CD,YES,C50.9,8480/3,C50.9,0,Positive,Positive,Negative,"
+            ",26,2,2014,2
+27,FEMALE,Alive,"
+            ",TCGA-E2-A10F,E2,A10F,8e159b50-8136-42d4-b9c7-d579a74e4931,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",11,2,2011,3
+28,FEMALE,Alive,"
+            ",TCGA-BH-A0E6,BH,A0E6,6c0066e3-96df-4870-bcd3-98cda64082e9,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",9,11,2010,3
+29,FEMALE,Alive,"
+            ",TCGA-D8-A27R,D8,A27R,0b23b5fe-6c7e-4297-bc55-f93fcb830ac4,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",18,7,2011,3
+30,FEMALE,Alive,"
+            ",TCGA-A7-A6VV,A7,A6VV,57AF5C72-0D60-4A6B-B1B4-EC6DAB90F80F,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",22,10,2013,3
+31,FEMALE,Alive,"
+            ",TCGA-AR-A24R,AR,A24R,db62d9c7-8343-4771-84fc-146d2e307bb8,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",26,8,2011,2
+32,FEMALE,Alive,"
+            ",TCGA-E9-A249,E9,A249,fb3607eb-858e-4ecd-8477-95140658c6d2,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",22,3,2011,2
+33,FEMALE,Alive,"
+            ",TCGA-A2-A25E,A2,A25E,ba89cb4f-cd63-47b1-9550-76fdaff89f2e,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",21,7,2011,2
+34,FEMALE,Alive,"
+            ",TCGA-AC-A2FO,AC,A2FO,F5D4C2D3-CC69-4B38-8551-0917E3622A68,YES,C50.9,8520/3,C50.9,0,Negative,Positive,Negative,"
+            ",21,9,2011,3
+35,FEMALE,Alive,"
+            ",TCGA-AN-A0FT,AN,A0FT,baf5e81f-2322-41ec-9053-b9559a7993bc,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",28,12,2010,3
+36,FEMALE,Dead,"
+            ",TCGA-A2-A0YT,A2,A0YT,14b95463-2108-4921-afc2-e29eef52b18f,YES,C50.9,8500/3,C50.9,0,Negative,Positive,null,"
+            ",10,12,2010,3
+37,FEMALE,Alive,"
+            ",TCGA-OL-A66P,OL,A66P,F81AC8A2-4CE6-439E-B027-1C0BFC88CEAA,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",11,6,2013,2
+38,FEMALE,Alive,"
+            ",TCGA-BH-A0HO,BH,A0HO,8332806e-f547-4aae-89af-6d5bec831fd2,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,11,2010,3
+39,FEMALE,Alive,"
+            ",TCGA-E2-A1II,E2,A1II,0fe1419e-a005-407c-8ae7-15c4c1579539,YES,C50.9,8500/3,C50.9,0,Positive,Negative,Negative,"
+            ",28,4,2011,4
+40,FEMALE,Alive,"
+            ",TCGA-B6-A0IP,B6,A0IP,1402082d-25c9-4148-8a1e-f58450b706bb,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",2,11,2010,3
+41,FEMALE,Alive,"
+            ",TCGA-BH-A0HI,BH,A0HI,e0375a8b-a135-4103-a59d-39063fcf4a6f,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,11,2010,2
+42,FEMALE,Alive,"
+            ",TCGA-E9-A243,E9,A243,d4a1ecdc-399c-4f82-aa7a-68a0c82ded3f,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",17,8,2011,2
+43,FEMALE,Dead,"
+            ",TCGA-BH-A18M,BH,A18M,f63722c1-a0bb-4bf9-8a10-1d76a8e1a0ba,YES,C50.3,8500/3,C50.3,0,Positive,Positive,Positive,"
+            ",15,6,2011,5
+44,FEMALE,Alive,"
+            ",TCGA-E2-A15J,E2,A15J,1fef9454-b3e8-4d9d-a9aa-aa1f1a32b80c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",13,4,2011,2
+45,FEMALE,Alive,"
+            ",TCGA-A8-A09T,A8,A09T,0adf59c6-581a-475d-a2f4-40aa40060b5b,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+46,FEMALE,Alive,"
+            ",TCGA-AN-A0FV,AN,A0FV,2e8e70f2-c781-44c2-8f12-1f8c2f536aa3,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",28,12,2010,3
+47,FEMALE,Alive,"
+            ",TCGA-E2-A15H,E2,A15H,5580b21a-2cdb-4777-ad79-6e06654144f5,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",13,4,2011,2
+48,FEMALE,Alive,"
+            ",TCGA-A2-A04T,A2,A04T,b58ad350-5140-4fa8-bc2c-24bca8395f3a,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",9,8,2010,3
+49,FEMALE,Alive,"
+            ",TCGA-OL-A5D6,OL,A5D6,C3A981C7-F148-4252-BD50-AF8A49EC0DF8,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",19,4,2013,2
+50,FEMALE,Dead,"
+            ",TCGA-BH-A1EX,BH,A1EX,7b892055-c59d-4550-8688-ad039790af3d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",7,9,2011,4
+51,FEMALE,Alive,"
+            ",TCGA-A7-A56D,A7,A56D,F062CBD0-2426-40AC-A4BE-E74AC61FA2A7,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",1,4,2013,7
+52,FEMALE,Dead,"
+            ",TCGA-BH-A1EV,BH,A1EV,417dea5f-f68e-4dab-940e-43ae8c67e5e6,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",7,9,2011,5
+53,FEMALE,Alive,"
+            ",TCGA-A2-A3Y0,A2,A3Y0,174850B4-5EC2-462B-A890-89BD1716B3C2,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",24,8,2012,2
+54,FEMALE,Alive,"
+            ",TCGA-B6-A0RH,B6,A0RH,c3148e68-1739-4334-abda-1dcbc2166846,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",15,3,2011,3
+55,FEMALE,Alive,"
+            ",TCGA-A2-A4RX,A2,A4RX,D111C4AB-B39A-4A7C-8D8E-CB342BC10627,YES,C50.9,8575/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,2,2013,2
+56,FEMALE,Alive,"
+            ",TCGA-AC-A5XS,AC,A5XS,D9627184-B972-4E00-8C11-B0B946AC357A,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",15,7,2013,3
+57,FEMALE,Alive,"
+            ",TCGA-D8-A1XL,D8,A1XL,2b19a6b4-7a17-4452-b4aa-6fc18adc0c3c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",9,6,2011,3
+58,FEMALE,Alive,"
+            ",TCGA-AO-A0J7,AO,A0J7,9536bec0-dae0-4d63-a1b3-956741835243,YES,C50.9,8523/3,C50.9,0,Positive,Positive,Negative,"
+            ",19,9,2010,3
+59,FEMALE,Alive,"
+            ",TCGA-AO-A0J2,AO,A0J2,d2f2560c-ec80-4fea-9474-c47a2e85ea95,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",19,9,2010,3
+60,FEMALE,Alive,"
+            ",TCGA-E2-A1IE,E2,A1IE,2d0d7ff4-7866-4ae1-9cf1-a3c7f4cbe48d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",26,4,2011,2
+61,FEMALE,Alive,"
+            ",TCGA-A7-A13D,A7,A13D,8785012f-f73e-4d68-87cf-1d804af32782,YES,C50.9,8500/3,C50.9,0,Positive,Negative,Equivocal,"
+            ",23,2,2011,6
+62,FEMALE,Alive,"
+            ",TCGA-A2-A1FW,A2,A1FW,54883111-d475-4515-ba3f-fece8a71e79e,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",11,5,2011,2
+63,FEMALE,Dead,"
+            ",TCGA-B6-A409,B6,A409,5362CBC4-CD28-4AFD-A8AC-1A4C2C33CAD2,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",20,9,2012,1
+64,FEMALE,Alive,"
+            ",TCGA-A2-A25A,A2,A25A,aaea5f9c-b35b-47f8-93cb-bdc7b81844ff,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",21,6,2011,2
+65,FEMALE,Alive,"
+            ",TCGA-A2-A0D1,A2,A0D1,084c6aec-94f7-4090-8f3f-59fa9e89721a,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",21,9,2010,2
+66,FEMALE,Dead,"
+            ",TCGA-B6-A0IC,B6,A0IC,b804f7ae-da8f-4414-be11-f880f1859160,YES,C50.9,8503/3,C50.9,0,Positive,Positive,null,"
+            ",2,11,2010,3
+67,FEMALE,Dead,"
+            ",TCGA-BH-A18T,BH,A18T,30ec8b1f-28c4-4f46-8a1b-a8d51e558c7d,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",2,7,2011,6
+68,FEMALE,Dead,"
+            ",TCGA-BH-A18P,BH,A18P,557cb0a3-6f1b-4faf-8296-0a15c24158f9,YES,C50.3,8500/3,C50.3,0,Negative,Positive,Positive,"
+            ",22,6,2011,6
+69,FEMALE,Alive,"
+            ",TCGA-A7-A4SB,A7,A4SB,A947A945-4721-45CC-BC45-13B8EA41C10E,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",20,2,2013,2
+70,FEMALE,Alive,"
+            ",TCGA-A7-A5ZW,A7,A5ZW,523E24A2-51B9-4658-BE2F-42E5FCCEBB17,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",13,5,2013,2
+71,FEMALE,Alive,"
+            ",TCGA-A7-A0DA,A7,A0DA,3afa1e93-1df8-4e4c-aaa4-557463f4bb77,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",10,1,2011,3
+72,FEMALE,Alive,"
+            ",TCGA-AO-A1KP,AO,A1KP,3aaabc62-f5a4-4025-9b29-5adf82c86c84,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",1,4,2011,2
+73,FEMALE,Alive,"
+            ",TCGA-AO-A124,AO,A124,b094e8b2-8ece-4b36-8025-18073a8b873c,YES,C50.9,8523/3,C50.9,0,Negative,Negative,Negative,"
+            ",7,12,2010,3
+74,FEMALE,Alive,"
+            ",TCGA-A2-A0CK,A2,A0CK,5ACA16CA-4516-4E27-8249-6914029A7EBF,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,5,2012,3
+75,FEMALE,Dead,"
+            ",TCGA-B6-A0IK,B6,A0IK,0491063c-14a7-4104-8002-1459126332f3,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",2,11,2010,3
+76,FEMALE,Alive,"
+            ",TCGA-B6-A0IJ,B6,A0IJ,2c86c3ea-d926-4d39-a5ae-39ece4774287,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",2,11,2010,3
+77,FEMALE,Alive,"
+            ",TCGA-LL-A5YM,LL,A5YM,E9A12DF9-024E-4CBC-B6BF-E4E87485FA90,YES,C50.9,8541/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",3,6,2013,2
+78,FEMALE,Alive,"
+            ",TCGA-AO-A1KS,AO,A1KS,bb8d42d3-ad65-4d88-ae1d-f9aadfc7962d,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",1,4,2011,2
+79,FEMALE,Alive,"
+            ",TCGA-A8-A09C,A8,A09C,80f3f48a-cc21-415c-b181-c77e7ba1c563,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+80,FEMALE,Alive,"
+            ",TCGA-E9-A1R4,E9,A1R4,b7a4df9a-4e25-4550-9c10-338ca1921c2f,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",28,7,2011,2
+81,FEMALE,Alive,"
+            ",TCGA-AO-A03R,AO,A03R,2e82e576-3095-4aee-9853-65f676647c34,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",19,9,2010,3
+82,FEMALE,Alive,"
+            ",TCGA-AC-A5EI,AC,A5EI,01B9F68B-4DE4-4374-B4F2-8A0685E18153,YES,C50.9,9020/3,C50.9,0,Positive,Positive,Negative,"
+            ",12,7,2013,2
+83,FEMALE,Alive,"
+            ",TCGA-AR-A2LJ,AR,A2LJ,738E1ACC-1F0C-4A96-9C8A-222727EF5AF8,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",12,1,2012,2
+84,FEMALE,Alive,"
+            ",TCGA-AN-A041,AN,A041,316e021c-5175-4ab3-bdb6-2bf9683f657a,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",1,4,2011,3
+85,FEMALE,Alive,"
+            ",TCGA-E9-A1RB,E9,A1RB,94b95984-b2fb-4e42-8887-45e7086c3179,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",28,7,2011,5
+86,FEMALE,Alive,"
+            ",TCGA-E9-A1NI,E9,A1NI,c65b835a-2d38-4250-a173-0780d2c2cf58,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Negative,"
+            ",23,6,2011,2
+87,FEMALE,Alive,"
+            ",TCGA-E9-A22H,E9,A22H,161917b8-88ad-407b-ade6-d6b98478b359,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",2,8,2011,2
+88,FEMALE,Alive,"
+            ",TCGA-EW-A1J5,EW,A1J5,5d8ed961-a012-4b6b-bffb-9468d3953646,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,6,2011,2
+89,FEMALE,Alive,"
+            ",TCGA-LD-A7W5,LD,A7W5,A06FF6AE-B0DD-4516-A75C-0DB71694B46B,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",3,2,2014,2
+90,FEMALE,Alive,"
+            ",TCGA-E2-A10B,E2,A10B,f801aeed-dc43-49d7-a319-84c8851979d9,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",22,2,2011,3
+91,FEMALE,Alive,"
+            ",TCGA-BH-A0HU,BH,A0HU,dc657ca8-98e8-4ec4-a513-1b848be0e85d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,11,2010,3
+92,FEMALE,Alive,"
+            ",TCGA-AR-A0U4,AR,A0U4,71f97b63-c970-44ee-98c2-e02e663d5a40,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",10,3,2011,3
+93,FEMALE,Alive,"
+            ",TCGA-E2-A10E,E2,A10E,dc15a8ae-991e-421c-bc70-70e94f79dd17,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",11,2,2011,3
+94,FEMALE,Alive,"
+            ",TCGA-C8-A137,C8,A137,03ab1e9f-4918-404d-b178-3a4fd929c5e8,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",15,4,2011,3
+95,FEMALE,Alive,"
+            ",TCGA-C8-A12V,C8,A12V,7e1673f8-5758-4963-8804-d5e39f06205b,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",22,3,2011,3
+96,FEMALE,Alive,"
+            ",TCGA-D8-A1JH,D8,A1JH,4d1bf9e6-5837-4aed-b568-92f014ed5a4b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,3,2011,2
+97,FEMALE,Alive,"
+            ",TCGA-C8-A26X,C8,A26X,70ab4f23-23c4-409f-a5cc-18a010c3a24e,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",21,7,2011,2
+98,FEMALE,Alive,"
+            ",TCGA-GM-A3NW,GM,A3NW,6DDAEE34-46EB-490C-BD13-F0AB963C4322,YES,C50.9,8520/3,C50.9,0,Positive,Negative,Equivocal,"
+            ",3,1,2012,2
+99,FEMALE,Dead,"
+            ",TCGA-AR-A0TY,AR,A0TY,da1c58a7-c6bd-47d9-95c2-8d2ac70e20e4,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",10,3,2011,3
+100,FEMALE,Alive,"
+            ",TCGA-AN-A0FZ,AN,A0FZ,8240c4ae-f878-4882-aa07-7857c7ac52cf,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",29,12,2010,3
+101,FEMALE,Alive,"
+            ",TCGA-B6-A0RT,B6,A0RT,4bf50455-9ab7-4521-a791-089f66d3b877,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",3,11,2010,3
+102,FEMALE,Dead,"
+            ",TCGA-BH-A204,BH,A204,05135396-df5c-49db-b34e-f4add5b65a2b,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",8,9,2011,3
+103,FEMALE,Alive,"
+            ",TCGA-B6-A0IM,B6,A0IM,5a4b7098-1f6a-49e9-b364-29d6d34f5bd5,YES,C50.9,8523/3,C50.9,0,Positive,Positive,null,"
+            ",2,11,2010,3
+104,FEMALE,Alive,"
+            ",TCGA-BH-A0B6,BH,A0B6,FA4E082A-D213-412E-8D91-842A6F4BEF12,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",4,8,2011,3
+105,FEMALE,Alive,"
+            ",TCGA-C8-A1HL,C8,A1HL,a8a199c9-d781-4e6c-af8c-c85d60c7cd40,YES,C50.9,8480/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",2,6,2011,2
+106,FEMALE,Alive,"
+            ",TCGA-AR-A24V,AR,A24V,3cb06c7a-f2a8-448b-91a8-dd201bbf2ddd,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,8,2011,2
+107,FEMALE,Alive,"
+            ",TCGA-BH-A0DX,BH,A0DX,035cb359-eac3-484a-9e88-3ddc739440a3,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,8,2011,3
+108,FEMALE,Alive,"
+            ",TCGA-AC-A23C,AC,A23C,dfd0b7ba-c7d3-498e-b455-346301865452,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",14,7,2011,2
+109,FEMALE,Alive,"
+            ",TCGA-AQ-A04J,AQ,A04J,9938ce5c-e74e-446e-a932-f096f85cc3b1,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",15,10,2010,3
+110,FEMALE,Alive,"
+            ",TCGA-A1-A0SO,A1,A0SO,6644fd4e-d2fe-4785-a73c-0f36fcc740e2,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",6,12,2010,2
+111,FEMALE,Alive,"
+            ",TCGA-A8-A08F,A8,A08F,0a017f15-1c6b-45e7-8d55-e0a71df1b2e8,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+112,FEMALE,Alive,"
+            ",TCGA-A8-A07R,A8,A07R,72e486b8-a866-4916-b2e4-8b4bb5dcd92d,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",27,5,2011,3
+113,FEMALE,Dead,"
+            ",TCGA-A2-A0SW,A2,A0SW,991e1427-3c01-423d-abfd-4584302ca72c,YES,C50.9,8500/3,C50.9,0,Negative,Positive,null,"
+            ",8,11,2010,3
+114,FEMALE,Alive,"
+            ",TCGA-E2-A1B0,E2,A1B0,996bd3f0-d767-4eff-9c82-99fcb5a3006a,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",25,4,2011,2
+115,FEMALE,Alive,"
+            ",TCGA-HN-A2OB,HN,A2OB,61204CDF-3B1C-44A1-BDA6-0FEF1AC4A333,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",26,9,2013,2
+116,FEMALE,Alive,"
+            ",TCGA-D8-A4Z1,D8,A4Z1,80419545-4E5D-4BAF-8948-F84589B5EF3E,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",1,2,2013,2
+117,FEMALE,Alive,"
+            ",TCGA-E2-A15M,E2,A15M,59be60a3-e0f6-4d63-b98c-574ef92428c4,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",14,4,2011,3
+118,FEMALE,Alive,"
+            ",TCGA-C8-A8HP,C8,A8HP,8DB69F1D-72E2-40BA-AD8A-CF228499840D,YES,C50.9,8575/3,C50.9,0,Negative,Negative,Positive,"
+            ",29,12,2014,2
+119,FEMALE,Alive,"
+            ",TCGA-EW-A1P7,EW,A1P7,01674b2c-5cf2-478f-84a1-f69c39f47bd4,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",18,5,2011,2
+120,FEMALE,Alive,"
+            ",TCGA-A2-A0D0,A2,A0D0,324bcba2-f6a4-45a6-807c-215bdffcca21,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",16,9,2010,3
+121,FEMALE,Alive,"
+            ",TCGA-A8-A06O,A8,A06O,69054195-9e93-49e5-b820-69b0091cc2d4,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+122,FEMALE,Dead,"
+            ",TCGA-A2-A04V,A2,A04V,64f67506-f2df-4f0a-b7be-29b4949e986a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",10,8,2010,3
+123,FEMALE,Alive,"
+            ",TCGA-A2-A0ES,A2,A0ES,a2934508-3daf-49e2-b14f-ed9b7693f96f,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",25,1,2011,3
+124,FEMALE,Alive,"
+            ",TCGA-A8-A09B,A8,A09B,3828b534-908e-4953-a3fb-07d01cf49c7d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+125,FEMALE,Dead,"
+            ",TCGA-AC-A2FM,AC,A2FM,B6B1DC9A-91F4-4B0A-AFD5-62C9A90C0D5E,YES,C50.9,8520/3,C50.9,0,null,null,null,"
+            ",22,2,2012,5
+126,FEMALE,Alive,"
+            ",TCGA-B6-A1KF,B6,A1KF,f30eb65f-fb44-4062-ac39-a38d072f655f,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",19,7,2011,2
+127,FEMALE,Alive,"
+            ",TCGA-A1-A0SB,A1,A0SB,0045349c-69d9-4306-a403-c9c1fa836644,YES,C50.9,8200/3,C50.9,0,Negative,Positive,Negative,"
+            ",30,6,2011,3
+128,FEMALE,Alive,"
+            ",TCGA-AN-A046,AN,A046,dcd5860c-7e3a-44f3-a732-fe92fe3fe300,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,12,2010,3
+129,FEMALE,Alive,"
+            ",TCGA-OK-A5Q2,OK,A5Q2,CD7FB75E-1C2E-4201-86D3-B3BA21F476BF,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",22,1,2013,5
+130,FEMALE,Alive,"
+            ",TCGA-AC-A6IX,AC,A6IX,7486A2B3-B09F-4E9C-9864-8B51B58D9FB3,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",21,10,2013,3
+131,FEMALE,Alive,"
+            ",TCGA-A2-A1G0,A2,A1G0,2e538802-2a31-4774-89a8-c6e4381a887d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",21,4,2011,2
+132,FEMALE,Alive,"
+            ",TCGA-D8-A1XU,D8,A1XU,332148f5-f070-4c20-8eb1-4d8c0673aa52,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",16,5,2011,2
+133,FEMALE,Alive,"
+            ",TCGA-AR-A1AN,AR,A1AN,43029932-feb0-4658-97fa-645c1e775009,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",14,6,2011,2
+134,FEMALE,Alive,"
+            ",TCGA-AO-A03T,AO,A03T,dd6b64a8-d546-4fd1-bbbd-ac9703791cae,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",19,9,2010,3
+135,MALE,Alive,"
+            ",TCGA-AQ-A54O,AQ,A54O,35CA5E2A-861A-4DD2-A4CE-D294CF080DA3,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",26,2,2013,2
+136,FEMALE,Alive,"
+            ",TCGA-S3-AA10,S3,AA10,23C31C2E-336C-4878-A476-CF8D811B4875,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",18,4,2014,2
+137,FEMALE,Dead,"
+            ",TCGA-B6-A0IB,B6,A0IB,157ec9e0-ca6e-4da1-9233-f976cf0db433,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",2,11,2010,3
+138,FEMALE,Alive,"
+            ",TCGA-BH-A0BJ,BH,A0BJ,d6f911b5-e895-43f8-8f86-0ac2f1bc6fae,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",8,11,2010,5
+139,FEMALE,Alive,"
+            ",TCGA-AC-A3W7,AC,A3W7,2481A671-760B-428C-968D-42E25FD42AC5,YES,C50.9,8520/3,C50.9,0,Negative,Positive,Negative,"
+            ",17,10,2012,2
+140,FEMALE,Dead,"
+            ",TCGA-A8-A08L,A8,A08L,8bd68696-5eeb-46d7-9dc6-c39c849029a4,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",27,5,2011,3
+141,FEMALE,Alive,"
+            ",TCGA-D8-A1XZ,D8,A1XZ,2c90d5e3-ac8c-4c86-a06f-42ccc064eb49,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",9,6,2011,3
+142,FEMALE,Alive,"
+            ",TCGA-D8-A1XF,D8,A1XF,6f6afd31-b5dd-48ab-b18f-6390ba18a5f0,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",16,5,2011,3
+143,FEMALE,Dead,"
+            ",TCGA-B6-A0I1,B6,A0I1,5DD423E8-FEAA-4568-A750-500948C41D6C,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",11,1,2012,3
+144,FEMALE,Alive,"
+            ",TCGA-AR-A0U1,AR,A0U1,17d9e646-6ab3-40b3-a0bc-2c834d3c3213,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",28,2,2011,3
+145,FEMALE,Alive,"
+            ",TCGA-A8-A08H,A8,A08H,db8d38ab-cc61-49ee-863d-40060112f2af,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+146,FEMALE,Alive,"
+            ",TCGA-A2-A3XY,A2,A3XY,DEBA32E4-0E68-4711-941B-3B63BD965AFB,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",14,8,2012,2
+147,FEMALE,Alive,"
+            ",TCGA-BH-A0DH,BH,A0DH,491b6364-1223-474f-816f-e248c8c841e2,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",8,11,2010,4
+148,FEMALE,Alive,"
+            ",TCGA-AC-A2FF,AC,A2FF,3CA67CD0-81DA-4F68-A9FA-F1A8C013C28D,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",23,9,2011,3
+149,FEMALE,Alive,"
+            ",TCGA-BH-A0DL,BH,A0DL,ba39bfbc-5cac-4f6c-b55c-4eee3466ee93,YES,C50.9,8575/3,C50.9,0,Negative,Positive,Negative,"
+            ",11,8,2011,5
+150,FEMALE,Alive,"
+            ",TCGA-A8-A09M,A8,A09M,626b4ff0-2188-4a14-aac8-6703c624917f,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+151,FEMALE,Alive,"
+            ",TCGA-A7-A26I,A7,A26I,b2ecbc0f-2c30-4200-8d5e-7b95424bcadb,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",29,7,2011,4
+152,FEMALE,Alive,"
+            ",TCGA-AC-A8OS,AC,A8OS,D5E655FE-3FBC-47B0-BA23-1D1DD01D591C,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",26,2,2014,2
+153,MALE,Alive,"
+            ",TCGA-A8-A085,A8,A085,3c08aabd-d5b5-4bbe-857c-38a7527b2163,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+154,FEMALE,Alive,"
+            ",TCGA-A8-A097,A8,A097,dcfd0b1d-5707-44a6-b225-5e8f7cea5ca1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+155,FEMALE,Alive,"
+            ",TCGA-EW-A2FR,EW,A2FR,AF97E043-88CB-4F99-8F8B-9BCBCCCDF842,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",12,10,2011,2
+156,FEMALE,Alive,"
+            ",TCGA-A8-A08T,A8,A08T,32bc7cc4-d185-4594-bbee-4b96410be512,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+157,FEMALE,Dead,"
+            ",TCGA-B6-A0RQ,B6,A0RQ,caa9b533-24b4-4ecd-9159-c165de049f6a,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",15,3,2011,3
+158,FEMALE,Alive,"
+            ",TCGA-E9-A5FL,E9,A5FL,E3935CE4-64D3-4A66-BA11-D308B844B410,YES,C50.9,8575/3,C50.9,0,Negative,Negative,Negative,"
+            ",22,5,2013,2
+159,FEMALE,Alive,"
+            ",TCGA-A8-A06R,A8,A06R,f3ba71f9-25f3-4784-bf2d-3aa522a0cba8,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",27,5,2011,3
+160,FEMALE,Alive,"
+            ",TCGA-E2-A1B1,E2,A1B1,8a0ef221-8070-43fc-9d98-def90abe4871,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",25,4,2011,2
+161,FEMALE,Alive,"
+            ",TCGA-A8-A07B,A8,A07B,b43e41af-1d82-4b5f-b8f1-add0510e6b86,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+162,FEMALE,Dead,"
+            ",TCGA-B6-A0X5,B6,A0X5,4e6edfe6-adcb-4c12-8ff4-38a79f5887e8,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",14,12,2010,2
+163,FEMALE,Alive,"
+            ",TCGA-A7-A3IY,A7,A3IY,6B4E0262-F589-4532-B578-9F2D76C19D90,YES,C50.9,8480/3,C50.9,0,Positive,Positive,Negative,"
+            ",19,3,2012,2
+164,FEMALE,Alive,"
+            ",TCGA-C8-A273,C8,A273,5a5f0f48-2b13-4e78-b130-901b85d9a7f3,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,7,2011,2
+165,FEMALE,Alive,"
+            ",TCGA-D8-A27F,D8,A27F,1549dc64-3dab-43fc-96e9-b07d520957e1,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",18,7,2011,2
+166,FEMALE,Alive,"
+            ",TCGA-D8-A27L,D8,A27L,6020d1b4-ee20-4cc9-82a3-340b5e3122f1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",18,7,2011,2
+167,FEMALE,Alive,"
+            ",TCGA-AO-A0J6,AO,A0J6,e9f4f373-37a5-48ad-a1a0-b0d47820111a,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",19,9,2010,3
+168,FEMALE,Alive,"
+            ",TCGA-A2-A0T6,A2,A0T6,08306ede-e74b-4be9-b768-7fd98647b6ac,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",17,11,2010,3
+169,FEMALE,Alive,"
+            ",TCGA-B6-A1KC,B6,A1KC,1502c7d7-1535-4e56-9f34-30623acd50d5,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",19,7,2011,2
+170,FEMALE,Alive,"
+            ",TCGA-AN-A0AM,AN,A0AM,00a2d166-78c9-4687-a195-3d6315c27574,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",28,12,2010,3
+171,FEMALE,Alive,"
+            ",TCGA-A8-A09W,A8,A09W,452672e8-b6d9-45b5-bb02-e88e03e2dd66,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+172,FEMALE,Alive,"
+            ",TCGA-AO-A0JC,AO,A0JC,03565036-b6d3-432f-8d9a-7099818e0788,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",20,9,2010,3
+173,FEMALE,Alive,"
+            ",TCGA-C8-A12P,C8,A12P,abdc76db-f85e-4337-a57e-6d098789da03,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",13,4,2011,3
+174,FEMALE,Alive,"
+            ",TCGA-A7-A0D9,A7,A0D9,17baef7c-d97d-4b98-ab53-503ef856523d,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",4,10,2010,6
+175,FEMALE,Alive,"
+            ",TCGA-D8-A1XY,D8,A1XY,0130d616-885e-4a6c-9d03-2f17dd692a05,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",9,6,2011,3
+176,MALE,Alive,"
+            ",TCGA-EW-A6SA,EW,A6SA,ABA5F46A-E67A-4CD2-9C52-C0686968FF04,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",27,2,2015,2
+177,FEMALE,Alive,"
+            ",TCGA-AR-A2LM,AR,A2LM,0BF6E772-1AA1-4F54-9A50-C1414E2F22F3,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",12,1,2012,2
+178,FEMALE,Alive,"
+            ",TCGA-A8-A07I,A8,A07I,566792ae-f853-4a47-856d-f02cdcfcb18a,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",27,5,2011,3
+179,FEMALE,Alive,"
+            ",TCGA-A7-A4SD,A7,A4SD,8C09F413-E938-4F2E-A414-84F0E7FCFE41,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",19,2,2013,6
+180,FEMALE,Alive,"
+            ",TCGA-E2-A15R,E2,A15R,33b7bf50-53f4-4839-aa83-9665f85671d8,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",14,4,2011,2
+181,FEMALE,Dead,"
+            ",TCGA-BH-A1FJ,BH,A1FJ,f6581eee-61b9-43d4-ab0d-ce5ce3ba1c74,YES,C50.9,8500/3,C50.9,0,Positive,Negative,null,"
+            ",8,9,2011,6
+182,FEMALE,Dead,"
+            ",TCGA-A2-A04P,A2,A04P,ccd4a24b-d8cc-4686-9dee-c98b0c5a8d21,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",26,8,2010,3
+183,FEMALE,Alive,"
+            ",TCGA-E2-A15O,E2,A15O,eafa45a4-2fd1-4fa3-860c-9d52ed382b7d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",14,4,2011,2
+184,FEMALE,Alive,"
+            ",TCGA-B6-A402,B6,A402,75B3FE55-1A63-426E-867E-2EF52F54778D,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",20,9,2012,1
+185,FEMALE,Alive,"
+            ",TCGA-A2-A0T0,A2,A0T0,95c53f69-0f05-4348-822a-571f3d757001,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",12,11,2010,3
+186,FEMALE,Alive,"
+            ",TCGA-AO-A0J5,AO,A0J5,c1442467-d618-435f-8792-b1a18f696f1a,YES,C50.9,8523/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",7,12,2010,3
+187,FEMALE,Dead,"
+            ",TCGA-B6-A0I8,B6,A0I8,6e6408d6-6c48-4dfc-9f1c-28b7386e87b4,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",2,11,2010,3
+188,FEMALE,Alive,"
+            ",TCGA-OL-A66O,OL,A66O,A45833E1-7CC9-4273-B408-620F74679A12,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",11,6,2013,2
+189,FEMALE,Alive,"
+            ",TCGA-AO-A0JM,AO,A0JM,44bec761-b603-49c0-8634-f6bfe0319bb1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",20,9,2010,3
+190,FEMALE,Alive,"
+            ",TCGA-E2-A14O,E2,A14O,fb356957-f620-4d99-b675-1355a1d9f932,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",31,3,2011,2
+191,FEMALE,Alive,"
+            ",TCGA-E2-A155,E2,A155,01f50abf-fc15-446e-9d07-edeecc545a32,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",7,4,2011,2
+192,FEMALE,Alive,"
+            ",TCGA-A8-A09K,A8,A09K,6f959c92-b79f-4f84-9ee5-d07d3212d52d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+193,FEMALE,Alive,"
+            ",TCGA-C8-A8HR,C8,A8HR,DCB68327-1537-4CA6-81DE-3910D0663CB8,YES,C50.9,8520/3,C50.9,0,null,null,null,"
+            ",29,12,2014,2
+194,FEMALE,Alive,"
+            ",TCGA-E2-A14U,E2,A14U,23B7AAEA-1119-4B10-AA1A-0AE255D2F2A6,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",6,4,2011,2
+195,FEMALE,Alive,"
+            ",TCGA-A2-A1FZ,A2,A1FZ,805bfe39-3695-43c2-93e4-d66d0559b89f,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,4,2011,2
+196,FEMALE,Alive,"
+            ",TCGA-A7-A26F,A7,A26F,3b7b9c1e-a84c-47ed-983c-9e4b00cbf01a,YES,C50.9,8575/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",8,8,2011,4
+197,FEMALE,Alive,"
+            ",TCGA-AN-A0AK,AN,A0AK,9e894662-b718-40f8-8899-b5e036cfbd76,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",21,12,2010,3
+198,FEMALE,Alive,"
+            ",TCGA-AC-A7VB,AC,A7VB,56230E4A-29CA-4F37-A0F9-730DBDFB6FA2,YES,C50.9,8500/3,C50.9,0,Negative,Positive,null,"
+            ",26,2,2014,2
+199,FEMALE,Alive,"
+            ",TCGA-AR-A0TV,AR,A0TV,6439621e-da61-4723-91cc-c5d87d0a4abc,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",10,3,2011,3
+200,FEMALE,Alive,"
+            ",TCGA-D8-A1XR,D8,A1XR,70f34c5c-3671-44c8-9469-99f9786efec1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",16,5,2011,3
+201,FEMALE,Dead,"
+            ",TCGA-BH-A18R,BH,A18R,f6e1ec78-5ad9-4879-9b7e-262d17b166ad,YES,C50.9,8500/3,C50.9,0,Negative,Indeterminate,Positive,"
+            ",3,7,2011,6
+202,FEMALE,Alive,"
+            ",TCGA-A2-A1G6,A2,A1G6,295cf595-4a29-46a3-a0c5-e5f08f947031,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",22,4,2011,2
+203,FEMALE,Alive,"
+            ",TCGA-A2-A04X,A2,A04X,733a2a0f-b37a-4b81-b49e-3c0f30d1eb37,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",9,8,2010,3
+204,FEMALE,Alive,"
+            ",TCGA-B6-A0I2,B6,A0I2,328dfcb0-b5ae-43f2-bc87-dad0ab3df9e7,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",2,11,2010,3
+205,FEMALE,Alive,"
+            ",TCGA-EW-A1OY,EW,A1OY,53ff5893-7d5e-4bcb-be9c-665fa34b7824,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,6,2011,2
+206,FEMALE,Alive,"
+            ",TCGA-BH-A28Q,BH,A28Q,32861b48-83f5-43a3-bb54-45215ad2c5d6,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,9,2011,2
+207,FEMALE,Alive,"
+            ",TCGA-D8-A1JM,D8,A1JM,3e775c99-ceda-4246-8d6f-0f58ca5097c8,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",29,3,2011,2
+208,FEMALE,Alive,"
+            ",TCGA-A2-A0D3,A2,A0D3,4a16429b-884f-4c95-8683-feeedf0d6a55,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,1,2011,3
+209,FEMALE,Alive,"
+            ",TCGA-OL-A5D8,OL,A5D8,6D4860B2-21C6-4B7B-9093-2F32700D0612,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",19,4,2013,2
+210,FEMALE,Alive,"
+            ",TCGA-AR-A1AL,AR,A1AL,1f99e4d4-4e8b-4cc1-a129-227a2a82780e,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",15,6,2011,2
+211,FEMALE,Alive,"
+            ",TCGA-E9-A2JT,E9,A2JT,B35FBE19-0E6D-427E-B9BE-EE3527B5FCA6,YES,C50.9,8520/3,C50.9,0,null,null,null,"
+            ",20,12,2011,2
+212,FEMALE,Alive,"
+            ",TCGA-B6-A0RU,B6,A0RU,6956473b-92e5-4069-a26b-b48e280e76f2,YES,C50.9,8523/3,C50.9,0,Negative,Negative,null,"
+            ",2,11,2010,3
+213,FEMALE,Alive,"
+            ",TCGA-AN-A0AS,AN,A0AS,7c2a8440-0206-4039-8474-8d62f6c7de0c,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",28,12,2010,3
+214,FEMALE,Alive,"
+            ",TCGA-BH-A0BM,BH,A0BM,c2aeee6c-ba10-4cf9-b560-c739580f7bf3,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",8,11,2010,5
+215,FEMALE,Dead,"
+            ",TCGA-AR-A0U2,AR,A0U2,9ad603dc-3fd0-44f5-ae4e-64eeb1ae8d6d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",24,2,2011,3
+216,MALE,Alive,"
+            ",TCGA-EW-A1PD,EW,A1PD,4dfc233b-ed03-4825-8089-e04cdee99996,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",18,5,2011,2
+217,FEMALE,Alive,"
+            ",TCGA-D8-A1XM,D8,A1XM,92529232-8504-4541-b7e2-4df8f497c413,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",16,5,2011,2
+218,FEMALE,Dead,"
+            ",TCGA-AQ-A0Y5,AQ,A0Y5,d0b78f3f-a198-437a-ab8c-204345d3b75d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",7,4,2011,3
+219,FEMALE,Dead,"
+            ",TCGA-B6-A0IH,B6,A0IH,2476dda9-da2a-4242-9642-b92b8b9b1c79,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",15,3,2011,3
+220,FEMALE,Alive,"
+            ",TCGA-S3-AA14,S3,AA14,929ACC67-B8BF-4F65-9110-380E44AB66B7,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",18,4,2014,2
+221,FEMALE,Alive,"
+            ",TCGA-PE-A5DD,PE,A5DD,B0700958-5F90-4546-B35F-635CD506889B,YES,C50.9,8520/3,C50.9,0,Negative,Positive,Positive,"
+            ",6,5,2013,2
+222,FEMALE,Alive,"
+            ",TCGA-LL-A73Z,LL,A73Z,3E637872-F5E5-49D3-BB0D-9C16B8713382,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",15,11,2013,2
+223,FEMALE,Alive,"
+            ",TCGA-D8-A27E,D8,A27E,680f23a9-fcce-493e-b908-27c1ad202e4c,YES,C50.9,8523/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,7,2011,2
+224,FEMALE,Alive,"
+            ",TCGA-E9-A5FK,E9,A5FK,B304302A-F2B9-4CD7-AB14-C21EDF7778EA,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",22,5,2013,2
+225,FEMALE,Alive,"
+            ",TCGA-A2-A0T4,A2,A0T4,b0f8d698-a30e-4d8d-b0a2-a5a01fac8406,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",17,11,2010,3
+226,FEMALE,Alive,"
+            ",TCGA-D8-A27W,D8,A27W,bfa3dbc0-361c-400e-8c10-0aca7049fce9,YES,C50.9,8480/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",21,7,2011,3
+227,FEMALE,Alive,"
+            ",TCGA-A8-A099,A8,A099,e98b69bc-766a-485f-b5e8-9166b8d457b3,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+228,FEMALE,Alive,"
+            ",TCGA-5L-AAT0,5L,AAT0,86C6F993-327F-4525-9983-29C55625593A,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",15,8,2014,2
+229,FEMALE,Alive,"
+            ",TCGA-A8-A0AD,A8,A0AD,af5453a9-cf1f-40de-aec4-0e0710908fb7,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+230,FEMALE,Alive,"
+            ",TCGA-AO-A1KO,AO,A1KO,c25898b4-eb33-42f4-bf3f-bf532a929e7d,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",1,4,2011,2
+231,FEMALE,Alive,"
+            ",TCGA-AC-A23E,AC,A23E,e7bae6e7-f779-449d-92b9-66996041e00d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",18,7,2011,2
+232,FEMALE,Alive,"
+            ",TCGA-BH-A0HY,BH,A0HY,844ad251-3ee4-42f6-ad00-59a7a1670eea,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",2,8,2011,3
+233,FEMALE,Alive,"
+            ",TCGA-E2-A1LS,E2,A1LS,91a2f2af-e4b1-4a0b-ab20-6a36ce63c533,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",3,6,2011,5
+234,FEMALE,Alive,"
+            ",TCGA-AC-A2FB,AC,A2FB,02BBB632-0F7F-439D-B8F0-C86A06237424,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",20,9,2011,3
+235,FEMALE,Alive,"
+            ",TCGA-E2-A1L6,E2,A1L6,2e32f31f-9817-4935-b259-96c59936ee33,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,6,2011,2
+236,FEMALE,Alive,"
+            ",TCGA-A7-A13F,A7,A13F,2cf68894-168b-458b-af4f-53cad72989a8,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",2,3,2011,7
+237,FEMALE,Alive,"
+            ",TCGA-E2-A9RU,E2,A9RU,6F18F96E-C0C9-4CC4-9FB2-CBA8949D5402,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",16,6,2014,2
+238,FEMALE,Alive,"
+            ",TCGA-A8-A08G,A8,A08G,719082cc-1ebe-4a51-a659-85a59db1d77d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+239,FEMALE,Alive,"
+            ",TCGA-BH-A0BP,BH,A0BP,f251cb6c-d18e-4691-9c82-24ed1ac0abf9,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,8,2011,3
+240,FEMALE,Dead,"
+            ",TCGA-E2-A1LK,E2,A1LK,1d27253f-b036-44e7-a04d-8da5bbf57419,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",3,6,2011,3
+241,FEMALE,Alive,"
+            ",TCGA-B6-A0RN,B6,A0RN,2199b7a1-bd47-4bb5-b36a-a3e291e3e259,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",2,11,2010,3
+242,FEMALE,Alive,"
+            ",TCGA-BH-A0BA,BH,A0BA,49dc3e68-6206-4f16-969f-a758cc7be8ed,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Negative,"
+            ",4,11,2010,5
+243,FEMALE,Alive,"
+            ",TCGA-C8-A1HN,C8,A1HN,86a18ae0-dfb1-49c3-b5c4-67ec331d6e40,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",2,6,2011,2
+244,FEMALE,Alive,"
+            ",TCGA-E9-A22B,E9,A22B,b956df1b-bc77-4bdb-a5bd-5dda7b4c8da7,YES,C50.9,8522/3,C50.9,0,Negative,Positive,Negative,"
+            ",2,8,2011,2
+245,FEMALE,Alive,"
+            ",TCGA-BH-A8FZ,BH,A8FZ,1CC30842-4A5B-4F07-B36F-5B84CEAA5662,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",25,3,2014,1
+246,FEMALE,Alive,"
+            ",TCGA-A8-A09I,A8,A09I,1557183c-aedd-4df6-b98a-3654667f7b69,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+247,FEMALE,Alive,"
+            ",TCGA-A2-A0YM,A2,A0YM,5cbf0aea-ebb4-4005-bdd5-14ef2dc6826c,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",8,12,2010,3
+248,FEMALE,Alive,"
+            ",TCGA-E9-A1RH,E9,A1RH,408cb583-6dc3-4698-8bd2-e284042bd5ef,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",2,8,2011,5
+249,FEMALE,Alive,"
+            ",TCGA-A2-A0CR,A2,A0CR,4CF0F639-7940-48B6-8EA1-2A3494097CDB,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",5,6,2012,3
+250,FEMALE,Alive,"
+            ",TCGA-E9-A1NH,E9,A1NH,b2aac45b-2073-4c7a-adb9-769a4fdcc111,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",23,6,2011,5
+251,FEMALE,Alive,"
+            ",TCGA-E9-A3HO,E9,A3HO,807B62ED-D3F7-4211-83BE-754386FF2C96,YES,C50.9,8520/3,C50.9,0,null,null,null,"
+            ",20,2,2012,2
+252,FEMALE,Alive,"
+            ",TCGA-V7-A7HQ,V7,A7HQ,1285EB55-415C-494A-AA58-936F0427CDD0,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",31,3,2015,1
+253,FEMALE,Alive,"
+            ",TCGA-D8-A143,D8,A143,1c40b84e-a0e3-429f-a48c-21566cf881c0,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",25,2,2011,3
+254,FEMALE,Alive,"
+            ",TCGA-BH-A201,BH,A201,3bf81a9f-abb4-4495-a514-fd3865e13a03,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",8,9,2011,2
+255,FEMALE,Alive,"
+            ",TCGA-A7-A2KD,A7,A2KD,92654F8D-5137-4FFD-AAA3-5AE38EB88226,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",11,10,2011,2
+256,FEMALE,Alive,"
+            ",TCGA-AR-A2LO,AR,A2LO,AD0FA961-C085-4F38-B3DB-5FC0CBF6B64F,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",12,1,2012,2
+257,FEMALE,Alive,"
+            ",TCGA-B6-A0X1,B6,A0X1,178b2c48-c07d-422e-ae17-8bcfd996ad51,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",14,12,2010,3
+258,FEMALE,Alive,"
+            ",TCGA-E2-A1B6,E2,A1B6,e0b1bcd2-1139-44b9-98b3-67bcf92bcc39,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",25,4,2011,2
+259,FEMALE,Alive,"
+            ",TCGA-C8-A9FZ,C8,A9FZ,726C6892-0DCE-4869-A7A7-CC44C26FE843,YES,C50.9,8524/3,C50.9,0,null,null,Negative,"
+            ",29,12,2014,2
+260,FEMALE,Alive,"
+            ",TCGA-B6-A1KI,B6,A1KI,1dafdd64-527d-4d46-bbdf-7a97774f881b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",19,7,2011,2
+261,FEMALE,Dead,"
+            ",TCGA-A2-A0CU,A2,A0CU,332423a7-8866-4ee3-b08f-3c8d7c16af80,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",9,9,2010,3
+262,FEMALE,Alive,"
+            ",TCGA-EW-A1IZ,EW,A1IZ,c0f88fc5-56b0-4255-bbd1-9a21ced8b37b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,5,2011,2
+263,FEMALE,Alive,"
+            ",TCGA-A8-A09E,A8,A09E,dfefb76a-ec6b-4cd2-9d45-2e1e4befc7ea,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+264,FEMALE,Alive,"
+            ",TCGA-D8-A1JI,D8,A1JI,baf2afc8-f16c-488f-947c-efc9083c6bef,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",30,3,2011,3
+265,FEMALE,Alive,"
+            ",TCGA-UL-AAZ6,UL,AAZ6,4B54E06E-A280-4981-A4E1-9AEA154341B4,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",28,8,2014,2
+266,FEMALE,Dead,"
+            ",TCGA-BH-A1FH,BH,A1FH,1783cac1-253a-40af-a9ac-48dfb20e1ab8,YES,C50.9,8500/3,C50.9,0,Negative,Positive,null,"
+            ",8,9,2011,7
+267,FEMALE,Alive,"
+            ",TCGA-BH-A0HF,BH,A0HF,17ca61a2-607a-45ff-88fa-ef72e80bf891,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,11,2010,3
+268,FEMALE,Alive,"
+            ",TCGA-AC-A7VC,AC,A7VC,2B36853F-34D3-47C5-BA6A-E5A93233D2B1,YES,C50.9,8575/3,C50.9,0,Negative,Negative,Negative,"
+            ",29,3,2014,2
+269,FEMALE,Alive,"
+            ",TCGA-E2-A15P,E2,A15P,a1674d7b-787a-45c4-bf16-1b7d0efce207,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",14,4,2011,2
+270,FEMALE,Alive,"
+            ",TCGA-AC-A3OD,AC,A3OD,F2622CDB-AC92-42B3-A1CA-67E133C3DD4A,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",19,4,2012,4
+271,FEMALE,Dead,"
+            ",TCGA-B6-A0X4,B6,A0X4,4e42fdc5-2a8b-49e9-87ef-6db7a6692d08,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",14,12,2010,3
+272,FEMALE,Alive,"
+            ",TCGA-AO-A12H,AO,A12H,b5b99291-507e-4b68-a039-9a0f571f55df,YES,C50.9,8523/3,C50.9,0,Positive,Positive,Negative,"
+            ",8,12,2010,3
+273,FEMALE,Alive,"
+            ",TCGA-E9-A1NE,E9,A1NE,3d676bba-154b-4d22-ab59-d4d4da051b94,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Negative,"
+            ",23,6,2011,6
+274,FEMALE,Alive,"
+            ",TCGA-A8-A0A6,A8,A0A6,4b0d295c-e185-4b52-9752-178e5bc1d47d,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,2
+275,FEMALE,Alive,"
+            ",TCGA-LL-A6FQ,LL,A6FQ,92B842C5-F71B-4EF7-BA86-358D28E0966F,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",30,8,2013,2
+276,FEMALE,Alive,"
+            ",TCGA-A1-A0SP,A1,A0SP,a9bb8159-32f0-454c-a946-b3286a52b9d5,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",6,12,2010,3
+277,FEMALE,Alive,"
+            ",TCGA-B6-A0IO,B6,A0IO,04af44fc-c487-4005-b3cb-cb64815824a2,YES,C50.9,8500/3,C50.9,0,Indeterminate,Positive,null,"
+            ",2,11,2010,3
+278,FEMALE,Alive,"
+            ",TCGA-GM-A2DF,GM,A2DF,D6F7AFC0-1558-43AD-ACB1-2B5311ED2264,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",29,9,2011,2
+279,FEMALE,Alive,"
+            ",TCGA-D8-A1XA,D8,A1XA,739cb132-51e9-41be-8064-311a13da0d74,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",18,5,2011,2
+280,FEMALE,Alive,"
+            ",TCGA-EW-A1OZ,EW,A1OZ,8f912a40-3251-4e1f-ae65-1f93d71f9881,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",11,5,2011,2
+281,FEMALE,Dead,"
+            ",TCGA-BH-A1FB,BH,A1FB,ecab16bc-28d5-4c3a-8735-3c785bd047c4,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,9,2011,5
+282,FEMALE,Alive,"
+            ",TCGA-AN-A0XV,AN,A0XV,ac18b3a3-8d52-4e35-8625-673171a7fd92,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",29,3,2011,2
+283,FEMALE,Dead,"
+            ",TCGA-BH-A1FN,BH,A1FN,6dd0dd7b-62ff-4fd1-a99a-b265f1a91dca,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",8,9,2011,3
+284,FEMALE,Alive,"
+            ",TCGA-A8-A0AB,A8,A0AB,22eaba28-be67-4730-9846-860bc1fca29a,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+285,FEMALE,Alive,"
+            ",TCGA-BH-A0B9,BH,A0B9,5a57dc25-d252-4b22-b192-4de630d7002f,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",4,11,2010,3
+286,FEMALE,Alive,"
+            ",TCGA-C8-A135,C8,A135,33cea538-4c3f-470a-972d-257c43241ab4,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",15,4,2011,3
+287,FEMALE,Alive,"
+            ",TCGA-A8-A0A2,A8,A0A2,34d5a193-85e5-4399-8a9b-e92858eafdfe,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+288,FEMALE,Alive,"
+            ",TCGA-E2-A10C,E2,A10C,9ac44381-5d43-4f63-aa3f-7703bfc923c9,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,2,2011,3
+289,FEMALE,Alive,"
+            ",TCGA-AR-A252,AR,A252,4d0fec97-e024-4608-a0cc-426a3decc7b1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",30,8,2011,2
+290,FEMALE,Alive,"
+            ",TCGA-GM-A2DM,GM,A2DM,753D5D49-3B40-4737-9D4C-B1EC29CC2692,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",30,9,2011,2
+291,FEMALE,Alive,"
+            ",TCGA-B6-A0WT,B6,A0WT,d7195183-9fe4-4b17-bcfd-9367d2e539ce,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",14,12,2010,3
+292,FEMALE,Alive,"
+            ",TCGA-A7-A26E,A7,A26E,011b9b2d-ebe5-42bf-9662-d922faccc7a1,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,7,2011,6
+293,FEMALE,Alive,"
+            ",TCGA-A2-A3XX,A2,A3XX,53886143-C1C6-40E9-88E6-E4E5E0271FC8,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",15,8,2012,2
+294,FEMALE,Dead,"
+            ",TCGA-B6-A0WY,B6,A0WY,f475d460-75cd-4fe9-aa54-c90be12b4ef8,YES,C50.9,8500/3,C50.9,0,Negative,Positive,null,"
+            ",14,12,2010,3
+295,MALE,Alive,"
+            ",TCGA-AC-A62V,AC,A62V,D5F2B85A-94A9-4168-BBE8-149EC71342B0,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",21,10,2013,2
+296,FEMALE,Alive,"
+            ",TCGA-AO-A03P,AO,A03P,2d4c778c-7f77-4f0a-8261-2086accf15fd,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",19,9,2010,3
+297,FEMALE,Alive,"
+            ",TCGA-B6-A400,B6,A400,D9A1C06F-7B50-46B0-878E-89E8C31863AE,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",20,9,2012,1
+298,FEMALE,Alive,"
+            ",TCGA-A7-A3IZ,A7,A3IZ,15FF4B02-BB69-4D24-8A07-B82F428E428D,YES,C50.9,8520/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",12,3,2012,2
+299,FEMALE,Alive,"
+            ",TCGA-B6-A0RG,B6,A0RG,9b13927c-7357-44fd-8385-92ae6a656b7d,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",2,11,2010,3
+300,FEMALE,Alive,"
+            ",TCGA-C8-A12N,C8,A12N,b8a615f9-d19b-4b09-8ec8-0674e5c648cd,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",12,4,2011,3
+301,FEMALE,Alive,"
+            ",TCGA-MS-A51U,MS,A51U,910655DA-2C12-4572-96B7-DED616E69B4B,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",12,9,2012,2
+302,FEMALE,Alive,"
+            ",TCGA-AR-A24X,AR,A24X,491d5ebb-e9ab-4b17-acb8-630ff9fef0f2,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",30,8,2011,2
+303,FEMALE,Alive,"
+            ",TCGA-B6-A0I5,B6,A0I5,1a18974d-967c-4727-b42e-12ae7be66589,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",2,11,2010,3
+304,FEMALE,Alive,"
+            ",TCGA-XX-A899,XX,A899,F89588E9-CA73-4465-A7FB-7246EDB45E3A,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,2,2014,6
+305,FEMALE,Alive,"
+            ",TCGA-C8-A26W,C8,A26W,ff0f875f-113a-4c0f-8c0a-4259cd496e6d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",21,7,2011,2
+306,FEMALE,Alive,"
+            ",TCGA-A8-A092,A8,A092,38a8b734-9acc-42f9-b5b7-e51b0dfc6504,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+307,FEMALE,Alive,"
+            ",TCGA-A2-A3XT,A2,A3XT,C72CB184-462D-4009-9CDB-848782FF8A76,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",17,8,2012,2
+308,FEMALE,Alive,"
+            ",TCGA-GM-A2DN,GM,A2DN,56BBD282-B88D-4730-9242-AB97D08DC83A,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",30,9,2011,2
+309,FEMALE,Alive,"
+            ",TCGA-D8-A1JC,D8,A1JC,02e6f999-24f2-4ad2-9b92-df3ee2b082e5,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,3,2011,3
+310,FEMALE,Alive,"
+            ",TCGA-HN-A2NL,HN,A2NL,124B693C-77DC-4FA8-B703-54E8B5054A92,YES,C50.9,8520/3,C50.9,0,Negative,Negative,Negative,"
+            ",30,5,2014,2
+311,FEMALE,Alive,"
+            ",TCGA-A7-A3J0,A7,A3J0,DA70CF7E-0E61-4C72-B4C5-C408569D11B8,YES,C50.9,8480/3,C50.9,0,Positive,Positive,Negative,"
+            ",13,3,2012,2
+312,FEMALE,Alive,"
+            ",TCGA-D8-A1JB,D8,A1JB,dd96a9c7-899c-47cd-a0f9-b149ed07a5d6,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",29,3,2011,2
+313,FEMALE,Dead,"
+            ",TCGA-B6-A0X0,B6,A0X0,1e68e760-a4cf-4100-bf9c-e50fa8d126f6,YES,C50.9,8201/3,C50.919,0,Positive,Positive,null,"
+            ",15,3,2011,3
+314,FEMALE,Alive,"
+            ",TCGA-C8-A12M,C8,A12M,dd0f8e5a-383d-4f03-bb71-0e115d4e442c,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",12,4,2011,3
+315,FEMALE,Alive,"
+            ",TCGA-A2-A04Q,A2,A04Q,b5fba77b-1f50-4e71-95b2-566afba4bdd7,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",10,8,2010,3
+316,FEMALE,Alive,"
+            ",TCGA-B6-A2IU,B6,A2IU,9857BE0C-AECA-4A43-90B1-0535BD08E086,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",11,1,2012,2
+317,FEMALE,Dead,"
+            ",TCGA-BH-A18V,BH,A18V,6b960b58-28e1-41c6-bd6e-7e669c6aa4ef,YES,C50.4,8500/3,C50.4,0,Negative,Negative,Negative,"
+            ",2,7,2011,8
+318,FEMALE,Alive,"
+            ",TCGA-C8-A12W,C8,A12W,6adca853-1b09-47ff-814c-47b732a76d96,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",13,4,2011,3
+319,FEMALE,Alive,"
+            ",TCGA-A2-A0EO,A2,A0EO,bf88ddf5-a6d4-498c-bf7f-db9bfabff72d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,8,2010,3
+320,FEMALE,Alive,"
+            ",TCGA-A2-A04R,A2,A04R,f3a058b9-fb7f-4098-8f0e-83c2acfa1ed5,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",8,10,2010,3
+321,FEMALE,Alive,"
+            ",TCGA-AN-A04A,AN,A04A,e5aae05a-478e-4a55-a27c-12b2b4be302a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,12,2010,2
+322,FEMALE,Alive,"
+            ",TCGA-A8-A0A7,A8,A0A7,995fdab7-7284-4d33-befa-ec22aa7c6479,YES,C50.9,8520/3,C50.9,0,Negative,Negative,Positive,"
+            ",27,5,2011,3
+323,FEMALE,Alive,"
+            ",TCGA-C8-A130,C8,A130,8cf54607-01ce-42b0-9bd9-8627edd9f3b7,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",13,4,2011,3
+324,FEMALE,Alive,"
+            ",TCGA-A8-A07O,A8,A07O,cf9db1af-17f0-490e-8139-142bd704763a,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",27,5,2011,3
+325,FEMALE,Alive,"
+            ",TCGA-GM-A5PX,GM,A5PX,F7064D01-29D8-49A2-AD60-1E0C5F148F3E,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",12,4,2013,1
+326,FEMALE,Alive,"
+            ",TCGA-BH-A0HA,BH,A0HA,e666081b-caaf-4e8b-9446-807be71201a5,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",2,8,2011,4
+327,FEMALE,Alive,"
+            ",TCGA-OL-A6VR,OL,A6VR,DB3E1CE8-4A05-4BFC-B5AE-13CF789369E1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",5,12,2013,1
+328,FEMALE,Alive,"
+            ",TCGA-E2-A14P,E2,A14P,e4fc0909-f284-4471-866d-d8967b6adcbc,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",31,3,2011,2
+329,FEMALE,Alive,"
+            ",TCGA-E9-A1R0,E9,A1R0,f2da1d3f-f226-4c99-a97e-9b26f67d7a5d,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",28,7,2011,2
+330,FEMALE,Alive,"
+            ",TCGA-AO-A03N,AO,A03N,9435447e-d65f-408b-863b-6576b1d652dd,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",13,1,2011,3
+331,FEMALE,Alive,"
+            ",TCGA-Z7-A8R6,Z7,A8R6,B1D44C81-747D-471F-9093-AEB262A17975,YES,C50.8,8022/3,C50.8,0,Positive,Positive,Negative,"
+            ",9,7,2014,2
+332,FEMALE,Dead,"
+            ",TCGA-A8-A06U,A8,A06U,6bc4c56d-aac5-49a2-9913-9538d06d898f,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+333,FEMALE,Alive,"
+            ",TCGA-E2-A10A,E2,A10A,4da7abaf-ac7a-41c0-8033-5780a398545c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",11,2,2011,3
+334,FEMALE,Alive,"
+            ",TCGA-A2-A04W,A2,A04W,00807dae-9f4a-4fd1-aac2-82eb11bf2afb,YES,C50.9,8401/3,C50.9,0,Negative,Negative,Positive,"
+            ",5,1,2011,3
+335,FEMALE,Alive,"
+            ",TCGA-EW-A1IY,EW,A1IY,5ff12cbe-a3e0-4ce6-8452-12b984a1baaf,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,5,2011,2
+336,FEMALE,Alive,"
+            ",TCGA-A7-A0CH,A7,A0CH,9de678e5-67ed-4453-a98b-7ac351d5d0f1,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",4,10,2010,6
+337,FEMALE,Alive,"
+            ",TCGA-E9-A54Y,E9,A54Y,182C4BDF-2C58-4303-B034-459DA86B9D90,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,6,2013,2
+338,FEMALE,Dead,"
+            ",TCGA-B6-A0WX,B6,A0WX,a482fc4c-ff1d-46a0-a968-7df06422cc4b,YES,C50.9,8520/3,C50.9,0,Negative,Negative,null,"
+            ",14,12,2010,3
+339,FEMALE,Alive,"
+            ",TCGA-XX-A89A,XX,A89A,CA20249F-B7EA-4FD9-9ECB-34F74755AE35,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,2,2014,2
+340,FEMALE,Alive,"
+            ",TCGA-A8-A07J,A8,A07J,316625b8-a217-4829-90d1-dfd9cb7e4bc3,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,4
+341,FEMALE,Alive,"
+            ",TCGA-C8-A138,C8,A138,b6c286c6-2755-419b-87d3-59c7feda9653,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",15,4,2011,3
+342,FEMALE,Alive,"
+            ",TCGA-A8-A07C,A8,A07C,b6633c36-7ce4-4b69-9bf6-30b64d46c66f,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",27,5,2011,3
+343,FEMALE,Alive,"
+            ",TCGA-OL-A66J,OL,A66J,96E1FC6D-693F-4F4F-B5F7-8D6E1C6C43F8,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",11,6,2013,2
+344,FEMALE,Alive,"
+            ",TCGA-GM-A2DH,GM,A2DH,5700C1B3-922A-4401-8AB8-89028908D696,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",29,9,2011,2
+345,FEMALE,Alive,"
+            ",TCGA-B6-A0RI,B6,A0RI,bfd55808-dddd-44c3-97d7-41600497b992,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",2,11,2010,3
+346,FEMALE,Alive,"
+            ",TCGA-E9-A1RF,E9,A1RF,c694615c-b1c6-499c-8058-995633ebf948,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",2,8,2011,5
+347,FEMALE,Alive,"
+            ",TCGA-GM-A2DL,GM,A2DL,A76774FE-7298-4D68-A2B2-C1BAD93F0C31,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,9,2011,2
+348,FEMALE,Alive,"
+            ",TCGA-A7-A0CG,A7,A0CG,67eef990-5ff4-45d1-843d-d22d7848f130,YES,C50.9,8522/3,C50.9,0,Negative,Positive,Negative,"
+            ",7,10,2010,4
+349,FEMALE,Alive,"
+            ",TCGA-AR-A0TU,AR,A0TU,dfe6db17-cf45-488e-bd3c-b8433d7343ca,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",10,3,2011,3
+350,FEMALE,Alive,"
+            ",TCGA-A8-A084,A8,A084,3dbe99d1-e3b8-4ee2-b6a8-2e2e12c6fbe9,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",27,5,2011,3
+351,FEMALE,Alive,"
+            ",TCGA-EW-A3U0,EW,A3U0,D9DC3B59-613D-469E-8B4F-6C5A557EB26A,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",24,5,2012,2
+352,FEMALE,Dead,"
+            ",TCGA-B6-A0RS,B6,A0RS,9416ff9b-6f29-4554-b04d-b537a3ae3969,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",2,11,2010,3
+353,FEMALE,Alive,"
+            ",TCGA-A8-A093,A8,A093,02f5ae33-a563-4ecb-9e33-dfa500a44931,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+354,FEMALE,Alive,"
+            ",TCGA-LL-A73Y,LL,A73Y,EA645243-DF49-4466-A255-9F3D4321E357,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",12,11,2013,2
+355,FEMALE,Alive,"
+            ",TCGA-BH-A6R9,BH,A6R9,43CC074D-B85A-4B0B-8FEB-833094FFC565,YES,C50.9,8575/3,C50.9,0,Positive,Negative,Negative,"
+            ",13,2,2014,1
+356,FEMALE,Alive,"
+            ",TCGA-E2-A576,E2,A576,F04DCA9E-409B-4300-B11D-12243E5D361D,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",10,9,2013,2
+357,FEMALE,Alive,"
+            ",TCGA-E2-A15D,E2,A15D,c85f080a-1075-41df-959f-1b514a11b3c4,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",13,4,2011,2
+358,FEMALE,Alive,"
+            ",TCGA-AO-A0J4,AO,A0J4,a9b7d7fe-be31-4f71-afee-c1bfdf511888,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",19,9,2010,3
+359,FEMALE,Alive,"
+            ",TCGA-AC-A62Y,AC,A62Y,05AF737D-89AA-49B6-97B2-28B8AC8BD2CF,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",19,9,2013,2
+360,FEMALE,Alive,"
+            ",TCGA-AO-A0JD,AO,A0JD,0a229f95-0ea1-4d63-953e-74f5ec2f3028,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",20,9,2010,3
+361,FEMALE,Alive,"
+            ",TCGA-A8-A08O,A8,A08O,5f5964a8-8e07-4620-98f0-93d162dbc31e,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+362,FEMALE,Alive,"
+            ",TCGA-E2-A56Z,E2,A56Z,45C3975C-D333-4237-93F7-E12DC2451C38,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",20,6,2013,2
+363,FEMALE,Alive,"
+            ",TCGA-AC-A2BM,AC,A2BM,8159FF7B-89F4-411A-9B9C-491F1CB3EB34,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",12,9,2011,3
+364,FEMALE,Alive,"
+            ",TCGA-A8-A07L,A8,A07L,e89a9deb-6321-4e61-b412-b4993d4277dd,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+365,FEMALE,Alive,"
+            ",TCGA-BH-A0H0,BH,A0H0,96457ebf-ae88-41f4-97e5-cdc3163418aa,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,11,2010,2
+366,FEMALE,Alive,"
+            ",TCGA-E9-A1ND,E9,A1ND,f06f09f3-8133-4a92-ac86-fbe64295e0d8,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",23,6,2011,6
+367,FEMALE,Alive,"
+            ",TCGA-GM-A2DO,GM,A2DO,5FD37868-4762-4109-9DCF-6FDBAB5B645D,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",30,9,2011,2
+368,FEMALE,Alive,"
+            ",TCGA-BH-A0HL,BH,A0HL,602083f0-18d9-48b6-a529-31e165c54b37,YES,C50.9,8503/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",10,11,2010,3
+369,FEMALE,Alive,"
+            ",TCGA-BH-A0BO,BH,A0BO,26573441-eedb-4364-966c-e7f803deef19,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,8,2011,5
+370,FEMALE,Alive,"
+            ",TCGA-BH-A0DK,BH,A0DK,f2bbfa9d-9a9d-4f46-9fde-378e4c44e2ad,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",8,11,2010,5
+371,FEMALE,Dead,"
+            ",TCGA-A2-A0T2,A2,A0T2,128d198e-9b22-427c-90db-3714455f3a17,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",12,11,2010,3
+372,FEMALE,Alive,"
+            ",TCGA-D8-A1Y1,D8,A1Y1,38a631a1-6875-4216-a335-ee93c90a86d6,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,6,2011,3
+373,FEMALE,Alive,"
+            ",TCGA-BH-A0BG,BH,A0BG,4f608829-ffc4-4527-886e-6bc764ab29f5,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",8,8,2011,3
+374,FEMALE,Alive,"
+            ",TCGA-AC-A4ZE,AC,A4ZE,0CF0D67C-2F7F-42A6-94F3-407D0EC46C88,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",9,6,2015,2
+375,FEMALE,Alive,"
+            ",TCGA-C8-A134,C8,A134,f1692f4b-ce1b-4fc5-ac55-1022ecae0d1e,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",15,4,2011,3
+376,FEMALE,Alive,"
+            ",TCGA-OL-A66I,OL,A66I,35BD694D-1DD2-466F-AB27-03320614B40E,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",11,6,2013,2
+377,FEMALE,Alive,"
+            ",TCGA-BH-A0W5,BH,A0W5,da9c10ea-c13f-4d88-8b94-a0cbc106d036,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",15,2,2011,3
+378,FEMALE,Alive,"
+            ",TCGA-C8-A131,C8,A131,c49e3b18-fd88-48f4-8b01-300692ceb367,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",15,4,2011,3
+379,FEMALE,Alive,"
+            ",TCGA-BH-A0DE,BH,A0DE,7f0bbba1-9bc3-45db-bdda-eb3319bb15d2,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,8,2011,4
+380,FEMALE,Alive,"
+            ",TCGA-BH-A0C1,BH,A0C1,d10a4887-373b-4726-a61d-126f950e4a06,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,8,2011,3
+381,FEMALE,Alive,"
+            ",TCGA-C8-A26Y,C8,A26Y,4d51159f-ab2f-40e3-a363-847c3654431e,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",21,7,2011,2
+382,FEMALE,Alive,"
+            ",TCGA-A8-A086,A8,A086,f9eb88f7-9293-46bf-ace4-a746e4ff80dc,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+383,FEMALE,Alive,"
+            ",TCGA-A2-A4S3,A2,A4S3,418C11E8-2670-48D5-BBF5-95B46BFF1201,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,2,2013,2
+384,FEMALE,Alive,"
+            ",TCGA-OL-A66L,OL,A66L,AF0ACAA9-A61C-4E57-BC0D-453AD5BF193A,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",11,6,2013,2
+385,FEMALE,Alive,"
+            ",TCGA-A7-A3J1,A7,A3J1,8F9AD301-6699-4078-A80D-886E40894AF7,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",12,3,2012,2
+386,FEMALE,Alive,"
+            ",TCGA-GM-A2DK,GM,A2DK,3A0775A0-61AE-43F2-B5F6-629A44355C2F,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",29,9,2011,2
+387,FEMALE,Alive,"
+            ",TCGA-A2-A25D,A2,A25D,3b963d72-ba5c-467b-83c9-fbdb462510a3,YES,C50.9,8520/3,C50.9,0,Negative,Positive,Negative,"
+            ",21,6,2011,2
+388,FEMALE,Alive,"
+            ",TCGA-AN-A0FJ,AN,A0FJ,546248b0-22a0-4b70-a437-76fb0a238a0d,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",27,12,2010,3
+389,FEMALE,Alive,"
+            ",TCGA-EW-A1PG,EW,A1PG,da286247-e8bb-4941-a2af-2453fe61cd02,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",18,5,2011,2
+390,FEMALE,Alive,"
+            ",TCGA-A8-A07Z,A8,A07Z,a272171b-44f5-47a5-89be-7520413c01ad,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+391,FEMALE,Dead,"
+            ",TCGA-AR-A256,AR,A256,d3d545b3-457f-4389-821f-704cb24aff7f,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",31,8,2011,2
+392,FEMALE,Alive,"
+            ",TCGA-AC-A2BK,AC,A2BK,6FA2A667-9C36-4526-8A58-1975E863A806,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",16,9,2011,3
+393,FEMALE,Alive,"
+            ",TCGA-B6-A40C,B6,A40C,FD0B1B8B-1A76-480A-B61C-D176E4E02C6B,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",20,9,2012,1
+394,FEMALE,Alive,"
+            ",TCGA-LD-A74U,LD,A74U,38A4E9BD-93E9-432D-A756-3B1055B823BD,YES,C50.9,8524/3,C50.9,0,Negative,Positive,Negative,"
+            ",30,12,2013,2
+395,FEMALE,Alive,"
+            ",TCGA-E9-A22A,E9,A22A,4aacbc42-5ac5-4339-b9fa-c6e812084837,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",2,8,2011,2
+396,FEMALE,Alive,"
+            ",TCGA-A2-A0T1,A2,A0T1,02bed00f-bef7-4fb7-b243-540354990e45,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",12,11,2010,3
+397,FEMALE,Alive,"
+            ",TCGA-E2-A1B5,E2,A1B5,7241b3d4-31ee-4fd2-a4a5-35a9d5f37d6a,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",25,4,2011,4
+398,FEMALE,Alive,"
+            ",TCGA-AO-A0JI,AO,A0JI,e17c565c-9857-4df3-a352-903b53093c85,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",7,12,2010,3
+399,FEMALE,Alive,"
+            ",TCGA-E9-A247,E9,A247,636b0a90-c8c2-4ad6-a77d-6cd428a826d1,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",18,8,2011,2
+400,FEMALE,Dead,"
+            ",TCGA-B6-A0WW,B6,A0WW,f02931f8-d72a-481d-b532-8b141dab115f,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",14,12,2010,3
+401,FEMALE,Alive,"
+            ",TCGA-A2-A3XZ,A2,A3XZ,FE7F74B8-20F4-4471-91DC-4CCA8C68E5C0,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",21,8,2012,2
+402,FEMALE,Alive,"
+            ",TCGA-A8-A09G,A8,A09G,3927f736-3b5c-48c8-9d9e-83669ec44770,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",27,5,2011,3
+403,FEMALE,Alive,"
+            ",TCGA-AR-A0TX,AR,A0TX,c364e81c-eb1e-4870-ab37-9c661f5f2e3d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",10,3,2011,3
+404,FEMALE,Alive,"
+            ",TCGA-BH-A0E2,BH,A0E2,8ace3b8c-f23e-48a9-a137-9e046bd9549b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,11,2010,3
+405,FEMALE,Alive,"
+            ",TCGA-C8-A1HK,C8,A1HK,52c35691-efca-42f5-a03e-02c9f872275c,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",1,6,2011,2
+406,FEMALE,Alive,"
+            ",TCGA-A8-A09N,A8,A09N,33919e92-4ea9-47e5-a6f4-36e51845d50f,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+407,FEMALE,Alive,"
+            ",TCGA-E9-A6HE,E9,A6HE,7E9C8D3C-790C-46AD-8F31-B557B7C26F69,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",16,10,2013,2
+408,FEMALE,Alive,"
+            ",TCGA-AR-A1AI,AR,A1AI,9848307d-1bd5-40c1-b655-a33297aaf74f,YES,C50.9,8510/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",15,6,2011,1
+409,FEMALE,Alive,"
+            ",TCGA-C8-A1HO,C8,A1HO,b3354b72-2637-4edc-9a95-e55801d3ac13,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",12,7,2011,2
+410,FEMALE,Alive,"
+            ",TCGA-E2-A14N,E2,A14N,752ad011-79e0-494f-9868-98bf6feb28f8,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",31,5,2011,2
+411,FEMALE,Alive,"
+            ",TCGA-PL-A8LZ,PL,A8LZ,9087585F-E792-4F33-BAAA-56FFE0F745BE,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",5,5,2014,3
+412,FEMALE,Alive,"
+            ",TCGA-GM-A2DA,GM,A2DA,C07B122E-AC50-4DB2-ADD2-5617A5D0E976,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",28,9,2011,2
+413,FEMALE,Alive,"
+            ",TCGA-AN-A0XL,AN,A0XL,4649dee3-b668-44cd-ab97-3834de3ef8f8,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",25,3,2011,3
+414,FEMALE,Alive,"
+            ",TCGA-A8-A07W,A8,A07W,01263518-5f7c-49dc-8d7e-84b0c03a6a63,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",25,5,2011,3
+415,FEMALE,Alive,"
+            ",TCGA-A8-A08S,A8,A08S,2779fa01-ac93-4e80-a997-3385f72172c3,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+416,FEMALE,Alive,"
+            ",TCGA-D8-A27N,D8,A27N,d5be2ab3-f748-480d-954b-385cf01b4c81,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",18,7,2011,3
+417,FEMALE,Alive,"
+            ",TCGA-A2-A0CQ,A2,A0CQ,ab34a9a2-d72d-4106-94fb-118844b1b60b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",10,8,2010,3
+418,FEMALE,Alive,"
+            ",TCGA-AO-A125,AO,A125,8577ffcb-242e-40e2-98d4-2831d952be34,YES,C50.9,8050/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,12,2010,3
+419,FEMALE,Alive,"
+            ",TCGA-JL-A3YW,JL,A3YW,A2434F47-2168-47D0-9BBB-981071597843,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",8,11,2012,2
+420,FEMALE,Alive,"
+            ",TCGA-BH-A0E1,BH,A0E1,606fbc6a-b41b-441d-9401-51e54912bf5e,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",9,11,2010,5
+421,FEMALE,Alive,"
+            ",TCGA-E2-A159,E2,A159,d7308344-5bab-4073-bb4f-4d8cd8d7bd17,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",7,4,2011,2
+422,FEMALE,Alive,"
+            ",TCGA-AN-A0XT,AN,A0XT,3e25056d-d137-49f5-abaa-f68509426600,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",28,3,2011,3
+423,FEMALE,Alive,"
+            ",TCGA-A1-A0SD,A1,A0SD,c462e422-eb8d-4daf-9897-2a9c6cbd783a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,9,2011,3
+424,FEMALE,Alive,"
+            ",TCGA-A2-A04Y,A2,A04Y,9ce7ce09-4409-4fa3-9f78-b2b24716f860,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,8,2010,3
+425,FEMALE,Alive,"
+            ",TCGA-D8-A1Y0,D8,A1Y0,ced2c048-b047-43ff-b0e7-cd7ad480850c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,6,2011,3
+426,FEMALE,Dead,"
+            ",TCGA-A1-A0SK,A1,A0SK,a5b44d66-c162-46b5-9df2-86305f0385c5,YES,C50.9,8013/3,C50.9,0,Negative,Negative,Negative,"
+            ",6,12,2010,3
+427,FEMALE,Alive,"
+            ",TCGA-AR-A24H,AR,A24H,6f89509c-f802-482e-b4da-94553aa76fe9,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,8,2011,2
+428,FEMALE,Alive,"
+            ",TCGA-OL-A5RZ,OL,A5RZ,7E8713BD-0B17-4F09-9696-BC29707D862B,YES,C50.9,8500/3,C50.9,0,Negative,Positive,null,"
+            ",16,5,2013,2
+429,FEMALE,Dead,"
+            ",TCGA-BH-A1FG,BH,A1FG,d4e7426c-9739-4585-9114-e564b13c7c02,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",8,9,2011,5
+430,FEMALE,Alive,"
+            ",TCGA-A8-A09R,A8,A09R,cb0a2055-2168-4454-8755-47dd613db36f,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+431,FEMALE,Alive,"
+            ",TCGA-AC-A6IV,AC,A6IV,8E11C5EC-C15A-48D4-85AC-B7B08A9ED827,YES,C50.9,8524/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",19,9,2013,2
+432,FEMALE,Dead,"
+            ",TCGA-BH-A1EO,BH,A1EO,4510295e-8aa7-4ef1-b2b7-91cc902f8200,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Negative,"
+            ",6,9,2011,5
+433,FEMALE,Dead,"
+            ",TCGA-BH-A1FL,BH,A1FL,14d1d84e-99e1-41ad-8892-3b4da3d4f948,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",8,9,2011,3
+434,FEMALE,Alive,"
+            ",TCGA-AO-A0JJ,AO,A0JJ,bef7b135-a727-45e8-850a-cc4cd56c49aa,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",20,9,2010,3
+435,FEMALE,Alive,"
+            ",TCGA-GM-A3XL,GM,A3XL,65CAC997-4D39-4501-85EC-4FCB328A8EB5,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",1,10,2012,2
+436,FEMALE,Alive,"
+            ",TCGA-BH-A42V,BH,A42V,57CF380D-AB52-467F-B9AE-740B2F84C820,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",17,1,2013,2
+437,FEMALE,Alive,"
+            ",TCGA-A2-A3XV,A2,A3XV,189E1F27-7738-413A-A4D4-97D41D592A13,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",24,8,2012,2
+438,FEMALE,Alive,"
+            ",TCGA-A2-A4S2,A2,A4S2,9DDC014D-9A8B-407B-845F-452A73F08E5E,YES,C50.9,8524/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,2,2013,2
+439,FEMALE,Alive,"
+            ",TCGA-A2-A1FV,A2,A1FV,cd0c96a4-6414-4efb-879b-7408b62ed5b6,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",26,5,2011,2
+440,FEMALE,Alive,"
+            ",TCGA-AR-A2LN,AR,A2LN,A076F135-BE82-40FA-8516-285ED355C965,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",12,1,2012,2
+441,FEMALE,Alive,"
+            ",TCGA-A2-A25C,A2,A25C,7aedb46a-48ec-4e0e-8baa-c9ea4c4a7cf1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",15,7,2011,2
+442,FEMALE,Alive,"
+            ",TCGA-A2-A0CT,A2,A0CT,378778d2-b331-4867-a93b-c64028c8b4c7,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",9,9,2010,3
+443,FEMALE,Alive,"
+            ",TCGA-D8-A1Y2,D8,A1Y2,c7d7a770-23c0-4310-ab48-1f6152dc2849,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Indeterminate,"
+            ",9,6,2011,3
+444,FEMALE,Alive,"
+            ",TCGA-AR-A5QP,AR,A5QP,3C275152-D04B-440C-9621-2FC05EA977B6,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",15,5,2013,2
+445,FEMALE,Alive,"
+            ",TCGA-AO-A12D,AO,A12D,2fe854b4-bac9-4801-9a1c-ee99388e8082,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",8,12,2010,3
+446,FEMALE,Alive,"
+            ",TCGA-A7-A426,A7,A426,D48E9F25-F083-4F88-A92D-C12D9F765BA6,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",5,11,2012,2
+447,FEMALE,Alive,"
+            ",TCGA-C8-A12O,C8,A12O,83f26720-007c-42c9-a7de-7484bf8afa89,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",13,4,2011,3
+448,FEMALE,Alive,"
+            ",TCGA-AR-A24W,AR,A24W,67526f5a-3a30-45b2-aeab-2b21a855063e,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,11,2011,2
+449,FEMALE,Alive,"
+            ",TCGA-D8-A1XC,D8,A1XC,ee14e049-b891-4dda-a730-8ce99bd93baf,YES,C50.9,8480/3,C50.9,0,Positive,Positive,Negative,"
+            ",16,5,2011,3
+450,FEMALE,Alive,"
+            ",TCGA-AC-A2QI,AC,A2QI,C57835BE-77AB-4CF5-9B23-62C11A7B2EAF,YES,C50.9,8520/3,C50.9,0,Negative,Positive,Negative,"
+            ",18,10,2011,2
+451,FEMALE,Alive,"
+            ",TCGA-D8-A1XV,D8,A1XV,87b85935-a058-44ad-8fb6-8511130eaffe,YES,C50.9,8480/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",16,5,2011,3
+452,FEMALE,Alive,"
+            ",TCGA-AN-A0XP,AN,A0XP,cf0e7e4e-b857-4db5-9ae2-551a899f77be,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",25,3,2011,3
+453,FEMALE,Alive,"
+            ",TCGA-BH-A0AY,BH,A0AY,93ed6066-b567-4e1c-ab81-23370f9d3452,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",3,11,2010,5
+454,FEMALE,Alive,"
+            ",TCGA-D8-A1JJ,D8,A1JJ,f7ab565c-83b5-4988-b9be-8a46f65dca8c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,3,2011,3
+455,FEMALE,Alive,"
+            ",TCGA-AC-A3YJ,AC,A3YJ,86CF879E-3B40-44DD-AAA7-6F49F54A15D9,YES,C50.9,8050/3,C50.9,0,Positive,Positive,null,"
+            ",3,10,2012,2
+456,FEMALE,Alive,"
+            ",TCGA-AC-A2FE,AC,A2FE,F6EEBD4B-B63A-4A9C-92D3-0D954A8A6655,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",3,12,2012,4
+457,FEMALE,Alive,"
+            ",TCGA-GM-A2DB,GM,A2DB,6E6B7742-A562-490B-BB72-04A5653852E4,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",28,9,2011,2
+458,FEMALE,Alive,"
+            ",TCGA-BH-A2L8,BH,A2L8,BAC4B268-C781-4408-96D8-43A48FEC7418,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,3,2012,2
+459,FEMALE,Alive,"
+            ",TCGA-A2-A3XW,A2,A3XW,C02699B5-580A-4D55-971E-F4692B2CCE57,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",15,8,2012,2
+460,FEMALE,Alive,"
+            ",TCGA-PE-A5DE,PE,A5DE,89C128B9-1C6B-4C04-A4AF-7066772E783C,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",24,4,2013,2
+461,FEMALE,Alive,"
+            ",TCGA-E9-A22E,E9,A22E,64d4dfae-8d91-464b-adc3-80ba7caf54ae,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",2,8,2011,2
+462,FEMALE,Dead,"
+            ",TCGA-BH-A18U,BH,A18U,233b02f3-c4f0-4a67-9db5-e68d5cdaccb6,YES,C50.4,8500/3,C50.4,0,Positive,Positive,Positive,"
+            ",2,7,2011,4
+463,FEMALE,Alive,"
+            ",TCGA-AC-A2QH,AC,A2QH,67C5F371-3FA9-47C5-8B15-C2DD9ACC8519,YES,C50.9,8575/3,C50.9,0,Negative,Negative,Negative,"
+            ",18,10,2011,4
+464,FEMALE,Alive,"
+            ",TCGA-GM-A2DC,GM,A2DC,DD43FFD9-DA18-4AD3-ABE7-6F443C76A717,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",29,9,2011,2
+465,FEMALE,Alive,"
+            ",TCGA-AC-A8OP,AC,A8OP,B9C6C069-2A2B-4CC7-A398-DC45C132D979,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Indeterminate,"
+            ",26,2,2014,2
+466,FEMALE,Dead,"
+            ",TCGA-BH-A1F0,BH,A1F0,21ef1730-e5a7-47ce-b419-d000bb59ae15,YES,C50.9,8500/3,C50.9,0,Indeterminate,Negative,Negative,"
+            ",7,9,2011,6
+467,FEMALE,Alive,"
+            ",TCGA-BH-A0W3,BH,A0W3,3c612e12-6de8-44fa-a095-805c45474821,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",14,2,2011,3
+468,FEMALE,Alive,"
+            ",TCGA-A2-A0CY,A2,A0CY,757df7b0-4774-4493-98bf-999ded9ac86e,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,9,2010,3
+469,FEMALE,Alive,"
+            ",TCGA-AN-A0FL,AN,A0FL,baf1207d-7d1a-4cad-ba58-62c26be2415e,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",28,12,2010,3
+470,FEMALE,Alive,"
+            ",TCGA-BH-A0B1,BH,A0B1,b4e4fea2-b802-4a86-923e-3fcbd3c708fe,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",3,11,2010,3
+471,FEMALE,Alive,"
+            ",TCGA-E2-A1IN,E2,A1IN,f43d622f-eed5-4933-adc6-ae9ad1e33028,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,4,2011,2
+472,FEMALE,Alive,"
+            ",TCGA-A7-A6VW,A7,A6VW,98E709E7-E195-4B37-9537-F6081AFFB609,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",29,10,2013,2
+473,FEMALE,Alive,"
+            ",TCGA-D8-A1XW,D8,A1XW,887b9e5b-99db-44ac-9c30-c0dc6877b41c,YES,C50.9,8500/3,C50.9,0,Positive,Negative,Negative,"
+            ",16,5,2011,3
+474,FEMALE,Alive,"
+            ",TCGA-A2-A0EN,A2,A0EN,5e670fec-8992-44bf-8657-f7f9a272306b,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",27,2,2015,3
+475,FEMALE,Alive,"
+            ",TCGA-B6-A0WZ,B6,A0WZ,08740d7f-5a5e-4dfa-bd48-7fbf228a7a28,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",14,12,2010,3
+476,FEMALE,Alive,"
+            ",TCGA-D8-A140,D8,A140,2585edbd-3488-4100-a4ab-a161252a31ee,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",26,2,2011,4
+477,FEMALE,Alive,"
+            ",TCGA-LL-A6FP,LL,A6FP,5C9D8163-A68E-43CE-9CBA-EFFB7405761E,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",3,9,2013,2
+478,FEMALE,Alive,"
+            ",TCGA-D8-A1XT,D8,A1XT,64975923-d032-4182-8565-59fc37127d8d,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",16,5,2011,2
+479,FEMALE,Alive,"
+            ",TCGA-E9-A5UP,E9,A5UP,A412B374-4D25-491F-B76F-DDAA989ACF59,YES,C50.9,8503/3,C50.9,0,null,null,null,"
+            ",23,5,2013,2
+480,FEMALE,Alive,"
+            ",TCGA-D8-A1X9,D8,A1X9,34a74805-300c-4773-ab59-2085fcc2e6cc,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Indeterminate,"
+            ",16,5,2011,2
+481,FEMALE,Alive,"
+            ",TCGA-C8-A8HQ,C8,A8HQ,6951FE6A-D7D1-4F41-85AF-76655B5D1F62,YES,C50.9,8480/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,12,2014,2
+482,FEMALE,Alive,"
+            ",TCGA-LL-A50Y,LL,A50Y,91DA548B-5C64-49C3-A44A-1EF115F53311,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",8,3,2013,2
+483,FEMALE,Alive,"
+            ",TCGA-AC-A23H,AC,A23H,7dcf550c-90ce-4f63-aecd-0e46897e2a3e,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",13,7,2011,3
+484,FEMALE,Alive,"
+            ",TCGA-E9-A1RC,E9,A1RC,5cdae21d-eee5-478f-932a-0f51fcf5f031,YES,C50.9,8522/3,C50.9,0,null,null,null,"
+            ",28,7,2011,5
+485,FEMALE,Alive,"
+            ",TCGA-OL-A5RY,OL,A5RY,8360CEC6-DAF6-41C9-9A4F-7FC03C958DCC,YES,C50.9,8500/3,C50.9,0,Negative,Positive,null,"
+            ",16,5,2013,2
+486,FEMALE,Alive,"
+            ",TCGA-A8-A09Z,A8,A09Z,81e7a3d3-be70-4834-8018-4d2cc077a4e6,YES,C50.9,8520/3,C50.9,0,Negative,Positive,Negative,"
+            ",27,5,2011,3
+487,FEMALE,Alive,"
+            ",TCGA-A1-A0SJ,A1,A0SJ,a2db9dd1-44d5-48b5-817c-a21a85fadb21,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",6,12,2010,3
+488,FEMALE,Alive,"
+            ",TCGA-EW-A1P0,EW,A1P0,81e32f39-3aa0-468b-87ed-dd2eb6165ddf,YES,C50.9,8523/3,C50.9,0,Negative,Positive,Negative,"
+            ",10,5,2011,2
+489,FEMALE,Alive,"
+            ",TCGA-AR-A1AM,AR,A1AM,EBD1512A-4865-4193-97B3-F599D555759A,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",20,11,2012,2
+490,FEMALE,Alive,"
+            ",TCGA-S3-AA17,S3,AA17,49A2FD48-744D-4D88-B9B4-8C778D4F48FD,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",21,4,2014,2
+491,FEMALE,Alive,"
+            ",TCGA-D8-A1XB,D8,A1XB,d2694b09-7844-4496-865c-5d3d8cd03330,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",16,5,2011,3
+492,FEMALE,Dead,"
+            ",TCGA-BH-A18Q,BH,A18Q,db4bc6aa-2e7d-4bcb-8519-a455f624d33b,YES,C50.8,8500/3,C50.8,0,Negative,Negative,Positive,"
+            ",24,6,2011,5
+493,FEMALE,Alive,"
+            ",TCGA-E2-A150,E2,A150,4ac693e9-10f3-46b3-9d46-df3af7b0d259,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",6,4,2011,2
+494,FEMALE,Alive,"
+            ",TCGA-BH-A0DZ,BH,A0DZ,478eb8aa-50b8-4ce5-98e4-d518ede4b174,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",9,11,2010,5
+495,FEMALE,Alive,"
+            ",TCGA-A8-A06Q,A8,A06Q,281f70c5-876f-44b3-84fb-f2302f85e74c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+496,FEMALE,Alive,"
+            ",TCGA-AO-A1KR,AO,A1KR,b7f74ae1-6f58-447c-be50-a7666eb19d9a,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",15,9,2011,2
+497,FEMALE,Dead,"
+            ",TCGA-A8-A09X,A8,A09X,27b05b15-a44b-45ed-a6e3-e7d1ca488ea9,YES,C50.9,8520/3,C50.9,0,Negative,Negative,Negative,"
+            ",27,5,2011,3
+498,FEMALE,Alive,"
+            ",TCGA-BH-A0HQ,BH,A0HQ,f31c21b6-0f7f-435b-9e24-97c909755c36,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,11,2010,3
+499,FEMALE,Alive,"
+            ",TCGA-JL-A3YX,JL,A3YX,75F6E476-233A-409C-A3EF-0240BE569813,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",8,11,2012,2
+500,FEMALE,Alive,"
+            ",TCGA-AO-A129,AO,A129,c70ee5e1-4703-4996-bb5c-f4cca0fb53ba,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",8,12,2010,3
+501,FEMALE,Alive,"
+            ",TCGA-AR-A1AQ,AR,A1AQ,98e0b4de-52fc-4945-9bf5-11e29368f939,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",14,6,2011,2
+502,FEMALE,Alive,"
+            ",TCGA-A8-A081,A8,A081,9d876f05-5080-4c4e-9bf5-45f631d381e5,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+503,FEMALE,Alive,"
+            ",TCGA-E9-A1R7,E9,A1R7,2680da86-c977-4611-b75f-df015283c023,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",28,7,2011,6
+504,FEMALE,Alive,"
+            ",TCGA-AR-A0TT,AR,A0TT,13ca97a1-75bb-4a49-b8c3-181e5b2c9e86,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",8,3,2011,3
+505,FEMALE,Alive,"
+            ",TCGA-EW-A6SC,EW,A6SC,97862B8E-9F76-4B19-A865-156A9C00FB1E,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",12,3,2015,2
+506,FEMALE,Alive,"
+            ",TCGA-3C-AALJ,3C,AALJ,427D0648-3F77-4FFC-B52C-89855426D647,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Indeterminate,"
+            ",28,7,2014,3
+507,FEMALE,Alive,"
+            ",TCGA-A7-A5ZX,A7,A5ZX,BA80DB4E-D899-4DA4-AE49-5263D98E1530,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",13,5,2013,4
+508,FEMALE,Alive,"
+            ",TCGA-B6-A401,B6,A401,48FF0420-0F19-4E9D-A75D-6C54949A461A,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",20,9,2012,1
+509,FEMALE,Alive,"
+            ",TCGA-E9-A228,E9,A228,b95eef8a-205f-4cf8-9d3c-ae51d406e1e0,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",2,8,2011,2
+510,FEMALE,Alive,"
+            ",TCGA-LL-A740,LL,A740,AA60FA8D-C374-40E0-AF2D-B007701E67E3,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",12,11,2013,2
+511,FEMALE,Dead,"
+            ",TCGA-BH-A1EW,BH,A1EW,9d166970-07c8-4ca3-9cfa-ed0049df9ecc,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",7,9,2011,6
+512,FEMALE,Alive,"
+            ",TCGA-D8-A27P,D8,A27P,c54d5507-bba5-4a1e-8885-3c3b1eed13c1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",18,7,2011,2
+513,FEMALE,Alive,"
+            ",TCGA-A2-A0ER,A2,A0ER,7455d832-ad66-40df-85d7-3a7051c4498d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",13,8,2010,3
+514,FEMALE,Alive,"
+            ",TCGA-BH-A0C7,BH,A0C7,e1119732-3e97-4259-bc69-dc4269d9496d,YES,C50.9,8500/3,C50.9,0,Negative,Positive,null,"
+            ",11,8,2011,3
+515,FEMALE,Dead,"
+            ",TCGA-A8-A08J,A8,A08J,68177e92-4784-45d9-af14-4ce0c00eae74,YES,C50.9,8541/3,C50.9,0,Negative,Positive,Negative,"
+            ",27,5,2011,3
+516,FEMALE,Alive,"
+            ",TCGA-BH-A0E9,BH,A0E9,76ace6aa-0505-442c-978a-f889cf2d44bb,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,8,2011,3
+517,FEMALE,Alive,"
+            ",TCGA-D8-A1JD,D8,A1JD,530ad151-703d-4638-851f-0b5111ff318b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,3,2011,3
+518,FEMALE,Alive,"
+            ",TCGA-E2-A574,E2,A574,029CE650-5E5A-4100-8596-CD94300E7EF5,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",20,6,2013,2
+519,FEMALE,Alive,"
+            ",TCGA-AR-A1AJ,AR,A1AJ,23e7a78a-1d56-4ad1-9bb4-72ec0178aff2,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",13,6,2011,2
+520,FEMALE,Alive,"
+            ",TCGA-OL-A66H,OL,A66H,76BD9BB9-9A8B-4A90-BB7C-EAFE76472EE4,YES,C50.9,8480/3,C50.9,0,Positive,Positive,null,"
+            ",11,6,2013,2
+521,FEMALE,Alive,"
+            ",TCGA-AN-A0XR,AN,A0XR,f51af6db-2655-47fb-9ffc-83a503a728ea,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",25,3,2011,2
+522,FEMALE,Alive,"
+            ",TCGA-A8-A075,A8,A075,7861a5f2-8910-4bcb-9c34-f79c5acd6e21,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+523,FEMALE,Alive,"
+            ",TCGA-A8-A08I,A8,A08I,7acf33e7-c386-45fd-8c9a-469600378687,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+524,FEMALE,Alive,"
+            ",TCGA-BH-A0WA,BH,A0WA,786e8dbe-442e-4551-87b3-b4c333b04dd4,YES,C50.9,8575/3,C50.9,0,Negative,Negative,Negative,"
+            ",16,2,2011,3
+525,FEMALE,Dead,"
+            ",TCGA-BH-A203,BH,A203,b3264748-947a-43aa-b227-b294fbcc8447,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",8,9,2011,3
+526,FEMALE,Dead,"
+            ",TCGA-B6-A0X7,B6,A0X7,5b9a5cd2-5ec8-48a0-b9f2-da9bede0b089,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",14,12,2010,3
+527,FEMALE,Alive,"
+            ",TCGA-EW-A1J1,EW,A1J1,ed6cef77-1bd9-4e3b-b576-550a91e4253a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,5,2011,2
+528,FEMALE,Alive,"
+            ",TCGA-AR-A24Z,AR,A24Z,9fefbe7c-f66a-4940-843e-285cb7b392c1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",30,8,2011,2
+529,FEMALE,Alive,"
+            ",TCGA-AN-A0AJ,AN,A0AJ,9646160a-f1f9-437b-8c7d-efb0b57bfb97,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Positive,"
+            ",20,12,2010,3
+530,FEMALE,Alive,"
+            ",TCGA-A7-A4SA,A7,A4SA,A2EFE7E1-ACA3-440F-825F-ED621EDCA69F,YES,C50.9,8520/3,C50.9,0,Negative,Positive,Negative,"
+            ",19,2,2013,7
+531,FEMALE,Alive,"
+            ",TCGA-D8-A1JP,D8,A1JP,752f4773-5a12-4485-a1f6-896e148ddf4d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,3,2011,2
+532,FEMALE,Alive,"
+            ",TCGA-A2-A0EX,A2,A0EX,9d8702e1-1a36-4bca-85ab-5f11d58d7953,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",13,8,2010,3
+533,FEMALE,Alive,"
+            ",TCGA-BH-A0H9,BH,A0H9,0f64edec-0f1f-4025-8a53-75f9534f7828,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",17,11,2010,5
+534,FEMALE,Alive,"
+            ",TCGA-E9-A1N8,E9,A1N8,ac075bc0-1b59-4557-beea-541694faee03,YES,C50.9,8500/3,C50.9,0,null,Negative,Negative,"
+            ",23,6,2011,6
+535,FEMALE,Alive,"
+            ",TCGA-BH-A18H,BH,A18H,878f975b-94fd-4d69-b7e7-1ed3ac2ee438,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",6,6,2011,2
+536,FEMALE,Alive,"
+            ",TCGA-A7-A0CD,A7,A0CD,09765b0a-94f6-47d2-af56-93368084ac3a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",5,10,2010,4
+537,FEMALE,Alive,"
+            ",TCGA-C8-A1HF,C8,A1HF,a2453bcb-90f2-4505-949d-a89cf4bfc9b8,YES,C50.9,8500/3,C50.9,0,Positive,Negative,Positive,"
+            ",24,5,2011,2
+538,FEMALE,Alive,"
+            ",TCGA-BH-A0BL,BH,A0BL,92b5de82-0221-4df1-8094-80f40c0bb4fa,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",8,8,2011,5
+539,FEMALE,Alive,"
+            ",TCGA-FA-A7DS,FA,A7DS,ED746CB9-0F2F-48CE-923A-3A9F9F00B331,YES,C50.9,9680/3,C50.9,0,null,null,null,"
+            ",13,11,2013,0
+540,FEMALE,Alive,"
+            ",TCGA-AR-A24N,AR,A24N,30047d32-0833-4aca-98d1-3b9ab7122863,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",16,8,2011,2
+541,FEMALE,Alive,"
+            ",TCGA-C8-A27B,C8,A27B,f0d8a1fe-e313-44f1-99cc-b965cbeeff0e,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",21,7,2011,2
+542,FEMALE,Alive,"
+            ",TCGA-EW-A2FW,EW,A2FW,E6F527A2-38EB-457E-BB39-3C5B9C0BCBEC,YES,C50.9,8503/3,C50.9,0,Positive,Positive,Negative,"
+            ",5,10,2011,2
+543,FEMALE,Alive,"
+            ",TCGA-A7-A0DB,A7,A0DB,f130f376-5801-40f9-975d-a7e2f7b5670d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",4,10,2010,8
+544,FEMALE,Alive,"
+            ",TCGA-D8-A1JF,D8,A1JF,dcd5e079-813a-4c1a-b320-0931468d2bbc,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",28,3,2011,2
+545,FEMALE,Alive,"
+            ",TCGA-A2-A0EW,A2,A0EW,8d5fe6e8-d2cc-481f-a6a1-9cb6e7982cde,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",5,1,2011,3
+546,FEMALE,Alive,"
+            ",TCGA-E2-A14T,E2,A14T,e0929c47-cff3-4518-a188-8764af01073a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",6,4,2011,2
+547,FEMALE,Alive,"
+            ",TCGA-A8-A09A,A8,A09A,b205bba0-1870-4458-9088-8817e20389fe,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+548,FEMALE,Alive,"
+            ",TCGA-BH-A18I,BH,A18I,9c1ceb7d-6fed-4c2f-a89a-bf3c5b15ca58,YES,C50.2,8500/3,C50.2,0,Positive,Positive,Positive,"
+            ",7,6,2011,2
+549,FEMALE,Alive,"
+            ",TCGA-AN-A04D,AN,A04D,49717f75-0f2d-4e1c-9a12-f1cd7877b80a,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",20,12,2010,2
+550,FEMALE,Alive,"
+            ",TCGA-AR-A1AH,AR,A1AH,a6e11b30-3ae8-4dd1-b04c-a730c6a79746,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",13,6,2011,2
+551,FEMALE,Alive,"
+            ",TCGA-AR-A24S,AR,A24S,074e8b06-3929-4896-9263-3b80ad6a355b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",30,8,2011,2
+552,FEMALE,Alive,"
+            ",TCGA-D8-A1XO,D8,A1XO,6a186809-3422-41d0-83d2-867145830936,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",16,5,2011,2
+553,FEMALE,Alive,"
+            ",TCGA-A1-A0SE,A1,A0SE,c397e6c2-ba3a-4f5e-a258-c140611192fe,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Negative,"
+            ",6,12,2010,3
+554,FEMALE,Alive,"
+            ",TCGA-BH-A0GY,BH,A0GY,7d9d3522-ec3b-4efe-8c8e-c0e675276ef5,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,11,2010,3
+555,FEMALE,Alive,"
+            ",TCGA-B6-A0IA,B6,A0IA,0807435a-e75e-4e04-8e45-ed0cd49a841a,YES,C50.9,8523/3,C50.9,0,Positive,Positive,null,"
+            ",2,11,2010,3
+556,FEMALE,Alive,"
+            ",TCGA-EW-A1P1,EW,A1P1,f2e28af9-c40e-41c4-9e82-205cca38f26a,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",27,5,2011,2
+557,FEMALE,Alive,"
+            ",TCGA-LL-A5YP,LL,A5YP,6D24E675-2FA4-4102-861F-7516650B3049,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",20,5,2013,2
+558,FEMALE,Alive,"
+            ",TCGA-BH-A8G0,BH,A8G0,59D60247-E549-4326-A672-50B05C13A291,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",26,3,2014,1
+559,FEMALE,Alive,"
+            ",TCGA-AO-A0JB,AO,A0JB,3ea9412b-429e-4dcf-90cd-c53be06885a1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",19,9,2010,3
+560,FEMALE,Alive,"
+            ",TCGA-AQ-A04L,AQ,A04L,78582fbc-dcc7-48ae-9f95-5271c9bc5b72,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",15,12,2010,3
+561,FEMALE,Alive,"
+            ",TCGA-S3-AA12,S3,AA12,2BCACFD1-6A45-4B96-9B80-2AD569B1AB45,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",18,4,2014,3
+562,FEMALE,Alive,"
+            ",TCGA-BH-A0HW,BH,A0HW,29fdc464-f216-4828-b456-829f71436e27,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",11,11,2010,3
+563,FEMALE,Alive,"
+            ",TCGA-A8-A06N,A8,A06N,3a711140-1b89-4611-9992-3861e3d0e01a,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",27,5,2011,3
+564,FEMALE,Alive,"
+            ",TCGA-E2-A15G,E2,A15G,271e8024-a008-4bf0-9f6e-177f60096b1b,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Negative,"
+            ",13,4,2011,2
+565,FEMALE,Alive,"
+            ",TCGA-EW-A1IX,EW,A1IX,e8614b7d-132e-4b4e-b1ae-df8bb4f2d4d4,YES,C50.9,8524/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,6,2011,2
+566,FEMALE,Alive,"
+            ",TCGA-E9-A1NF,E9,A1NF,a8b1f6e7-2bcf-460d-b1c6-1792a9801119,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Negative,"
+            ",23,6,2011,6
+567,FEMALE,Alive,"
+            ",TCGA-A2-A0ST,A2,A0ST,12d31787-e54d-4729-ace8-9141043c92b8,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",9,11,2010,3
+568,FEMALE,Alive,"
+            ",TCGA-PL-A8LY,PL,A8LY,9BA11EA8-97D3-464A-90A4-EC1151BE9088,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",26,3,2014,2
+569,FEMALE,Alive,"
+            ",TCGA-AR-A1AS,AR,A1AS,7d681cc6-689d-41c8-9e84-e13733089ec9,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",14,6,2011,2
+570,FEMALE,Alive,"
+            ",TCGA-E2-A14S,E2,A14S,c2b104ee-f914-4e79-9e1b-56bf88157472,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",6,4,2011,2
+571,FEMALE,Alive,"
+            ",TCGA-OL-A5RX,OL,A5RX,43C0BEC6-6FAC-47B1-83CB-200A15A932BE,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",16,5,2013,2
+572,FEMALE,Alive,"
+            ",TCGA-AC-A23G,AC,A23G,A721DAC6-0126-476C-B2D4-2DBF7406454B,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",14,7,2011,3
+573,FEMALE,Alive,"
+            ",TCGA-AR-A1AY,AR,A1AY,5fd9552a-c742-4388-940d-295d1107ae00,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",14,6,2011,2
+574,FEMALE,Alive,"
+            ",TCGA-D8-A1XG,D8,A1XG,de531604-bd1a-49df-96c2-6de3ae703f1d,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",16,5,2011,2
+575,FEMALE,Alive,"
+            ",TCGA-AR-A255,AR,A255,e8f3cc64-5e15-4f4d-b73e-5c9b250a664c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",31,8,2011,2
+576,FEMALE,Alive,"
+            ",TCGA-C8-A12X,C8,A12X,65cde5d5-1efc-4e30-b1bd-a93598794f2c,YES,C50.9,8480/3,C50.9,0,Positive,Positive,Negative,"
+            ",13,4,2011,3
+577,FEMALE,Alive,"
+            ",TCGA-C8-A132,C8,A132,89e867de-d30e-4bfc-a453-0a76309dabd5,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",15,4,2011,3
+578,FEMALE,Alive,"
+            ",TCGA-BH-AB28,BH,AB28,09D6E904-7184-4788-8A19-04F8C46CB13F,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",30,6,2014,4
+579,FEMALE,Alive,"
+            ",TCGA-S3-A6ZF,S3,A6ZF,FBEE40F1-D6D8-4156-8D42-36E09BB9F095,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",12,11,2013,2
+580,FEMALE,Alive,"
+            ",TCGA-BH-A0H6,BH,A0H6,aeb6a3a6-b57a-4c53-90e6-e833777dd2a1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,11,2010,3
+581,FEMALE,Alive,"
+            ",TCGA-AC-A2QJ,AC,A2QJ,D9FD2724-7DB0-4AF3-AC14-217BDFA5203F,YES,C50.9,8575/3,C50.9,0,Negative,Negative,Negative,"
+            ",18,10,2011,4
+582,FEMALE,Alive,"
+            ",TCGA-C8-A1HE,C8,A1HE,b26d41cd-393b-4cd4-8925-a9488f7de576,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",24,5,2011,2
+583,FEMALE,Alive,"
+            ",TCGA-A8-A08P,A8,A08P,f947d67f-4aa2-4eb9-977e-21a5ae563613,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+584,FEMALE,Alive,"
+            ",TCGA-A8-A09D,A8,A09D,36449392-de76-4ee9-bc09-627a07e18727,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+585,FEMALE,Alive,"
+            ",TCGA-BH-A0DQ,BH,A0DQ,a851ca14-7bbf-455b-a054-ec03979a4247,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,11,2010,5
+586,FEMALE,Dead,"
+            ",TCGA-BH-A1FR,BH,A1FR,bf3b1481-ae31-4406-b084-b6cc1d7163e3,YES,C50.9,8523/3,C50.9,0,Positive,Positive,null,"
+            ",8,9,2011,7
+587,FEMALE,Alive,"
+            ",TCGA-E2-A1AZ,E2,A1AZ,89128dba-403f-4a96-bb3b-23ed0d5e2147,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Indeterminate,"
+            ",25,4,2011,2
+588,FEMALE,Alive,"
+            ",TCGA-E9-A2JS,E9,A2JS,4A831893-F4CA-4357-A756-B5E954E35DD7,YES,C50.9,8520/3,C50.9,0,null,null,null,"
+            ",20,12,2011,2
+589,FEMALE,Alive,"
+            ",TCGA-AR-A0U3,AR,A0U3,c5f00132-1c6b-4337-af6f-596c652665cc,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",25,2,2011,3
+590,FEMALE,Alive,"
+            ",TCGA-AC-A5XU,AC,A5XU,97677FD7-8523-48C5-A8CE-614FD4010551,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",15,7,2013,2
+591,FEMALE,Alive,"
+            ",TCGA-WT-AB41,WT,AB41,E7DB08A7-B439-4230-8DC4-1B54AF4736C4,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",16,7,2014,2
+592,FEMALE,Alive,"
+            ",TCGA-B6-A3ZX,B6,A3ZX,9434687A-197C-4959-B6B8-9C05F1DD7F53,YES,C50.9,8522/3,C50.9,0,Negative,Negative,Negative,"
+            ",20,9,2012,1
+593,FEMALE,Alive,"
+            ",TCGA-BH-A0BC,BH,A0BC,327a2395-85c8-42e1-9638-8e037a1723ed,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",4,11,2010,4
+594,FEMALE,Alive,"
+            ",TCGA-A8-A083,A8,A083,afb9418e-91eb-4db1-aacf-12bd946c9ba0,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+595,FEMALE,Alive,"
+            ",TCGA-BH-A0W4,BH,A0W4,0772cdbe-8b0d-452b-8df1-bd70d1306363,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",15,2,2011,3
+596,FEMALE,Alive,"
+            ",TCGA-E2-A109,E2,A109,f0787165-6f58-4d67-b510-928eea2c4882,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",11,2,2011,3
+597,FEMALE,Alive,"
+            ",TCGA-OL-A6VQ,OL,A6VQ,34126CD5-CC38-4198-8582-C14FB5DB7ACB,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",20,2,2014,2
+598,FEMALE,Alive,"
+            ",TCGA-C8-A12Q,C8,A12Q,a824b3bd-34d5-4cc1-a92f-f9d6ac0f1814,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",13,4,2011,3
+599,FEMALE,Alive,"
+            ",TCGA-BH-A0B7,BH,A0B7,214a4507-d974-4b3e-8525-7408fccc6a0f,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",4,8,2011,5
+600,FEMALE,Alive,"
+            ",TCGA-E2-A15C,E2,A15C,da840a22-8d30-4682-bbd0-8fa87bd40528,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",13,4,2011,2
+601,FEMALE,Alive,"
+            ",TCGA-GM-A2DI,GM,A2DI,66FA504C-4AE4-49AC-9355-1E063776DC0D,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",29,9,2011,3
+602,FEMALE,Alive,"
+            ",TCGA-D8-A1J9,D8,A1J9,d5e9a403-88ce-40fc-bb85-80cf3f8ff6bc,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",29,3,2011,3
+603,FEMALE,Alive,"
+            ",TCGA-EW-A1P4,EW,A1P4,521e2140-ae5b-456f-8699-97398d009687,YES,C50.9,8510/3,C50.9,0,Negative,Negative,Negative,"
+            ",11,5,2011,2
+604,FEMALE,Alive,"
+            ",TCGA-A8-A082,A8,A082,5e4187c9-98f8-4bdb-a8da-6a914e96f47a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+605,FEMALE,Alive,"
+            ",TCGA-E9-A3X8,E9,A3X8,95873E61-AFDB-496C-9F77-3F9BEB008CDA,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",24,8,2012,2
+606,FEMALE,Alive,"
+            ",TCGA-A2-A1G4,A2,A1G4,e3b555aa-7f0a-49c6-9b13-182c61a144c1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",22,4,2011,2
+607,FEMALE,Alive,"
+            ",TCGA-A2-A1G1,A2,A1G1,75b5529b-565a-4eba-918a-910b2f441d32,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",12,5,2011,2
+608,FEMALE,Alive,"
+            ",TCGA-E9-A1RD,E9,A1RD,5fe3c51f-65e2-4da6-8924-a6fae17c022d,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",28,7,2011,3
+609,FEMALE,Alive,"
+            ",TCGA-E2-A1BD,E2,A1BD,0e1d0d46-7a7b-4538-95dd-b9fc20a15aec,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",25,4,2011,2
+610,FEMALE,Dead,"
+            ",TCGA-B6-A0WV,B6,A0WV,7588a286-6935-424a-bc5f-92e24c83eb37,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",14,12,2010,3
+611,FEMALE,Alive,"
+            ",TCGA-AN-A03Y,AN,A03Y,a991644b-3ee6-4cda-acf0-e37de48a49fc,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,12,2010,3
+612,FEMALE,Alive,"
+            ",TCGA-E2-A15L,E2,A15L,37242f5a-25ae-4b1f-9ce6-09ce1dc92539,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",13,4,2011,5
+613,FEMALE,Alive,"
+            ",TCGA-BH-A0AZ,BH,A0AZ,518f231c-f5f9-4a39-a97b-7fd5666d3e50,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,7,2011,5
+614,FEMALE,Alive,"
+            ",TCGA-A8-A08B,A8,A08B,d8d7a6c2-6427-4f47-968c-6c3affba4617,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",27,5,2011,3
+615,FEMALE,Alive,"
+            ",TCGA-D8-A1XJ,D8,A1XJ,cc510968-fe52-4109-a79f-74f216b48c78,YES,C50.9,8523/3,C50.9,0,Positive,Positive,Positive,"
+            ",9,6,2011,2
+616,FEMALE,Alive,"
+            ",TCGA-BH-A0EB,BH,A0EB,ec6930e5-2d83-435a-9a57-a2c5c22caf02,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",9,11,2010,3
+617,FEMALE,Alive,"
+            ",TCGA-C8-A278,C8,A278,65077db7-dd59-4362-9d28-d5a9154e9be0,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",21,7,2011,2
+618,FEMALE,Alive,"
+            ",TCGA-D8-A27H,D8,A27H,0dca98b0-f43e-45b6-9a02-00092c78678c,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",18,7,2011,2
+619,FEMALE,Alive,"
+            ",TCGA-LD-A7W6,LD,A7W6,0B0F9938-CE1E-4814-8821-0132D137EB9E,YES,C50.2,8524/3,C50.2,0,Positive,Positive,Negative,"
+            ",3,2,2014,2
+620,FEMALE,Alive,"
+            ",TCGA-E2-A105,E2,A105,b0bcb829-cee0-4247-bb75-093a5bea89ee,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",11,2,2011,3
+621,FEMALE,Alive,"
+            ",TCGA-OL-A6VO,OL,A6VO,398FB71B-CA83-44E7-BF0D-B1CA464B0283,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",5,12,2013,2
+622,FEMALE,Alive,"
+            ",TCGA-B6-A0RO,B6,A0RO,0b172e29-6166-4863-803d-a0a010887c11,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",2,11,2010,3
+623,FEMALE,Dead,"
+            ",TCGA-A2-A0SV,A2,A0SV,ad01259b-d858-40bc-a6ba-0bb06e996afb,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",15,11,2010,3
+624,FEMALE,Alive,"
+            ",TCGA-AO-A1KT,AO,A1KT,1f8f87cb-8a0b-474c-97fb-c71b4fd88d97,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",1,4,2011,2
+625,FEMALE,Alive,"
+            ",TCGA-AO-A0JA,AO,A0JA,86b7b206-8e69-432d-acc9-bccce710955e,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",19,9,2010,3
+626,FEMALE,Alive,"
+            ",TCGA-A2-A0YG,A2,A0YG,c0892598-1f7b-4f23-9cd8-731f797753d5,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",3,1,2011,3
+627,FEMALE,Alive,"
+            ",TCGA-A2-A0YI,A2,A0YI,72cd1b17-d349-4551-83f7-3062ce9db865,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Negative,"
+            ",14,12,2010,3
+628,FEMALE,Alive,"
+            ",TCGA-A2-A0T5,A2,A0T5,36d77496-99f8-4911-ba7c-89fae32662aa,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,11,2010,3
+629,FEMALE,Alive,"
+            ",TCGA-A2-A0T3,A2,A0T3,058dcb78-bed1-40c3-a6c2-a0cc40065531,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",21,2,2011,3
+630,FEMALE,Alive,"
+            ",TCGA-BH-A0DS,BH,A0DS,fb57c598-b45b-478a-9d34-ca1f050d5b7c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,11,2010,3
+631,FEMALE,Alive,"
+            ",TCGA-AO-A0JL,AO,A0JL,d5d8e76e-2f2a-49bc-ba0a-d51283611b16,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",20,9,2010,3
+632,FEMALE,Alive,"
+            ",TCGA-C8-A12Z,C8,A12Z,42621dfa-abfd-4c7d-8bc5-a02a09d1c2b4,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",13,4,2011,3
+633,FEMALE,Dead,"
+            ",TCGA-BH-A1FE,BH,A1FE,4aa68586-6331-4795-b40c-859386640df6,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",8,9,2011,4
+634,FEMALE,Alive,"
+            ",TCGA-E9-A1R3,E9,A1R3,4922cddc-575c-4b8a-8245-ce5f6876760c,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",28,7,2011,2
+635,FEMALE,Alive,"
+            ",TCGA-BH-A0DO,BH,A0DO,d3d4d709-ab34-4617-aa8c-51a3d0a3efe6,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,8,2011,6
+636,FEMALE,Alive,"
+            ",TCGA-A2-A3KC,A2,A3KC,2D29A4AC-98E7-4663-9DD6-5681BC32AC2E,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",14,3,2012,2
+637,FEMALE,Alive,"
+            ",TCGA-E2-A15E,E2,A15E,0a2a3529-f645-4967-9a58-89ee20b8bb62,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",25,4,2011,3
+638,FEMALE,Alive,"
+            ",TCGA-A8-A094,A8,A094,993103b1-e5a1-4c33-8629-be53ebc41d64,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",27,5,2011,3
+639,FEMALE,Alive,"
+            ",TCGA-E2-A108,E2,A108,4f04bd10-9902-4a23-b15d-4f4409d79499,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,2,2011,3
+640,FEMALE,Alive,"
+            ",TCGA-E2-A154,E2,A154,24e39609-9645-43e5-960b-db5446eaea65,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,4,2011,2
+641,FEMALE,Alive,"
+            ",TCGA-EW-A424,EW,A424,A6502F17-6BEE-4D5A-8520-06364593D39C,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",26,3,2013,2
+642,FEMALE,Alive,"
+            ",TCGA-A8-A0A4,A8,A0A4,2cb8c866-9296-4c70-a3ea-f9a9b707895c,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+643,FEMALE,Alive,"
+            ",TCGA-AC-A3TN,AC,A3TN,81B70C58-4A12-448C-A594-2ADE44F6A0AE,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",1,8,2012,2
+644,FEMALE,Alive,"
+            ",TCGA-A2-A0D2,A2,A0D2,99e32c59-aa73-43fa-88c9-399ddadb2c72,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",16,9,2010,2
+645,FEMALE,Alive,"
+            ",TCGA-E2-A14Z,E2,A14Z,d7ce6b79-f7c0-481e-9dbd-6273f01c9786,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",6,4,2011,2
+646,FEMALE,Dead,"
+            ",TCGA-BH-A18N,BH,A18N,665dd3d3-779c-4abd-b5d7-13342340451d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",15,6,2011,6
+647,FEMALE,Alive,"
+            ",TCGA-E9-A295,E9,A295,fec0da58-1047-44d2-b6d1-c18cceed43dc,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",12,9,2011,2
+648,FEMALE,Alive,"
+            ",TCGA-AN-A0XU,AN,A0XU,a1da9db1-db11-4f4d-a249-c738db81b87e,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",28,3,2011,3
+649,FEMALE,Alive,"
+            ",TCGA-BH-A0H3,BH,A0H3,6cdc0d53-f813-4101-81e5-9bee68270536,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",11,8,2011,4
+650,FEMALE,Alive,"
+            ",TCGA-AO-A12F,AO,A12F,495f9eda-b9be-4eef-bae1-766a4bfbd68e,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",8,12,2010,3
+651,FEMALE,Alive,"
+            ",TCGA-A2-A25B,A2,A25B,eadf8482-e60e-4307-adb7-d5c3b9fa6cae,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",15,7,2011,2
+652,FEMALE,Alive,"
+            ",TCGA-E2-A573,E2,A573,6429C443-8AC3-407F-BB9C-66420B904BBF,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",20,6,2013,2
+653,FEMALE,Dead,"
+            ",TCGA-BH-A8FY,BH,A8FY,5F4D16AA-9CC4-4EDB-B714-394E2661439A,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",25,3,2014,1
+654,FEMALE,Alive,"
+            ",TCGA-D8-A27G,D8,A27G,6f6e7356-3521-4674-8eec-ad01340d4b8e,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",18,7,2011,2
+655,FEMALE,Alive,"
+            ",TCGA-A2-A4RY,A2,A4RY,5A53EC47-E63F-44A2-8078-87659544FB04,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",26,2,2013,2
+656,FEMALE,Alive,"
+            ",TCGA-E2-A15T,E2,A15T,e68ebfd4-3688-4caa-9e38-7764f9258c30,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",14,4,2011,2
+657,FEMALE,Alive,"
+            ",TCGA-E2-A570,E2,A570,CDD8C046-FD97-482A-A11F-2217B321C4D1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",21,6,2013,2
+658,FEMALE,Alive,"
+            ",TCGA-E9-A248,E9,A248,539bbbed-43fb-4fef-9c67-6406f58b186a,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",22,3,2011,2
+659,FEMALE,Alive,"
+            ",TCGA-A8-A09Q,A8,A09Q,09c2bc35-c21f-4aa4-ac30-0d8db02ad811,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+660,FEMALE,Alive,"
+            ",TCGA-AN-A0FW,AN,A0FW,e112b452-8850-4353-bfed-0dbdc243290b,YES,C50.9,8500/3,C50.9,0,Indeterminate,Positive,Negative,"
+            ",28,12,2010,3
+661,FEMALE,Alive,"
+            ",TCGA-OL-A5RW,OL,A5RW,A82D0A57-4383-473D-B334-D13B278404B1,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",16,5,2013,2
+662,FEMALE,Alive,"
+            ",TCGA-D8-A1X8,D8,A1X8,8624354c-af25-423c-9c71-48a5dd821097,YES,C50.9,8520/3,C50.9,0,Indeterminate,Positive,Negative,"
+            ",16,5,2011,2
+663,FEMALE,Alive,"
+            ",TCGA-C8-A1HG,C8,A1HG,0c23c380-363c-474d-b64c-b47f612a8225,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",24,5,2011,2
+664,FEMALE,Alive,"
+            ",TCGA-BH-A0AW,BH,A0AW,c5891c7a-fd24-4891-8f51-373967e4a6dd,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",3,11,2010,3
+665,FEMALE,Alive,"
+            ",TCGA-EW-A3E8,EW,A3E8,C0B7B798-3383-4A45-A455-9ECA5810739E,YES,C50.9,8520/3,C50.9,0,Negative,Positive,Negative,"
+            ",8,2,2013,2
+666,FEMALE,Alive,"
+            ",TCGA-EW-A1IW,EW,A1IW,5e2cbc56-97f9-4b94-ade2-a3f739bcc7be,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,2
+667,FEMALE,Dead,"
+            ",TCGA-B6-A0IE,B6,A0IE,3f834fa7-6d7b-4b85-98c0-5c55d55b6c95,YES,C50.9,8520/3,C50.9,0,Negative,Negative,null,"
+            ",2,11,2010,3
+668,FEMALE,Alive,"
+            ",TCGA-LD-A9QF,LD,A9QF,95C53ECF-D8F1-4BCB-9B1A-C9A0542939F0,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",7,5,2014,2
+669,FEMALE,Alive,"
+            ",TCGA-E2-A1IO,E2,A1IO,71fc8941-4cfb-47ea-a533-873d38f8c95c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",29,4,2011,4
+670,FEMALE,Dead,"
+            ",TCGA-B6-A0RM,B6,A0RM,151f3677-6854-4265-9126-d92c646c67ae,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",2,11,2010,3
+671,FEMALE,Alive,"
+            ",TCGA-D8-A73X,D8,A73X,1BE375FE-5AE5-4E75-A729-69F86A661D9A,YES,C50.9,8211/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,3,2014,3
+672,FEMALE,Alive,"
+            ",TCGA-EW-A1PF,EW,A1PF,848773a3-2f4a-4186-ab3f-de667129accf,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,2
+673,FEMALE,Alive,"
+            ",TCGA-BH-A0BW,BH,A0BW,5d1d00c6-fcae-479e-ae1e-de76efd41d98,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",10,8,2011,6
+674,FEMALE,Alive,"
+            ",TCGA-AC-A5EH,AC,A5EH,D13FB44B-291B-4EA4-920C-142DAA8D1989,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",12,7,2013,2
+675,FEMALE,Alive,"
+            ",TCGA-A8-A07S,A8,A07S,a20fa2c4-a502-47e3-bfaa-2ec4cce3a859,YES,C50.9,8522/3,C50.9,0,Negative,Positive,Negative,"
+            ",27,5,2011,3
+676,FEMALE,Alive,"
+            ",TCGA-D8-A145,D8,A145,4958c36f-1dc7-4f14-9dec-36e14107dbe3,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",25,2,2011,4
+677,FEMALE,Alive,"
+            ",TCGA-A2-A0EP,A2,A0EP,670F5022-5066-48F1-8472-5670129A1E0F,YES,C50.9,8520/3,C50.9,0,Negative,Positive,Negative,"
+            ",16,8,2012,2
+678,FEMALE,Alive,"
+            ",TCGA-AC-A6IW,AC,A6IW,8183F0FB-2303-4D7B-BCCD-55E5031FC7DF,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",15,10,2013,2
+679,FEMALE,Alive,"
+            ",TCGA-EW-A2FS,EW,A2FS,D34471A1-B367-4F8A-B35A-C5901C4F5503,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",12,10,2011,2
+680,FEMALE,Alive,"
+            ",TCGA-A2-A259,A2,A259,3fc3755d-a3f8-4e2c-813f-ff124f2a75c1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",20,6,2011,2
+681,FEMALE,Alive,"
+            ",TCGA-D8-A141,D8,A141,42f6f503-4cf6-4a8e-b5fe-b44bccf6b38b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,2,2011,4
+682,FEMALE,Alive,"
+            ",TCGA-EW-A1OX,EW,A1OX,5fc7ff35-d3f7-4687-8759-3542bd58e988,YES,C50.9,8523/3,C50.9,0,Positive,Positive,Negative,"
+            ",18,5,2011,2
+683,FEMALE,Alive,"
+            ",TCGA-EW-A1PE,EW,A1PE,f3b86c02-09a5-4e97-aa7a-86f13f7cda4b,YES,C50.9,8507/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,2
+684,FEMALE,Alive,"
+            ",TCGA-EW-A2FV,EW,A2FV,F45AA0B2-F3DE-4DB5-9730-E5C6C4E2ED3A,YES,C50.9,8507/3,C50.9,0,Positive,Positive,Negative,"
+            ",5,10,2011,2
+685,FEMALE,Alive,"
+            ",TCGA-AO-A0JF,AO,A0JF,f357fe19-5359-4662-8ce9-aa996132283b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",20,9,2010,3
+686,FEMALE,Dead,"
+            ",TCGA-AR-A2LH,AR,A2LH,376FFE63-EFD7-42AF-90E1-261255B28BB7,YES,C50.9,8520/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",12,1,2012,2
+687,FEMALE,Alive,"
+            ",TCGA-S3-A6ZG,S3,A6ZG,1A679332-30A3-4495-A2E5-39D299E14333,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",12,11,2013,2
+688,FEMALE,Alive,"
+            ",TCGA-A2-A0EV,A2,A0EV,7032ec9c-e96b-4642-a7b6-d0aee7a3add2,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,8,2010,3
+689,FEMALE,Alive,"
+            ",TCGA-A7-A13E,A7,A13E,8c7e74e0-71ef-49b8-9217-94b8ef740ef9,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",28,2,2011,9
+690,FEMALE,Alive,"
+            ",TCGA-E2-A1LH,E2,A1LH,d8ecba6a-9fff-4993-a799-9a8d2aea524e,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",3,6,2011,3
+691,FEMALE,Alive,"
+            ",TCGA-BH-A0AU,BH,A0AU,360d1d6d-cf3e-4c78-b36f-ef5e3160aa6b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,7,2011,5
+692,FEMALE,Alive,"
+            ",TCGA-E9-A1RA,E9,A1RA,4b4e4ea8-6eb9-49ad-b880-c5065fe6517f,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",28,7,2011,2
+693,FEMALE,Alive,"
+            ",TCGA-A7-A13G,A7,A13G,6cd9baf5-bbe0-4c1e-a87f-c53b3af22890,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",16,5,2011,7
+694,FEMALE,Dead,"
+            ",TCGA-AO-A03O,AO,A03O,1111fb30-46ce-4722-98da-ec9ba2323d90,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",19,9,2010,3
+695,FEMALE,Alive,"
+            ",TCGA-AR-A24K,AR,A24K,599c3701-df7a-4a75-a347-fa9b510dd242,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",12,8,2011,2
+696,FEMALE,Alive,"
+            ",TCGA-AO-A03V,AO,A03V,a6cb373a-1604-4e25-bd81-da6c3e4f06ee,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,1,2011,3
+697,FEMALE,Alive,"
+            ",TCGA-AO-A12B,AO,A12B,f6ed684f-ee7a-496c-80d5-6eacd494d16a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",8,12,2010,3
+698,FEMALE,Alive,"
+            ",TCGA-A1-A0SF,A1,A0SF,4b620966-b4c7-4615-bf58-ca9d3226b9bd,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",24,5,2011,3
+699,FEMALE,Dead,"
+            ",TCGA-BH-A1F6,BH,A1F6,ad18820b-a804-49c0-ba8a-86c09fa6bce2,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",7,9,2011,5
+700,FEMALE,Alive,"
+            ",TCGA-A7-A0CJ,A7,A0CJ,d69e59a8-b10b-46f5-b859-b6c178d90506,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,10,2010,4
+701,FEMALE,Alive,"
+            ",TCGA-E9-A54X,E9,A54X,3DBC8D60-3A97-47B2-91D0-C18FB46B4365,YES,C50.9,8480/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,6,2013,2
+702,FEMALE,Alive,"
+            ",TCGA-A7-A26J,A7,A26J,6cb6f179-defd-4661-af0a-c353b74c0c49,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,7,2011,4
+703,FEMALE,Alive,"
+            ",TCGA-AC-A3QQ,AC,A3QQ,95CEF916-5545-455B-920C-773A54FC7676,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",3,12,2012,4
+704,FEMALE,Alive,"
+            ",TCGA-D8-A1JA,D8,A1JA,9ced0c70-c46c-4f98-8f48-840defe4b8b1,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",29,3,2011,2
+705,FEMALE,Alive,"
+            ",TCGA-AR-A24T,AR,A24T,9e3de467-fb0d-4021-89f8-b34968a7c7bc,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",30,8,2011,2
+706,FEMALE,Alive,"
+            ",TCGA-BH-A0BQ,BH,A0BQ,b3bb8fd6-ee54-4813-b042-2bbe70115382,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",10,8,2011,5
+707,FEMALE,Dead,"
+            ",TCGA-BH-A1F8,BH,A1F8,ee554215-bea2-4268-aaf9-784e68cdb969,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",7,9,2011,3
+708,FEMALE,Alive,"
+            ",TCGA-A2-A0YJ,A2,A0YJ,796b593f-5886-4a27-bf94-7ea8df325e1a,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",28,12,2010,3
+709,FEMALE,Alive,"
+            ",TCGA-C8-A133,C8,A133,b8b6cebc-26dc-43ae-a94a-20da6018f7ae,YES,C50.9,8523/3,C50.9,0,Positive,Positive,null,"
+            ",15,4,2011,3
+710,FEMALE,Alive,"
+            ",TCGA-C8-A1HJ,C8,A1HJ,a855c228-a263-44df-87a0-cbc32187e3f5,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",1,6,2011,2
+711,FEMALE,Alive,"
+            ",TCGA-EW-A1J6,EW,A1J6,87281a89-91d2-44f7-9f80-668567ad5c72,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,5,2011,2
+712,FEMALE,Alive,"
+            ",TCGA-BH-A0BS,BH,A0BS,2b22db1d-54a1-4b9e-a86e-a174cf51d95c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",18,8,2011,5
+713,FEMALE,Alive,"
+            ",TCGA-A7-A4SE,A7,A4SE,DBF6F981-15CC-40AD-91AC-A66360405FBD,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",22,2,2013,8
+714,FEMALE,Alive,"
+            ",TCGA-A2-A0CW,A2,A0CW,32efa6e8-6b19-480a-9d04-ace02e93318a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",28,1,2011,3
+715,FEMALE,Alive,"
+            ",TCGA-A8-A07P,A8,A07P,8cccf160-93e9-48a5-9b8b-54aa50153142,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+716,FEMALE,Alive,"
+            ",TCGA-EW-A6SB,EW,A6SB,5C59028F-B8FA-4811-8314-BE3EAED5F364,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",12,3,2015,2
+717,FEMALE,Alive,"
+            ",TCGA-AN-A0FS,AN,A0FS,10c9be1e-2cc0-45e4-8d2c-c013ea63ef05,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",20,12,2010,3
+718,FEMALE,Alive,"
+            ",TCGA-LL-A6FR,LL,A6FR,1347C23D-8D6E-4C15-9461-640249838C96,YES,C50.9,8500/3,C50.9,0,Positive,Negative,Equivocal,"
+            ",30,8,2013,2
+719,FEMALE,Alive,"
+            ",TCGA-LL-A7T0,LL,A7T0,D8F8064F-02EF-4FED-942B-714CBE5E8455,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",3,1,2014,2
+720,FEMALE,Alive,"
+            ",TCGA-A7-A0CE,A7,A0CE,9d95a65b-e41d-4f93-92d4-99dce29ff40d,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",4,10,2010,6
+721,FEMALE,Alive,"
+            ",TCGA-A8-A07G,A8,A07G,8cf8b620-7ab6-4b6e-84bc-ff5a83f381fa,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+722,FEMALE,Alive,"
+            ",TCGA-BH-A5IZ,BH,A5IZ,A8A33BA9-0976-4E19-B0E9-FA5BA4D4EAA8,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",13,2,2014,3
+723,FEMALE,Alive,"
+            ",TCGA-A2-A0CS,A2,A0CS,d071c16b-7cee-45ed-8ec9-612418143815,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",27,1,2011,3
+724,FEMALE,Alive,"
+            ",TCGA-E2-A1L7,E2,A1L7,791c5768-f0f5-4ab6-86eb-998e5c4b49e3,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",1,6,2011,5
+725,FEMALE,Alive,"
+            ",TCGA-AR-A250,AR,A250,a0963e93-b63e-4de2-86c1-81302e271d3e,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",30,8,2011,2
+726,FEMALE,Alive,"
+            ",TCGA-C8-A12T,C8,A12T,71229981-97c2-4ae1-a130-fe5de336b37d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",11,4,2011,3
+727,FEMALE,Alive,"
+            ",TCGA-E9-A22G,E9,A22G,56033839-35d5-4d72-8b8c-400cb345263d,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",2,8,2011,2
+728,FEMALE,Dead,"
+            ",TCGA-BH-A1FC,BH,A1FC,b97bf89a-7a85-4eef-ae7e-f787aead1f0a,YES,C50.9,8510/3,C50.9,0,Negative,Negative,Negative,"
+            ",8,9,2011,5
+729,FEMALE,Alive,"
+            ",TCGA-E2-A14V,E2,A14V,3144f1fb-4342-4079-bfe8-940da4bfd88e,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",6,4,2011,2
+730,FEMALE,Alive,"
+            ",TCGA-GI-A2C8,GI,A2C8,33fe5833-d7a0-43d7-a03d-56985ea448a6,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,10,2011,3
+731,FEMALE,Alive,"
+            ",TCGA-E9-A1R6,E9,A1R6,4842bac3-abaa-4900-871f-f2c3ba6457f5,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",28,7,2011,2
+732,FEMALE,Alive,"
+            ",TCGA-C8-A12L,C8,A12L,441919eb-8c9f-478c-bda3-8de4f8295e8a,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",12,4,2011,3
+733,FEMALE,Alive,"
+            ",TCGA-A2-A3KD,A2,A3KD,BB026999-0AAB-4232-96D7-2C93B6C9691D,YES,C50.9,8480/3,C50.9,0,Positive,Positive,Negative,"
+            ",2,4,2012,2
+734,FEMALE,Alive,"
+            ",TCGA-E2-A14Q,E2,A14Q,303a1d77-a37a-4966-a4a4-9981d99ba1b4,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",31,3,2011,2
+735,FEMALE,Alive,"
+            ",TCGA-AR-A5QN,AR,A5QN,077506EA-8F11-405D-BB8E-3C9924FE54D0,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",15,5,2013,2
+736,FEMALE,Alive,"
+            ",TCGA-EW-A1P6,EW,A1P6,ee5744c0-a8dc-43f2-abdd-0b5529a3e9fb,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",19,5,2011,2
+737,FEMALE,Alive,"
+            ",TCGA-E2-A15K,E2,A15K,17c1d42c-cb84-4655-a4cd-b54bae17ecaf,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",13,4,2011,4
+738,FEMALE,Alive,"
+            ",TCGA-A2-A0EU,A2,A0EU,c0427237-b476-4af4-b664-7bd479922ea5,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,8,2010,3
+739,FEMALE,Alive,"
+            ",TCGA-A8-A06T,A8,A06T,2c04a2f5-321e-4dea-8e00-268325da65cb,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+740,FEMALE,Dead,"
+            ",TCGA-B6-A0RL,B6,A0RL,5562455d-bbb8-46eb-a510-e8c6e1e26789,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",2,11,2010,3
+741,FEMALE,Alive,"
+            ",TCGA-AO-A126,AO,A126,cc0902fd-a2fc-4327-929e-d4219e32e1d7,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,12,2010,3
+742,FEMALE,Alive,"
+            ",TCGA-E9-A24A,E9,A24A,9f3cc92b-fa22-478e-a2e4-6b4c8afb93d6,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",22,3,2011,2
+743,FEMALE,Alive,"
+            ",TCGA-AR-A0TW,AR,A0TW,8da3d6cf-381b-4d1b-93fa-41fd9d2b2e66,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",10,3,2011,3
+744,FEMALE,Alive,"
+            ",TCGA-BH-A0HK,BH,A0HK,24334ac1-28a3-4b61-b590-3f51e375b247,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",10,11,2010,5
+745,FEMALE,Alive,"
+            ",TCGA-BH-A0DI,BH,A0DI,27ba717a-5cd8-440a-9345-4ae086f6efca,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,8,2011,8
+746,FEMALE,Alive,"
+            ",TCGA-AN-A0XS,AN,A0XS,95e949d3-b1f3-46c6-9451-8fe92c99e4cf,YES,C50.9,8500/3,C50.9,0,Positive,Negative,Negative,"
+            ",28,3,2011,3
+747,FEMALE,Alive,"
+            ",TCGA-A2-A0SY,A2,A0SY,dc696e3c-f448-468f-a576-f4429be0338a,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",12,11,2010,3
+748,FEMALE,Alive,"
+            ",TCGA-BH-A0C0,BH,A0C0,7875018b-91dc-4ab1-83b0-ee3883e2816e,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",8,11,2010,5
+749,FEMALE,Alive,"
+            ",TCGA-AN-A0AT,AN,A0AT,05506f4c-e701-4a9d-ae06-97f066aade43,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",28,12,2010,3
+750,FEMALE,Alive,"
+            ",TCGA-E9-A226,E9,A226,dd67408e-46ba-4573-9415-d4814e9f84de,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",3,8,2011,2
+751,FEMALE,Alive,"
+            ",TCGA-AN-A0AR,AN,A0AR,ebc460c2-df88-4dc0-a2c0-aca8072b75ad,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",28,12,2010,3
+752,FEMALE,Alive,"
+            ",TCGA-BH-A0BZ,BH,A0BZ,4a032bad-e726-48f2-8f39-e3acc109cc91,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,8,2011,4
+753,MALE,Alive,"
+            ",TCGA-BH-A0DD,BH,A0DD,dba9beec-5e51-48c0-9229-0ee286a02a1a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",18,8,2011,9
+754,FEMALE,Alive,"
+            ",TCGA-AC-A3QP,AC,A3QP,6F4C8D30-47FB-47DF-9EB7-4E5881E3711E,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",5,7,2012,2
+755,FEMALE,Alive,"
+            ",TCGA-LL-A8F5,LL,A8F5,E1786E78-AC46-46FD-8CE0-8F7456E46082,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",19,2,2014,2
+756,FEMALE,Alive,"
+            ",TCGA-OL-A97C,OL,A97C,6FFD1B8C-6F0B-456A-9160-E0C8021E5897,YES,C50.9,9020/3,C50.9,0,Negative,Negative,null,"
+            ",18,3,2014,2
+757,FEMALE,Alive,"
+            ",TCGA-E2-A1IU,E2,A1IU,001cef41-ff86-4d3f-a140-a647ac4b10a1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,4,2011,8
+758,FEMALE,Alive,"
+            ",TCGA-BH-A0E7,BH,A0E7,d3b9d925-ae04-4721-8bfc-50b41225bc74,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,11,2010,3
+759,FEMALE,Alive,"
+            ",TCGA-A2-A0YL,A2,A0YL,b205c89f-af62-4186-acad-ed23d243fa98,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,12,2010,3
+760,FEMALE,Dead,"
+            ",TCGA-BH-A0EA,BH,A0EA,1f601832-eee3-48fb-acf5-80c4a454f26e,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,8,2011,3
+761,FEMALE,Alive,"
+            ",TCGA-A8-A076,A8,A076,23dabeef-8e3c-44bc-9a12-a9522d17be5c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+762,FEMALE,Alive,"
+            ",TCGA-AO-A0J3,AO,A0J3,39cde586-df95-435f-b9a6-73b0c0ee5e92,YES,C50.9,8523/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",19,9,2010,3
+763,FEMALE,Alive,"
+            ",TCGA-D8-A13Z,D8,A13Z,5a17dcd9-5ced-4a69-8069-23c7fd0649d1,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",27,2,2011,3
+764,FEMALE,Alive,"
+            ",TCGA-D8-A3Z5,D8,A3Z5,77E25AE8-82EC-4DEA-8E62-1176F27E47BA,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",3,7,2012,4
+765,FEMALE,Dead,"
+            ",TCGA-BH-A18J,BH,A18J,cc074b7f-d3b2-4880-902e-bf10e667b665,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",8,6,2011,5
+766,FEMALE,Alive,"
+            ",TCGA-BH-A0EI,BH,A0EI,22b35927-1c3f-4f98-ba42-deafc56b677a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,8,2011,3
+767,FEMALE,Alive,"
+            ",TCGA-D8-A27T,D8,A27T,27c1c094-690b-4973-8900-a797ad88f98c,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,7,2011,3
+768,FEMALE,Alive,"
+            ",TCGA-AC-A3EH,AC,A3EH,FAC173A8-1613-4BD4-87BA-83A2CFE8A37D,YES,C50.9,8022/3,C50.9,0,Negative,Positive,Negative,"
+            ",24,9,2012,3
+769,FEMALE,Alive,"
+            ",TCGA-BH-A42U,BH,A42U,2DC1CEC9-925A-417F-9E21-3C2143E711B4,YES,C50.9,8520/3,C50.9,0,Negative,Negative,Negative,"
+            ",1,10,2012,2
+770,FEMALE,Alive,"
+            ",TCGA-A7-A0DC,A7,A0DC,cb9f5e50-f49d-4899-8895-9367afcc1015,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",4,10,2010,7
+771,FEMALE,Alive,"
+            ",TCGA-AR-A2LE,AR,A2LE,E3FCBF94-D3EF-4A37-AA45-5297F96AF9EB,YES,C50.9,8520/3,C50.9,0,Negative,Positive,null,"
+            ",12,1,2012,2
+772,FEMALE,Alive,"
+            ",TCGA-A2-A0EM,A2,A0EM,2fdfd287-d13c-4910-9788-73987d45908a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",6,9,2010,3
+773,FEMALE,Alive,"
+            ",TCGA-AR-A0TZ,AR,A0TZ,c7c34fd9-3021-45b7-b6ff-30b4196585a8,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",7,3,2011,3
+774,FEMALE,Alive,"
+            ",TCGA-BH-A5J0,BH,A5J0,DB55D9D9-DD56-4CA9-B1F1-0D929697B280,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",13,2,2014,2
+775,FEMALE,Alive,"
+            ",TCGA-D8-A1X7,D8,A1X7,cdab777e-62de-4d51-92af-b6eb089c111f,YES,C50.9,8503/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,6,2011,3
+776,FEMALE,Alive,"
+            ",TCGA-BH-A42T,BH,A42T,10C829EC-FD66-49C4-8AFE-AD3AE567372C,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",28,9,2012,2
+777,FEMALE,Alive,"
+            ",TCGA-OL-A5RU,OL,A5RU,B8A44FDF-9CB9-4123-9AB0-4BC198921FEE,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",16,5,2013,2
+778,FEMALE,Alive,"
+            ",TCGA-A1-A0SH,A1,A0SH,a6a863d9-b39d-4965-b47f-79a1bcf3c976,YES,C50.9,8500/3,C50.9,0,Positive,Negative,Equivocal,"
+            ",6,12,2010,3
+779,FEMALE,Alive,"
+            ",TCGA-A7-A3RF,A7,A3RF,7451AF3C-ACC0-4D79-8429-6B8BE96911D8,YES,C50.9,8480/3,C50.9,0,Positive,Positive,Negative,"
+            ",3,5,2012,2
+780,MALE,Alive,"
+            ",TCGA-E2-A14W,E2,A14W,eadb0562-2165-4adb-ad58-018e73f82780,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",25,4,2011,2
+781,FEMALE,Dead,"
+            ",TCGA-BH-A1ET,BH,A1ET,8986a141-eae7-4157-b695-02cc6fc3b071,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,9,2011,6
+782,FEMALE,Dead,"
+            ",TCGA-BH-A1EN,BH,A1EN,858652b8-c4c2-41d8-be32-fdc88e1a7bb0,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",3,9,2011,4
+783,FEMALE,Alive,"
+            ",TCGA-A8-A06P,A8,A06P,5f90d955-bbb0-4b44-a5ac-ba6fda9ca0fb,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+784,FEMALE,Alive,"
+            ",TCGA-C8-A1HM,C8,A1HM,8b525ec6-d24b-49d4-bfcb-b354de4dae7c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",2,6,2011,2
+785,FEMALE,Alive,"
+            ",TCGA-E2-A1LA,E2,A1LA,ce9e0309-9756-42d2-ae94-d91264a79498,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",1,6,2011,2
+786,FEMALE,Alive,"
+            ",TCGA-BH-A0DT,BH,A0DT,74f31744-0aed-4633-beec-4e203315f0b7,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,8,2011,6
+787,FEMALE,Alive,"
+            ",TCGA-EW-A1J3,EW,A1J3,bb1de798-0c02-437e-b539-33cb556d3993,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",18,5,2011,2
+788,FEMALE,Alive,"
+            ",TCGA-D8-A1JU,D8,A1JU,af2a8e2f-2ae1-48bc-bba5-0e2c077c4e48,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,3,2011,2
+789,FEMALE,Alive,"
+            ",TCGA-E9-A22D,E9,A22D,cf0a3f38-5850-44e1-8574-808bd37d84a3,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",2,8,2011,2
+790,FEMALE,Alive,"
+            ",TCGA-LL-A440,LL,A440,00B11CA8-8540-4A3D-B602-EC754B00230B,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",26,10,2012,2
+791,FEMALE,Dead,"
+            ",TCGA-BH-A1F2,BH,A1F2,6a2972e3-cca9-47e5-aac0-b770f2399eeb,YES,C50.9,8541/3,C50.9,0,Positive,Positive,Positive,"
+            ",7,9,2011,3
+792,FEMALE,Alive,"
+            ",TCGA-C8-A12U,C8,A12U,97b5f490-1cd9-4833-b903-5f4c6e45670d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",13,4,2011,3
+793,FEMALE,Alive,"
+            ",TCGA-D8-A1J8,D8,A1J8,62d70067-ff77-4f95-8b69-f537abaf74ce,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",23,3,2011,3
+794,FEMALE,Alive,"
+            ",TCGA-E9-A1RI,E9,A1RI,dd3bfb26-b534-4917-9c4d-9fe7b6477762,YES,C50.9,8522/3,C50.9,0,null,null,null,"
+            ",28,7,2011,6
+795,FEMALE,Alive,"
+            ",TCGA-D8-A1JG,D8,A1JG,7f2a63e6-64d5-4be1-9814-e8416fc9e688,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",28,3,2011,2
+796,FEMALE,Alive,"
+            ",TCGA-E2-A15F,E2,A15F,ec77a23d-84f5-47e4-bf2a-fa1c03baf3db,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",13,4,2011,2
+797,FEMALE,Alive,"
+            ",TCGA-BH-A0HX,BH,A0HX,3b01d064-8c00-4972-9f07-407eac8e7534,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,11,2010,3
+798,FEMALE,Alive,"
+            ",TCGA-BH-A0BF,BH,A0BF,e6b79d7a-ed6b-459a-b040-d142616e7ab4,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",5,8,2011,6
+799,FEMALE,Alive,"
+            ",TCGA-D8-A1JS,D8,A1JS,0d03055c-186b-418a-b614-e2035757bc3b,YES,C50.9,8503/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,3,2011,2
+800,FEMALE,Alive,"
+            ",TCGA-S3-AA0Z,S3,AA0Z,CFFE832C-8A81-4CDB-8B25-DF7F35AFAFDC,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",18,4,2014,2
+801,FEMALE,Alive,"
+            ",TCGA-EW-A1PC,EW,A1PC,F45210D3-9E66-4F5E-BEF1-5EE5547CC893,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,9,2011,2
+802,FEMALE,Alive,"
+            ",TCGA-AN-A0XW,AN,A0XW,39de7761-e762-4811-b95c-8216b79ae06b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",29,3,2011,3
+803,FEMALE,Alive,"
+            ",TCGA-AC-A6NO,AC,A6NO,8D9B50D1-139B-4447-AE9C-E54764D9E2A7,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,4,2014,2
+804,FEMALE,Alive,"
+            ",TCGA-BH-A0DP,BH,A0DP,14267783-5624-4fe5-ba81-9d67f1017474,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,11,2010,5
+805,FEMALE,Alive,"
+            ",TCGA-E2-A1LL,E2,A1LL,2a84997d-ccee-4f46-bea2-752534f26416,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",3,6,2011,4
+806,FEMALE,Alive,"
+            ",TCGA-BH-A0C3,BH,A0C3,7bcf6d42-eb8f-4aa2-825b-38671d4f9e3a,YES,C50.9,8522/3,C50.9,0,Negative,Positive,Negative,"
+            ",11,8,2011,6
+807,FEMALE,Alive,"
+            ",TCGA-LL-A5YO,LL,A5YO,B8AEFC48-4A6E-4254-A57F-5F688399B582,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",8,5,2013,2
+808,FEMALE,Alive,"
+            ",TCGA-E9-A1NG,E9,A1NG,659b0170-e914-45ff-aa55-fcb8d3dc7b8a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",23,6,2011,7
+809,FEMALE,Alive,"
+            ",TCGA-GM-A4E0,GM,A4E0,6397D7BC-9CB1-4A84-81AD-76954E0A8CEE,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",26,11,2012,2
+810,FEMALE,Alive,"
+            ",TCGA-AR-A24U,AR,A24U,241fffc8-4250-4cfa-b2e7-e68c33ae07dc,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",26,8,2011,2
+811,FEMALE,Alive,"
+            ",TCGA-AC-A3TM,AC,A3TM,67C73260-A242-4BBA-87C5-D2302556DFF7,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",1,8,2012,2
+812,FEMALE,Alive,"
+            ",TCGA-EW-A1P3,EW,A1P3,1ff85ada-3cdd-4afb-b311-2c7befb52702,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,6,2011,2
+813,FEMALE,Alive,"
+            ",TCGA-AR-A2LQ,AR,A2LQ,4229E432-6AC5-49D2-B58A-E8713DDB79BD,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",12,1,2012,2
+814,FEMALE,Dead,"
+            ",TCGA-A2-A0CM,A2,A0CM,eb2dbb4f-66b6-4525-8323-431970f7a64e,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",6,9,2010,3
+815,FEMALE,Alive,"
+            ",TCGA-AO-A12E,AO,A12E,2cbeadff-a8a3-4787-9d4e-f6b74c3ab5d9,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",8,12,2010,3
+816,FEMALE,Alive,"
+            ",TCGA-E2-A1IF,E2,A1IF,718db047-9f32-48c4-98c9-515218441bca,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,4,2011,4
+817,FEMALE,Alive,"
+            ",TCGA-AC-A2B8,AC,A2B8,6E126B73-D3E8-4641-A128-306F3B313E40,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",12,9,2011,2
+818,FEMALE,Alive,"
+            ",TCGA-5L-AAT1,5L,AAT1,16FC3677-0393-4ED1-AD3F-C8355F056369,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",15,8,2014,2
+819,FEMALE,Alive,"
+            ",TCGA-AO-A0JE,AO,A0JE,36fe6152-f61e-4948-9ccc-23ac01a9d77d,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",20,9,2010,3
+820,FEMALE,Alive,"
+            ",TCGA-D8-A1XQ,D8,A1XQ,3886b4fb-ba22-4a50-b11a-a6893951f170,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",16,5,2011,2
+821,FEMALE,Alive,"
+            ",TCGA-AO-A0JG,AO,A0JG,58959e88-54e2-4558-9664-2effda7403dc,YES,C50.9,8523/3,C50.9,0,Positive,Positive,Negative,"
+            ",20,9,2010,3
+822,FEMALE,Alive,"
+            ",TCGA-A7-A425,A7,A425,A8F5C479-8685-4E2D-BB60-63F1CC651083,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Indeterminate,"
+            ",5,11,2012,2
+823,FEMALE,Alive,"
+            ",TCGA-E2-A1B4,E2,A1B4,dbb2da92-99dd-400c-bc05-e87d7273656c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",25,4,2011,2
+824,FEMALE,Alive,"
+            ",TCGA-E2-A15A,E2,A15A,73ccc949-01b7-48d3-a7c4-c4bcd261672a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,4,2011,3
+825,FEMALE,Alive,"
+            ",TCGA-D8-A1JK,D8,A1JK,56203436-8634-4fd0-96b5-ba6be9d87857,YES,C50.9,8500/3,C50.9,0,Positive,Negative,Negative,"
+            ",29,3,2011,2
+826,FEMALE,Alive,"
+            ",TCGA-E9-A1RG,E9,A1RG,8744733a-7b46-43aa-bdef-64876816adbb,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",2,8,2011,2
+827,FEMALE,Alive,"
+            ",TCGA-A2-A0T7,A2,A0T7,43d5632e-7272-4aad-9496-7f5a99671223,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",17,11,2010,3
+828,FEMALE,Alive,"
+            ",TCGA-AR-A2LK,AR,A2LK,1B703058-E596-45BC-80FE-8B98D545C2E2,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",25,1,2012,2
+829,FEMALE,Alive,"
+            ",TCGA-A8-A08C,A8,A08C,78e1da41-127c-4e9c-aaaa-77a0d94c31d0,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+830,FEMALE,Alive,"
+            ",TCGA-AN-A0AL,AN,A0AL,3e9f93c0-aa79-4b4c-bd6c-b3325912362a,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",21,12,2010,3
+831,FEMALE,Alive,"
+            ",TCGA-A1-A0SN,A1,A0SN,0dc337fa-da8b-42c4-b9a7-fb76d81c161f,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",23,5,2011,3
+832,FEMALE,Alive,"
+            ",TCGA-AC-A2FK,AC,A2FK,79126E88-9CF8-45FF-BF91-A98DA3B304D7,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",13,9,2011,4
+833,FEMALE,Alive,"
+            ",TCGA-E2-A1IK,E2,A1IK,becedbfd-b2aa-4dde-b7f4-29e6f59ec32c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",17,5,2011,2
+834,FEMALE,Alive,"
+            ",TCGA-AC-A3YI,AC,A3YI,A45D296E-EFC0-479E-B2F6-BAD834668CDF,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",8,10,2012,2
+835,FEMALE,Alive,"
+            ",TCGA-EW-A1OW,EW,A1OW,f55dd73d-8c36-440b-84e5-9aae53107775,YES,C50.9,8090/3,C50.9,0,Negative,Negative,Negative,"
+            ",18,5,2011,2
+836,FEMALE,Alive,"
+            ",TCGA-LL-A9Q3,LL,A9Q3,6AF6D256-A753-46D2-B611-E4094FF265AA,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",21,5,2014,2
+837,FEMALE,Alive,"
+            ",TCGA-AC-A3W6,AC,A3W6,1B4CFAD1-E353-4411-97B6-2B7B9309E95E,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",24,9,2012,2
+838,FEMALE,Alive,"
+            ",TCGA-AR-A0TQ,AR,A0TQ,5dc1bee9-c44d-4fdc-9ae5-83426c4d6880,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",7,3,2011,3
+839,FEMALE,Alive,"
+            ",TCGA-BH-A202,BH,A202,e7a00d67-2c26-4d1f-bd17-35f659e88bc1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",8,9,2011,2
+840,FEMALE,Alive,"
+            ",TCGA-GM-A3XN,GM,A3XN,0930E97A-72EA-4BD5-B2F0-50C76AF695F3,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",1,10,2012,2
+841,FEMALE,Alive,"
+            ",TCGA-C8-A3M8,C8,A3M8,C1E704D6-A33B-4891-90BD-992B0040C075,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",6,3,2012,2
+842,FEMALE,Alive,"
+            ",TCGA-AC-A62X,AC,A62X,5B2A4F11-CA46-4974-9420-59B4820920BF,YES,C50.9,8500/3,C50.9,0,Negative,Positive,null,"
+            ",21,10,2013,2
+843,FEMALE,Alive,"
+            ",TCGA-LL-A7SZ,LL,A7SZ,09A5E9FD-D816-4F8C-BAA9-0E40BA607B16,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,1,2014,2
+844,FEMALE,Alive,"
+            ",TCGA-E9-A244,E9,A244,a4c59287-1ad5-46a5-8040-e591e6ce064f,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",15,3,2011,2
+845,FEMALE,Alive,"
+            ",TCGA-A1-A0SQ,A1,A0SQ,08de63a2-7b76-43c3-80dc-df748b1d81bc,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",30,6,2011,3
+846,FEMALE,Alive,"
+            ",TCGA-D8-A1XD,D8,A1XD,c4699748-f01d-4b30-9c74-1ca77fb84ac1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",16,5,2011,2
+847,FEMALE,Alive,"
+            ",TCGA-E2-A156,E2,A156,f05d314c-5ec5-4e2a-b785-9a702716f111,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,4,2011,2
+848,FEMALE,Alive,"
+            ",TCGA-E2-A572,E2,A572,06EF6E83-5583-45B9-A0BD-EDEA68943083,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",10,9,2013,2
+849,FEMALE,Alive,"
+            ",TCGA-A2-A0CL,A2,A0CL,5c8983f2-9788-4dfa-971c-3ec457b6166e,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,1,2011,3
+850,FEMALE,Alive,"
+            ",TCGA-D8-A3Z6,D8,A3Z6,A6E5F869-1182-4F81-B4BB-CF55261C8F3F,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",3,7,2012,4
+851,FEMALE,Alive,"
+            ",TCGA-BH-A0EE,BH,A0EE,ca76c6fc-ff30-4833-884d-3a94fe53ff17,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",9,11,2010,3
+852,FEMALE,Dead,"
+            ",TCGA-PE-A5DC,PE,A5DC,76099BEB-0ABE-4B56-8B4E-E4485E0402E6,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",30,4,2013,2
+853,FEMALE,Alive,"
+            ",TCGA-A8-A08R,A8,A08R,6412854a-f874-469e-9d1f-8bd3ae5bd41d,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",27,5,2011,3
+854,FEMALE,Alive,"
+            ",TCGA-C8-A3M7,C8,A3M7,959FF069-8A49-4C9B-85C2-5291CAC0ACFF,YES,C50.9,8520/3,C50.9,0,Negative,Negative,Negative,"
+            ",6,3,2012,2
+855,FEMALE,Alive,"
+            ",TCGA-C8-A26Z,C8,A26Z,dc11b1c7-1f00-4813-b4b5-ecf776b2eb37,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,7,2011,2
+856,FEMALE,Alive,"
+            ",TCGA-D8-A13Y,D8,A13Y,17f275c1-a0d4-487d-8f02-ea279584b4cd,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",23,2,2011,4
+857,FEMALE,Alive,"
+            ",TCGA-E9-A229,E9,A229,cea9d8f9-e18c-4947-a461-5f712e3c1e6d,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",2,8,2011,2
+858,FEMALE,Alive,"
+            ",TCGA-AN-A049,AN,A049,2e1e3bf0-1708-4b65-936c-48b89eb8966a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,12,2010,2
+859,FEMALE,Alive,"
+            ",TCGA-AC-A3W5,AC,A3W5,4C313E5B-4DC3-408E-8E92-22427F74743E,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",24,9,2012,2
+860,FEMALE,Alive,"
+            ",TCGA-E9-A1N4,E9,A1N4,69a68fbc-e43d-4652-85ee-693211bded47,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Positive,"
+            ",26,5,2011,6
+861,FEMALE,Alive,"
+            ",TCGA-AR-A24M,AR,A24M,aa30ac3d-4216-45dd-a314-1ae192fafcb2,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Negative,"
+            ",12,8,2011,2
+862,FEMALE,Alive,"
+            ",TCGA-D8-A27V,D8,A27V,AD6D26AB-6568-40DB-BFB0-394D40E801CF,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,7,2011,3
+863,FEMALE,Alive,"
+            ",TCGA-AR-A24O,AR,A24O,125b0a9a-6cbe-4207-9178-e7ff03487e87,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Negative,"
+            ",16,8,2011,2
+864,FEMALE,Alive,"
+            ",TCGA-AR-A1AW,AR,A1AW,a12fd22a-7f84-4b6e-b6d8-012e38eb73d7,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",14,6,2011,2
+865,FEMALE,Dead,"
+            ",TCGA-B6-A0IN,B6,A0IN,16a8d916-ad46-4690-b1a5-3b2b323f4336,YES,C50.9,8523/3,C50.9,0,Negative,Positive,null,"
+            ",2,11,2010,2
+866,FEMALE,Alive,"
+            ",TCGA-BH-A0BR,BH,A0BR,3ecb0147-276d-486c-9af0-ce437c24ba83,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,8,2011,3
+867,FEMALE,Alive,"
+            ",TCGA-AO-A03M,AO,A03M,095c7985-3842-494f-b591-706ad1cd2133,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,1,2011,3
+868,FEMALE,Alive,"
+            ",TCGA-A2-A0YH,A2,A0YH,298d33da-15af-48cb-b30f-eaf54e7baa43,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",14,12,2010,3
+869,FEMALE,Alive,"
+            ",TCGA-A8-A096,A8,A096,d7cac141-9269-4733-83ce-e1bc0b503254,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+870,FEMALE,Alive,"
+            ",TCGA-AR-A0TS,AR,A0TS,972447aa-4332-47e7-bddd-2eb699dbb664,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",8,3,2011,3
+871,FEMALE,Alive,"
+            ",TCGA-A7-A26H,A7,A26H,dddd8e2f-e540-418a-b02e-698d18a12c14,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",4,8,2011,2
+872,FEMALE,Alive,"
+            ",TCGA-AR-A0U0,AR,A0U0,e3c336f5-c32f-4c5d-81fb-e2408ae145b2,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",7,3,2011,3
+873,FEMALE,Dead,"
+            ",TCGA-B6-A0RP,B6,A0RP,451e1a67-47e6-4738-99d7-fb7771ef61a3,YES,C50.9,8522/3,C50.9,0,Positive,Positive,null,"
+            ",2,11,2010,3
+874,FEMALE,Alive,"
+            ",TCGA-A8-A06Z,A8,A06Z,2399caeb-ead2-4003-af38-809db4ac2e2b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+875,FEMALE,Alive,"
+            ",TCGA-3C-AALK,3C,AALK,C31900A4-5DCD-4022-97AC-638E86E889E4,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",28,7,2014,2
+876,FEMALE,Alive,"
+            ",TCGA-LD-A66U,LD,A66U,38DC3E09-0B0E-4A29-B318-CC0352013DAE,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,6,2013,2
+877,FEMALE,Alive,"
+            ",TCGA-E2-A1IG,E2,A1IG,bc0bc70f-c6cf-4dbc-9dc3-8b7bc5f381a4,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,4,2011,4
+878,FEMALE,Alive,"
+            ",TCGA-AN-A0XO,AN,A0XO,195b6731-6ae6-416e-a345-0eb8874a0ca2,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",1,5,2011,3
+879,FEMALE,Alive,"
+            ",TCGA-LL-A442,LL,A442,3F56D67F-5A9C-4353-9408-E7F60EB6477B,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",26,10,2012,2
+880,FEMALE,Alive,"
+            ",TCGA-E9-A1N9,E9,A1N9,994ca1f5-ad10-44ec-aa21-71fc2940653b,YES,C50.9,8522/3,C50.9,0,Positive,Negative,Positive,"
+            ",23,6,2011,6
+881,FEMALE,Alive,"
+            ",TCGA-C8-A26V,C8,A26V,89414e79-7f89-42d9-8228-101b5bf2f31f,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,7,2011,2
+882,FEMALE,Alive,"
+            ",TCGA-A2-A0D4,A2,A0D4,75113445-d2d6-44a0-866c-c9175e6d214b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,9,2010,3
+883,FEMALE,Alive,"
+            ",TCGA-A2-A0CP,A2,A0CP,fe15c48b-116d-461e-9b40-68514730fd18,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",8,9,2010,3
+884,FEMALE,Alive,"
+            ",TCGA-GM-A3XG,GM,A3XG,6F0FD68F-ED6A-4C9E-BE02-C97BA4950F76,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",1,10,2012,2
+885,FEMALE,Alive,"
+            ",TCGA-A7-A6VX,A7,A6VX,7EEA2B6E-771F-44C0-9350-38F45C8DBE87,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,10,2013,3
+886,FEMALE,Alive,"
+            ",TCGA-D8-A27M,D8,A27M,ae65baeb-6b78-492a-8c63-bb7e93e83dc2,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",17,7,2011,2
+887,FEMALE,Alive,"
+            ",TCGA-A7-A26G,A7,A26G,5ed024e8-d05e-4c65-9441-eda9930ccc82,YES,C50.9,8575/3,C50.9,0,Negative,Negative,Negative,"
+            ",10,8,2011,2
+888,FEMALE,Alive,"
+            ",TCGA-AO-A12G,AO,A12G,58c56d4b-3f85-4aad-a779-5f9e1791677d,YES,C50.9,8022/3,C50.9,0,Positive,Positive,Positive,"
+            ",8,12,2010,3
+889,MALE,Alive,"
+            ",TCGA-BH-A0B4,BH,A0B4,c710f4ab-fbd9-42ed-95d4-4e6d51207f38,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",4,11,2010,3
+890,MALE,Alive,"
+            ",TCGA-AO-A1KQ,AO,A1KQ,d2219a3f-4c55-4dee-9b08-c6f330dd1acf,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",1,4,2011,2
+891,FEMALE,Alive,"
+            ",TCGA-BH-A28O,BH,A28O,84B7CCF2-8AB3-4B21-96DE-800D231BC072,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",2,7,2012,2
+892,FEMALE,Alive,"
+            ",TCGA-E2-A153,E2,A153,be9bf36a-12e1-4386-addf-1686dc8b49de,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,4,2011,5
+893,FEMALE,Alive,"
+            ",TCGA-A7-A6VY,A7,A6VY,E8EA576B-EB16-44F7-B241-DAEFC1375388,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",25,10,2013,2
+894,FEMALE,Alive,"
+            ",TCGA-AN-A0XN,AN,A0XN,4e3699da-4367-4a43-9d66-a117d3ad460d,YES,C50.9,8500/3,C50.9,0,Positive,Negative,Negative,"
+            ",25,3,2011,3
+895,FEMALE,Alive,"
+            ",TCGA-S3-AA15,S3,AA15,E783E518-C1E5-4EAC-8EAF-E2D65CCD9692,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",18,4,2014,3
+896,FEMALE,Alive,"
+            ",TCGA-BH-A18G,BH,A18G,747083ff-0703-431b-aad4-f2adff739516,YES,C50.5,8500/3,C50.5,0,Negative,Negative,Negative,"
+            ",1,6,2011,2
+897,FEMALE,Alive,"
+            ",TCGA-EW-A1PH,EW,A1PH,4da999a0-ef41-4a0b-b1d1-446b39cc855a,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",27,5,2011,2
+898,FEMALE,Alive,"
+            ",TCGA-E9-A1R2,E9,A1R2,8631969d-4ac6-4fe1-9db3-d47db604494a,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",28,7,2011,2
+899,FEMALE,Alive,"
+            ",TCGA-AC-A2FG,AC,A2FG,39CDA4C9-E1C8-44C2-BAB7-F5849C12F879,YES,C50.9,8520/3,C50.9,0,Negative,Positive,null,"
+            ",21,9,2011,4
+900,FEMALE,Alive,"
+            ",TCGA-LQ-A4E4,LQ,A4E4,4F321D41-3255-46A4-AE0D-1CF39699E624,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",5,12,2012,2
+901,FEMALE,Alive,"
+            ",TCGA-AR-A1AK,AR,A1AK,94b03e1d-50ec-4680-bffd-7086d1536ff2,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",15,6,2011,2
+902,FEMALE,Alive,"
+            ",TCGA-C8-A1HI,C8,A1HI,444374f8-9282-439c-af00-0f828edcbff3,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",1,6,2011,2
+903,FEMALE,Alive,"
+            ",TCGA-E2-A2P5,E2,A2P5,F0DE67FF-8967-4FCE-9C12-0E07193285CD,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",19,12,2011,2
+904,FEMALE,Dead,"
+            ",TCGA-BH-A18K,BH,A18K,50619f8c-10aa-464a-a227-90a7aa6ffd43,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,6,2011,3
+905,FEMALE,Alive,"
+            ",TCGA-AN-A0FK,AN,A0FK,2f4cbedf-ed7e-45a2-bf34-f1d1e696bdde,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",20,12,2010,3
+906,FEMALE,Dead,"
+            ",TCGA-AR-A5QQ,AR,A5QQ,3AF31FCF-AD0C-4FD9-A8E3-10F9176B5E9D,YES,C50.9,8575/3,C50.9,0,Negative,Negative,Negative,"
+            ",15,5,2013,2
+907,FEMALE,Alive,"
+            ",TCGA-E9-A3QA,E9,A3QA,F3CB557D-23E4-4FD1-81CA-DB1A3F56D56E,YES,C50.9,8510/3,C50.9,0,null,null,null,"
+            ",30,4,2012,2
+908,FEMALE,Alive,"
+            ",TCGA-A8-A07F,A8,A07F,5d688049-f271-40ef-813a-d37240ffe21c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+909,FEMALE,Alive,"
+            ",TCGA-BH-A0DG,BH,A0DG,0bc5744c-5fa3-45bb-87d0-70a02068b392,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",2,8,2011,4
+910,FEMALE,Alive,"
+            ",TCGA-E2-A14Y,E2,A14Y,a0576d44-9add-429b-9eeb-f7b234b7385f,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",6,4,2011,3
+911,FEMALE,Alive,"
+            ",TCGA-EW-A1J2,EW,A1J2,a381275f-8858-4793-a8a2-0ca9db7274c8,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,2
+912,FEMALE,Alive,"
+            ",TCGA-BH-A0HB,BH,A0HB,0c1023c0-d2ce-4940-8047-7642f1dc3965,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",10,11,2010,3
+913,FEMALE,Alive,"
+            ",TCGA-AR-A1AP,AR,A1AP,9495f029-9882-4c9b-a557-b3aec9e91698,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",13,6,2011,2
+914,FEMALE,Alive,"
+            ",TCGA-E2-A1LI,E2,A1LI,3558dec7-eae3-4a41-a217-266c6a4535fb,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",3,6,2011,4
+915,FEMALE,Alive,"
+            ",TCGA-AN-A0FF,AN,A0FF,d5cab7f5-e4f1-40ee-a0c8-4c8004c1c9a0,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,12,2010,3
+916,FEMALE,Alive,"
+            ",TCGA-A1-A0SG,A1,A0SG,0ed9ad26-7fdc-4d75-93f9-d029eee94993,YES,C50.9,8507/3,C50.9,0,Positive,Positive,Negative,"
+            ",31,5,2011,2
+917,FEMALE,Alive,"
+            ",TCGA-LL-A5YL,LL,A5YL,1D75E89D-4B01-443C-BE54-749C7A667BF4,YES,C50.9,8520/3,C50.9,0,Negative,Positive,Positive,"
+            ",3,6,2013,2
+918,FEMALE,Alive,"
+            ",TCGA-E9-A5UO,E9,A5UO,ED2617C3-5D3B-4688-9283-0F8A10E0B10D,YES,C50.9,8480/3,C50.9,0,null,null,null,"
+            ",23,5,2013,2
+919,FEMALE,Alive,"
+            ",TCGA-BH-A0BV,BH,A0BV,87f03d04-e651-4a6e-aea6-1c946aa46202,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,11,2010,4
+920,FEMALE,Alive,"
+            ",TCGA-AO-A03L,AO,A03L,1174f6e4-ffbe-4e59-a000-8d861c968369,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",7,12,2010,3
+921,FEMALE,Alive,"
+            ",TCGA-AN-A0FX,AN,A0FX,13b860c3-8048-4dc9-9eb0-7480bc660837,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",28,11,2010,3
+922,FEMALE,Alive,"
+            ",TCGA-AR-A24Q,AR,A24Q,28e9048a-e540-42de-a1f4-4ef894fccc4c,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",30,8,2011,2
+923,FEMALE,Alive,"
+            ",TCGA-A2-A4S1,A2,A4S1,843C8F16-5E59-40D4-9ECC-8A75375156F6,YES,C50.9,8575/3,C50.9,0,Negative,Positive,Negative,"
+            ",26,2,2013,2
+924,FEMALE,Alive,"
+            ",TCGA-AC-A3BB,AC,A3BB,048549CF-D0A5-4743-A0A1-2004F7CC2B08,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",3,2,2012,2
+925,FEMALE,Alive,"
+            ",TCGA-A2-A4S0,A2,A4S0,A53DD490-E0BA-419A-90C6-B905E241A8E5,YES,C50.9,8480/3,C50.9,0,Positive,Positive,Negative,"
+            ",26,2,2013,2
+926,FEMALE,Alive,"
+            ",TCGA-E2-A152,E2,A152,a8015490-9740-45c9-8bd2-eb6d1beefc2e,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",6,4,2011,2
+927,FEMALE,Alive,"
+            ",TCGA-E2-A1BC,E2,A1BC,d8492ebd-3d94-4a4b-8de7-386526691cc2,YES,C50.9,8524/3,C50.9,0,Positive,Positive,Negative,"
+            ",25,4,2011,5
+928,FEMALE,Alive,"
+            ",TCGA-Z7-A8R5,Z7,A8R5,23F438BD-1DBB-4D46-972F-1E8E74DDBD37,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,7,2014,2
+929,FEMALE,Alive,"
+            ",TCGA-AO-A12A,AO,A12A,99927651-34be-4795-893a-128d8a1fdb30,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",8,12,2010,3
+930,FEMALE,Alive,"
+            ",TCGA-BH-A0HN,BH,A0HN,a68a3361-48b4-4bd0-999d-b4cc3d43eb4a,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",11,11,2010,3
+931,FEMALE,Alive,"
+            ",TCGA-A2-A0YF,A2,A0YF,ae8c77fe-e6c8-44d5-8265-4a38c637bbef,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",2,12,2010,3
+932,FEMALE,Dead,"
+            ",TCGA-BH-A18L,BH,A18L,9ddc3e7b-8b54-4a83-8335-8053940f56c1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,6,2011,6
+933,FEMALE,Alive,"
+            ",TCGA-A2-A0ET,A2,A0ET,96f23d8a-be0f-4925-ba00-805dc293414c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",20,9,2010,3
+934,FEMALE,Alive,"
+            ",TCGA-A2-A0EQ,A2,A0EQ,2192c1db-4718-4254-ba42-3ae7f30ad5a8,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",11,8,2010,3
+935,FEMALE,Alive,"
+            ",TCGA-OL-A66K,OL,A66K,2AB1B35B-9E56-475C-AC9B-15ED0A422683,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",11,6,2013,2
+936,FEMALE,Alive,"
+            ",TCGA-E2-A15S,E2,A15S,0f7ab21b-1fd0-45e0-9a47-17c4691eb84f,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",14,4,2011,2
+937,FEMALE,Alive,"
+            ",TCGA-AR-A2LL,AR,A2LL,70FC011C-0F22-4026-9D72-87351126203A,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",14,2,2012,2
+938,FEMALE,Alive,"
+            ",TCGA-AR-A251,AR,A251,8c51bbcb-7c8d-47ad-9193-70ca157c6900,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",30,8,2011,2
+939,FEMALE,Alive,"
+            ",TCGA-GI-A2C9,GI,A2C9,9F6BE944-83DE-42AB-8738-F0022F475E61,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",21,10,2011,3
+940,FEMALE,Alive,"
+            ",TCGA-D8-A147,D8,A147,fc18d029-9be2-4fa0-9aef-6d647dc55f0b,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",27,2,2011,3
+941,FEMALE,Dead,"
+            ",TCGA-B6-A0I6,B6,A0I6,045c13ef-3db7-4adf-b0a3-23338f0479f3,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",2,11,2010,3
+942,FEMALE,Alive,"
+            ",TCGA-AO-A0J9,AO,A0J9,a4903de8-6cf5-4541-8ec7-065beace8b44,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",19,9,2010,3
+943,FEMALE,Alive,"
+            ",TCGA-3C-AAAU,3C,AAAU,6E7D5EC6-A469-467C-B748-237353C23416,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",13,1,2014,1
+944,FEMALE,Alive,"
+            ",TCGA-A2-A0SU,A2,A0SU,c632675e-e8af-43cd-8744-5be3754c1c14,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",17,11,2010,3
+945,FEMALE,Alive,"
+            ",TCGA-5T-A9QA,5T,A9QA,2FD36838-5A83-433E-AC80-B1F77448E5AA,YES,C50.9,8523/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",23,12,2013,2
+946,FEMALE,Alive,"
+            ",TCGA-D8-A27K,D8,A27K,7f97971b-2818-4e4b-9c9e-7c0246f9484c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",18,7,2011,2
+947,FEMALE,Alive,"
+            ",TCGA-A8-A08X,A8,A08X,f5539207-6534-4edc-a5a5-7666b5d16ba4,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",27,5,2011,3
+948,FEMALE,Alive,"
+            ",TCGA-BH-A0GZ,BH,A0GZ,27dfb9d4-3a2c-44bc-9acf-8f638d3f3004,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",10,11,2010,3
+949,FEMALE,Alive,"
+            ",TCGA-E2-A3DX,E2,A3DX,31427699-E27A-4035-8925-6D8D6900D097,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",17,1,2012,2
+950,FEMALE,Alive,"
+            ",TCGA-AR-A254,AR,A254,6014a582-d22e-46e1-9000-c8e2fbad7acf,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",31,8,2011,2
+951,FEMALE,Alive,"
+            ",TCGA-AN-A0FD,AN,A0FD,c6086936-7544-4da0-8c0c-114166848483,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",20,12,2010,3
+952,FEMALE,Alive,"
+            ",TCGA-A7-A4SF,A7,A4SF,D81594D9-DD6A-45C3-8BAD-61960611D78D,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",25,2,2013,2
+953,FEMALE,Alive,"
+            ",TCGA-B6-A0IQ,B6,A0IQ,01eef340-598c-4205-a990-cec190ac2ca5,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",2,11,2010,3
+954,FEMALE,Alive,"
+            ",TCGA-D8-A1JE,D8,A1JE,115bc72c-116f-40c1-be9b-e3dd7650efae,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,3,2011,3
+955,FEMALE,Alive,"
+            ",TCGA-A8-A08A,A8,A08A,7fe4670d-4626-459d-869b-ab15f478c6a7,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+956,FEMALE,Alive,"
+            ",TCGA-E9-A1RE,E9,A1RE,24046547-d038-4616-b190-52ac93f4965f,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",28,7,2011,2
+957,FEMALE,Alive,"
+            ",TCGA-BH-A0BT,BH,A0BT,a32cb96a-78bf-456e-a6ab-2d47b2c67ad4,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",2,8,2011,5
+958,FEMALE,Dead,"
+            ",TCGA-B6-A0IG,B6,A0IG,34ab0cb8-bf19-4cbb-b4eb-3c45ee5aa60b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",2,11,2010,3
+959,FEMALE,Alive,"
+            ",TCGA-AR-A1AU,AR,A1AU,36220587-1c1c-4f92-b177-3b2155e7e273,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",14,6,2011,2
+960,FEMALE,Dead,"
+            ",TCGA-BH-A18S,BH,A18S,433427a1-bacf-4381-91ba-5fec8a0953f9,YES,C50.3,8523/3,C50.3,0,Positive,Positive,Negative,"
+            ",2,7,2011,6
+961,FEMALE,Alive,"
+            ",TCGA-E9-A1R5,E9,A1R5,23c21dea-3713-408f-ba56-f7c586e9f206,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",28,7,2011,2
+962,FEMALE,Alive,"
+            ",TCGA-A8-A091,A8,A091,f39edd06-1016-4e8e-a42e-12f7e699ddc5,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",27,5,2011,3
+963,FEMALE,Alive,"
+            ",TCGA-E2-A1IH,E2,A1IH,ec0155ab-1b14-498d-8fa9-9f63e3ccb990,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",28,4,2011,2
+964,FEMALE,Alive,"
+            ",TCGA-LL-A441,LL,A441,69FC24FC-CFE2-487A-935F-1A954B30B709,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",5,11,2012,2
+965,FEMALE,Alive,"
+            ",TCGA-EW-A1PB,EW,A1PB,88db1340-e4bf-451a-87c0-6e9168296f5e,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",18,5,2011,2
+966,FEMALE,Alive,"
+            ",TCGA-D8-A1JT,D8,A1JT,cd781589-3820-45a2-906b-8d60cd02f3ef,YES,C50.9,8523/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",28,3,2011,3
+967,FEMALE,Dead,"
+            ",TCGA-EW-A1P8,EW,A1P8,359f12f9-5c41-48a4-85bc-fd7e307bf7d8,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",27,5,2011,2
+968,FEMALE,Alive,"
+            ",TCGA-A2-A0SX,A2,A0SX,18d35983-ea6a-4b70-a209-9bef37595956,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",9,11,2010,3
+969,FEMALE,Alive,"
+            ",TCGA-EW-A6S9,EW,A6S9,9676E46B-8F29-43CD-AB65-EB6A535CCED4,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",13,3,2015,2
+970,FEMALE,Alive,"
+            ",TCGA-AQ-A54N,AQ,A54N,58090433-D8D1-4499-A235-810C3E9D5B74,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",26,2,2013,2
+971,FEMALE,Alive,"
+            ",TCGA-AQ-A7U7,AQ,A7U7,19015644-9C17-4AE7-A656-0FE8623C04AE,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",18,12,2013,2
+972,FEMALE,Alive,"
+            ",TCGA-E2-A158,E2,A158,a6edb6ca-ae9f-4da7-8ebe-92d83d2987fb,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",7,4,2011,3
+973,FEMALE,Alive,"
+            ",TCGA-A8-A090,A8,A090,f4b69043-4a67-48e3-a4d1-72a21ae2d175,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",27,5,2011,3
+974,FEMALE,Dead,"
+            ",TCGA-A2-A3XU,A2,A3XU,A8E7D8A4-BBF0-496B-B387-8E014CFDCEA6,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",29,8,2012,2
+975,FEMALE,Alive,"
+            ",TCGA-LL-A5YN,LL,A5YN,EF1B3332-CD7F-41BB-A2D3-2538E7BECC5C,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",20,5,2013,2
+976,FEMALE,Alive,"
+            ",TCGA-OL-A66N,OL,A66N,E9002F4E-BA0B-4738-9368-DD9614A5DA8A,YES,C50.9,8520/3,C50.9,0,Negative,Positive,null,"
+            ",11,6,2013,2
+977,FEMALE,Alive,"
+            ",TCGA-C8-A12Y,C8,A12Y,298a1710-deb4-4064-a0f2-da32d43aa217,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",13,4,2011,3
+978,FEMALE,Alive,"
+            ",TCGA-A2-A0EY,A2,A0EY,d67cd793-2931-429a-9084-2f3c4c8be7ad,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",21,9,2010,3
+979,FEMALE,Alive,"
+            ",TCGA-BH-A0B8,BH,A0B8,d3a75976-67d3-40fa-9f6f-cf2a3d7b773c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",3,11,2010,4
+980,FEMALE,Alive,"
+            ",TCGA-EW-A1PA,EW,A1PA,4cfef7f9-f1ee-401c-a2a3-c225d4adc3b6,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,5,2011,2
+981,FEMALE,Alive,"
+            ",TCGA-C8-A27A,C8,A27A,3b1f7e48-216d-47de-ba79-db350f52bff0,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,7,2011,2
+982,FEMALE,Alive,"
+            ",TCGA-E9-A1N3,E9,A1N3,03c143e0-d8a1-4d60-a4a3-df0501fc6b6e,YES,C50.9,8522/3,C50.9,0,null,null,null,"
+            ",26,5,2011,2
+983,FEMALE,Alive,"
+            ",TCGA-BH-A0B0,BH,A0B0,66af34ea-f471-4092-aff6-9ac9a5b75b11,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,7,2011,3
+984,FEMALE,Alive,"
+            ",TCGA-AO-A128,AO,A128,016caf42-4e19-4444-ab5d-6cf1e76c4afa,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",7,12,2010,3
+985,FEMALE,Dead,"
+            ",TCGA-AR-A1AR,AR,A1AR,eda6d2d5-4199-4f76-a45b-1d0401b4e54c,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",28,6,2011,2
+986,FEMALE,Alive,"
+            ",TCGA-B6-A40B,B6,A40B,8539E15F-BA40-4219-AAEB-08D0AB101311,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",20,9,2012,1
+987,FEMALE,Alive,"
+            ",TCGA-BH-A18F,BH,A18F,bfd49783-1767-469b-9d79-7822301c5efc,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",1,6,2011,4
+988,FEMALE,Alive,"
+            ",TCGA-A8-A095,A8,A095,29df128d-ace2-40cf-88ee-3f6f2170f159,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+989,FEMALE,Alive,"
+            ",TCGA-AR-A1AO,AR,A1AO,623befd6-0ca4-4a6c-9cf5-d9385c3b718f,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",13,6,2011,2
+990,FEMALE,Alive,"
+            ",TCGA-BH-A6R8,BH,A6R8,91B09291-5944-4691-A0D8-7D1CCC649B9B,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",13,2,2014,1
+991,FEMALE,Alive,"
+            ",TCGA-B6-A0RE,B6,A0RE,08da7c4c-3067-4bcf-9d7a-78566df72e69,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",2,11,2010,3
+992,FEMALE,Alive,"
+            ",TCGA-A2-A0YK,A2,A0YK,8f34cb4c-5798-47a0-89a1-f0ee26a8ae93,YES,C50.9,8520/3,C50.9,0,Negative,Positive,Negative,"
+            ",28,12,2010,3
+993,FEMALE,Alive,"
+            ",TCGA-B6-A1KN,B6,A1KN,271404de-24e8-43f6-806b-fb510c1124c4,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",19,7,2011,2
+994,FEMALE,Alive,"
+            ",TCGA-AN-A0FN,AN,A0FN,c2a742fe-3e8b-4210-85a6-7191a1123609,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",28,12,2010,3
+995,FEMALE,Alive,"
+            ",TCGA-AR-A0TP,AR,A0TP,ab89bb2e-da84-4116-a8cd-49aad7bbfd4d,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Negative,"
+            ",25,2,2011,3
+996,FEMALE,Alive,"
+            ",TCGA-BH-A0BD,BH,A0BD,b379bfb8-284e-4300-8325-85cfd6809cb8,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",4,11,2010,3
+997,FEMALE,Alive,"
+            ",TCGA-A2-A25F,A2,A25F,c836951b-3ffb-4e20-8504-0eccb7d50dd4,YES,C50.9,8500/3,C50.9,0,Positive,Negative,Negative,"
+            ",26,7,2011,2
+998,FEMALE,Alive,"
+            ",TCGA-E2-A1IJ,E2,A1IJ,b09643c2-ded5-4346-b3c5-90a48f88a02e,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",29,4,2011,2
+999,FEMALE,Alive,"
+            ",TCGA-A2-A0CX,A2,A0CX,c744fc13-3aca-4245-9e24-abd368cc8bef,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",10,9,2010,3
+1000,FEMALE,Dead,"
+            ",TCGA-B6-A0WS,B6,A0WS,197741de-a098-4f04-bb37-8ea8b3bb39bc,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",15,3,2011,3
+1001,FEMALE,Alive,"
+            ",TCGA-EW-A1P5,EW,A1P5,53d0af48-d7ea-42c9-8695-c614b89b415b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",11,5,2011,2
+1002,FEMALE,Alive,"
+            ",TCGA-AR-A24P,AR,A24P,d1fd8ed2-be13-4272-b31e-df86911db3b1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",16,8,2011,2
+1003,FEMALE,Alive,"
+            ",TCGA-E9-A1NC,E9,A1NC,e74aea7c-ca14-49df-b5cf-dacb839ac27a,YES,C50.9,8522/3,C50.9,0,Positive,Negative,Positive,"
+            ",23,6,2011,3
+1004,FEMALE,Dead,"
+            ",TCGA-BH-A1EY,BH,A1EY,0741b5db-4405-42ba-b63a-c6ee4f341480,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,9,2011,7
+1005,FEMALE,Alive,"
+            ",TCGA-E2-A15I,E2,A15I,64089c20-939f-48b4-ae8b-904ad0597145,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",13,4,2011,5
+1006,FEMALE,Alive,"
+            ",TCGA-BH-A0AV,BH,A0AV,790ff5db-b7f3-4946-aaed-305f66b1dd6a,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",2,8,2011,3
+1007,FEMALE,Alive,"
+            ",TCGA-W8-A86G,W8,A86G,90FF48C3-B14B-4A8B-94A1-98C0BAB0D27B,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,1,2014,2
+1008,FEMALE,Dead,"
+            ",TCGA-BH-A209,BH,A209,5258294f-ef5b-4091-9183-6bcc545d54b2,YES,C50.9,8510/3,C50.9,0,Positive,Positive,null,"
+            ",8,9,2011,3
+1009,FEMALE,Dead,"
+            ",TCGA-B6-A0I9,B6,A0I9,44954053-0b93-4577-a436-42777e442300,YES,C50.9,8500/3,C50.9,0,Positive,Indeterminate,null,"
+            ",2,11,2010,3
+1010,FEMALE,Alive,"
+            ",TCGA-A2-A0YC,A2,A0YC,a1872011-b928-4189-ac02-e87506c20bca,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",8,12,2010,3
+1011,FEMALE,Alive,"
+            ",TCGA-BH-A0H7,BH,A0H7,2021ed1f-dc75-4701-b8b8-1386466e4802,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",10,11,2010,5
+1012,FEMALE,Alive,"
+            ",TCGA-AQ-A1H2,AQ,A1H2,4d120899-9a80-4736-b097-285e9e261bcb,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Indeterminate,"
+            ",20,4,2011,1
+1013,MALE,Alive,"
+            ",TCGA-AR-A1AV,AR,A1AV,daf62b56-6dd2-4ab7-adaa-f296bb86a0a5,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",14,6,2011,2
+1014,FEMALE,Alive,"
+            ",TCGA-A2-A0YD,A2,A0YD,2c6adb12-380d-4710-a7e6-93d5a0e53289,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",8,12,2010,3
+1015,MALE,Alive,"
+            ",TCGA-A1-A0SM,A1,A0SM,784de7ac-8424-42eb-83d4-a1bebaa42b97,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",6,12,2010,3
+1016,FEMALE,Alive,"
+            ",TCGA-A1-A0SI,A1,A0SI,16368c32-2118-4fcf-8693-6c89995e49d8,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",30,6,2011,3
+1017,FEMALE,Alive,"
+            ",TCGA-GM-A2DD,GM,A2DD,B343BFE0-7C23-4C6A-8C84-9EE39DB2ECDA,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",29,9,2011,2
+1018,FEMALE,Alive,"
+            ",TCGA-AQ-A1H3,AQ,A1H3,82ec33dd-e783-4c74-9a87-797a699e11df,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",20,4,2011,1
+1019,FEMALE,Alive,"
+            ",TCGA-AO-A12C,AO,A12C,71626753-cc34-4731-abc0-ae188b0964e7,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",8,12,2010,3
+1020,FEMALE,Alive,"
+            ",TCGA-E9-A1N5,E9,A1N5,f954de05-1b44-4087-8933-6cc72d81028d,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Positive,"
+            ",23,6,2011,6
+1021,FEMALE,Dead,"
+            ",TCGA-BH-A1F5,BH,A1F5,e663954c-05a8-479a-a623-400c1eb5efc6,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,9,2011,6
+1022,FEMALE,Alive,"
+            ",TCGA-E2-A14X,E2,A14X,60df7543-6da5-4c75-943b-5800c1e08234,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",6,4,2011,2
+1023,FEMALE,Alive,"
+            ",TCGA-D8-A1X6,D8,A1X6,42e47f3a-dff7-41e4-8f84-146d97e8ab72,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",9,6,2011,3
+1024,FEMALE,Alive,"
+            ",TCGA-B6-A0RV,B6,A0RV,cd3faa15-743c-476f-ab0d-f205b14126b6,YES,C50.9,8522/3,C50.9,0,Positive,Positive,null,"
+            ",2,11,2010,3
+1025,FEMALE,Alive,"
+            ",TCGA-EW-A1OV,EW,A1OV,ac68d219-5670-4ddd-8df6-8aa7ad59e5c7,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",27,5,2011,2
+1026,FEMALE,Alive,"
+            ",TCGA-E2-A1L9,E2,A1L9,5ea18514-51ad-4844-abea-15e82f0b10c9,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,6,2011,2
+1027,FEMALE,Alive,"
+            ",TCGA-E2-A1LB,E2,A1LB,fa176764-a76f-44c7-b97a-cd6d21e052be,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",7,6,2011,4
+1028,FEMALE,Alive,"
+            ",TCGA-PL-A8LX,PL,A8LX,FE2CD610-AA52-4789-AC62-7683281BB22F,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",25,3,2014,2
+1029,FEMALE,Alive,"
+            ",TCGA-E2-A14R,E2,A14R,4fba3deb-db94-44b5-a0f2-a575d270779e,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",6,4,2011,2
+1030,FEMALE,Alive,"
+            ",TCGA-WT-AB44,WT,AB44,5CD79093-1571-4F71-8136-0D84CCABDCAC,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",16,7,2014,2
+1031,FEMALE,Alive,"
+            ",TCGA-S3-A6ZH,S3,A6ZH,EC461EAF-F5CB-4225-A9A0-59D8E6C17EA6,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",12,11,2013,2
+1032,FEMALE,Alive,"
+            ",TCGA-A2-A4RW,A2,A4RW,0D146997-CFDC-4587-888C-E876FC455C80,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,2,2013,2
+1033,FEMALE,Alive,"
+            ",TCGA-A7-A5ZV,A7,A5ZV,0EC70E40-07DF-461D-8FF9-351240A0D454,YES,C50.9,8010/3,C50.9,0,Negative,Negative,Equivocal,"
+            ",14,5,2013,2
+1034,FEMALE,Alive,"
+            ",TCGA-AR-A24L,AR,A24L,de646f6a-6d50-4be2-b3cd-f17554b234df,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",12,8,2011,2
+1035,FEMALE,Alive,"
+            ",TCGA-A2-A1FX,A2,A1FX,ac6d3ba9-f84f-4657-aa85-4d66fb7c09da,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",12,5,2011,2
+1036,FEMALE,Alive,"
+            ",TCGA-S3-AA11,S3,AA11,0DD8DBC1-C48B-4E7C-B401-57101F724967,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",18,4,2014,2
+1037,FEMALE,Alive,"
+            ",TCGA-E9-A3Q9,E9,A3Q9,E36E985D-2C44-4E14-854A-7DBCA4BB0304,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Indeterminate,"
+            ",30,4,2012,2
+1038,FEMALE,Alive,"
+            ",TCGA-D8-A1JN,D8,A1JN,28911b97-42bf-4189-9961-522fc0aeebc6,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Indeterminate,"
+            ",29,3,2011,2
+1039,FEMALE,Alive,"
+            ",TCGA-A2-A0CV,A2,A0CV,ad7fcc89-82a3-48aa-8461-581c1a857677,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,1,2011,3
+1040,FEMALE,Alive,"
+            ",TCGA-BH-A0W7,BH,A0W7,9f80649b-a249-4fb5-97ad-059a30e13fea,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",15,2,2011,3
+1041,FEMALE,Alive,"
+            ",TCGA-A8-A0A1,A8,A0A1,3efa245d-177d-4ef9-94f7-f554c54e345e,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+1042,FEMALE,Alive,"
+            ",TCGA-EW-A6SD,EW,A6SD,42378DBC-A123-4CF9-8502-165E89FDA271,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",14,3,2015,2
+1043,FEMALE,Alive,"
+            ",TCGA-4H-AAAK,4H,AAAK,6623FC5E-00BE-4476-967A-CBD55F676EA6,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",13,11,2014,2
+1044,FEMALE,Alive,"
+            ",TCGA-OL-A5D7,OL,A5D7,C8F39325-5382-447C-9291-A6915FC978B8,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",19,4,2013,2
+1045,MALE,Alive,"
+            ",TCGA-D8-A1XS,D8,A1XS,1026e0bf-5640-4fa5-b65f-4f11e8e76b18,YES,C50.9,8507/3,C50.9,0,Positive,Positive,Positive,"
+            ",16,5,2011,3
+1046,FEMALE,Alive,"
+            ",TCGA-D8-A1Y3,D8,A1Y3,632984bd-dc81-42b6-b024-476cfd0bb2ae,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Indeterminate,"
+            ",9,6,2011,3
+1047,FEMALE,Alive,"
+            ",TCGA-A2-A0CO,A2,A0CO,8E54232D-D8BB-4612-8B0E-4FEB076A60F9,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",21,5,2012,3
+1048,FEMALE,Alive,"
+            ",TCGA-AO-A0J8,AO,A0J8,02bf5203-f9cd-4c5a-97b4-e5584dc22325,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",19,9,2010,3
+1049,FEMALE,Alive,"
+            ",TCGA-AN-A0FY,AN,A0FY,de75d0b9-0f47-4732-8df5-05c350cfcd32,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",29,12,2010,3
+1050,FEMALE,Dead,"
+            ",TCGA-GM-A2D9,GM,A2D9,1133B8A9-6B11-4511-B70A-F200E3B8B5DB,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",28,9,2011,6
+1051,FEMALE,Alive,"
+            ",TCGA-GM-A3NY,GM,A3NY,BD5374C9-7F36-457F-B66B-7CC7FF64224E,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",3,1,2012,2
+1052,FEMALE,Alive,"
+            ",TCGA-PL-A8LV,PL,A8LV,389E5B18-8F89-41A9-9FA5-EFD4172836E2,YES,C50.9,8510/3,C50.9,0,null,null,null,"
+            ",25,3,2014,2
+1053,FEMALE,Alive,"
+            ",TCGA-D8-A73W,D8,A73W,EA8DBC7A-54C6-469C-865E-F49D00B0223D,YES,C50.9,8480/3,C50.9,0,Negative,Positive,Negative,"
+            ",28,3,2014,3
+1054,FEMALE,Alive,"
+            ",TCGA-E9-A1N6,E9,A1N6,955d4263-61f7-42e8-8a6e-772a0d6c209d,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",23,6,2011,5
+1055,FEMALE,Alive,"
+            ",TCGA-BH-A0DV,BH,A0DV,96b9c7db-1be1-4b60-b47c-26b654c3d64c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",2,8,2011,5
+1056,FEMALE,Alive,"
+            ",TCGA-E9-A227,E9,A227,89a8da07-4487-47c6-8d3c-442a87e4f632,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,7,2011,2
+1057,FEMALE,Alive,"
+            ",TCGA-D8-A1XK,D8,A1XK,97943d87-fed7-4f14-a0a7-c5bfee64c392,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",9,6,2011,2
+1058,FEMALE,Alive,"
+            ",TCGA-E2-A107,E2,A107,eff2360e-399a-4167-ab2b-798e27bef739,YES,C50.9,8520/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",11,2,2011,3
+1059,FEMALE,Alive,"
+            ",TCGA-AN-A03X,AN,A03X,88cd6ccc-70f7-436e-a99c-039b9d31e335,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Positive,"
+            ",28,12,2010,2
+1060,FEMALE,Alive,"
+            ",TCGA-E2-A2P6,E2,A2P6,F83B866B-0B2E-4BBA-9367-BE6DCCF56232,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",19,12,2011,2
+1061,FEMALE,Alive,"
+            ",TCGA-AR-A5QM,AR,A5QM,9C895825-D6F6-4D14-A662-23212200F6E5,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",15,5,2013,2
+1062,FEMALE,Alive,"
+            ",TCGA-BH-A0RX,BH,A0RX,e828455d-4680-41b2-8a1c-1582e3790d62,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",11,11,2010,3
+1063,FEMALE,Alive,"
+            ",TCGA-OL-A5RV,OL,A5RV,1D38D356-D126-4476-94D0-26616B9375B1,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",16,5,2013,2
+1064,FEMALE,Alive,"
+            ",TCGA-AR-A2LR,AR,A2LR,D093173F-08AB-4138-BF3C-399C45A6E163,YES,C50.9,8575/3,C50.9,0,Negative,Negative,Negative,"
+            ",14,2,2012,2
+1065,FEMALE,Alive,"
+            ",TCGA-A8-A0A9,A8,A0A9,7b605fb6-d077-401e-b870-b87ddf505f82,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+1066,FEMALE,Dead,"
+            ",TCGA-AR-A0TR,AR,A0TR,d1703dbd-5c93-4cf2-a4d1-0d90640882bd,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",8,3,2011,3
+1067,FEMALE,Alive,"
+            ",TCGA-D8-A27I,D8,A27I,9c55032f-4db7-4026-ae83-8d060dd8e3fe,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",18,7,2011,2
+1068,FEMALE,Dead,"
+            ",TCGA-BH-A1FU,BH,A1FU,c348a9b3-c901-4384-a222-144387bac0c5,YES,C50.9,8500/3,C50.9,0,Negative,Negative,null,"
+            ",8,9,2011,5
+1069,FEMALE,Alive,"
+            ",TCGA-OL-A5S0,OL,A5S0,43B3BF47-7313-4DFB-952A-EC0B9D48E16C,YES,C50.9,8500/3,C50.9,0,Negative,Positive,null,"
+            ",16,5,2013,2
+1070,FEMALE,Dead,"
+            ",TCGA-E2-A1LE,E2,A1LE,7317E605-93BA-49A9-8743-20613B02767A,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",7,6,2011,4
+1071,FEMALE,Dead,"
+            ",TCGA-BH-A1EU,BH,A1EU,a1093598-d3a8-4ffe-83fc-bc7d1faff7e5,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",7,9,2011,4
+1072,FEMALE,Alive,"
+            ",TCGA-D8-A1JL,D8,A1JL,aa4244a8-0454-4247-a1c3-357fd51746fa,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",29,3,2011,2
+1073,FEMALE,Alive,"
+            ",TCGA-E9-A1NA,E9,A1NA,af577366-0258-49e7-b6af-e70056c081a4,YES,C50.9,8522/3,C50.9,0,Positive,Positive,Positive,"
+            ",23,6,2011,5
+1074,FEMALE,Alive,"
+            ",TCGA-C8-A275,C8,A275,ce887e90-0660-4f44-a3a4-b3b894cb7eda,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",21,7,2011,2
+1075,FEMALE,Alive,"
+            ",TCGA-GM-A5PV,GM,A5PV,67C8DC41-EDCB-4563-96B3-3F93F9EDCBE9,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",12,4,2013,1
+1076,FEMALE,Alive,"
+            ",TCGA-E9-A245,E9,A245,8218119a-f68b-4ea7-9ee4-5e2edc2ae342,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",16,3,2011,2
+1077,FEMALE,Alive,"
+            ",TCGA-A8-A07E,A8,A07E,853456d8-2367-404e-abc9-020fe8bbd209,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+1078,FEMALE,Dead,"
+            ",TCGA-A8-A06X,A8,A06X,70931617-b3df-4a12-8e3f-2b2307602f48,YES,C50.9,8500/3,C50.9,0,Negative,Positive,Positive,"
+            ",27,5,2011,3
+1079,FEMALE,Alive,"
+            ",TCGA-A8-A06Y,A8,A06Y,515b1400-e896-4f2a-81bd-70895441a0bd,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+1080,FEMALE,Alive,"
+            ",TCGA-A2-A04N,A2,A04N,197428f7-bd77-4c5f-8119-87157b5c35b9,YES,C50.9,8500/3,C50.9,0,Positive,Positive,null,"
+            ",27,1,2011,3
+1081,FEMALE,Alive,"
+            ",TCGA-OL-A5DA,OL,A5DA,4E509F73-99C7-48EB-A3A4-D34E3BFACE33,YES,C50.9,8520/3,C50.9,0,Positive,Positive,null,"
+            ",23,4,2013,2
+1082,FEMALE,Alive,"
+            ",TCGA-A8-A079,A8,A079,31c31cce-1b4d-4f12-922f-84f389403170,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+1083,FEMALE,Alive,"
+            ",TCGA-AQ-A04H,AQ,A04H,83f943c7-3975-4b4f-985d-9c057741793b,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Indeterminate,"
+            ",15,12,2010,3
+1084,FEMALE,Alive,"
+            ",TCGA-A2-A04U,A2,A04U,1c3610f7-e0aa-48d7-9a27-0dbaf6e244f9,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Negative,"
+            ",5,1,2011,3
+1085,FEMALE,Alive,"
+            ",TCGA-D8-A73U,D8,A73U,96F02BE7-F2DF-483C-8968-A5BD2D887206,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",28,3,2014,3
+1086,FEMALE,Alive,"
+            ",TCGA-E9-A1QZ,E9,A1QZ,b6b932ce-6856-4d94-9e6c-16dfbe51906f,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",28,7,2011,2
+1087,FEMALE,Alive,"
+            ",TCGA-BH-A0B5,BH,A0B5,9da462b0-93c2-4305-89f6-7199a30399a7,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",2,8,2011,4
+1088,FEMALE,Alive,"
+            ",TCGA-A8-A07U,A8,A07U,59bf0ce4-715a-4017-bccb-c59916e78324,YES,C50.9,8500/3,C50.9,0,Positive,Negative,Negative,"
+            ",27,5,2011,3
+1089,FEMALE,Dead,"
+            ",TCGA-BH-A208,BH,A208,ddcbdac6-9e43-4146-a611-d033125eba14,YES,C50.9,8500/3,C50.9,0,null,null,null,"
+            ",8,9,2011,3
+1090,FEMALE,Alive,"
+            ",TCGA-A7-A4SC,A7,A4SC,EC0AB947-9341-4FFF-BDA4-FDFB9434D508,YES,C50.9,8520/3,C50.9,0,Negative,Positive,Equivocal,"
+            ",20,2,2013,7
+1091,FEMALE,Dead,"
+            ",TCGA-UU-A93S,UU,A93S,45013972-2DFD-4F82-A076-E3E4AF1B43B8,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",11,11,2014,2
+1092,FEMALE,Alive,"
+            ",TCGA-A8-A09V,A8,A09V,cc348a26-ee11-47a4-8b51-de922967e175,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Negative,"
+            ",27,5,2011,3
+1093,FEMALE,Alive,"
+            ",TCGA-A2-A0CZ,A2,A0CZ,9f93ea0a-1687-44e0-9e8a-eeb4097d471c,YES,C50.9,8500/3,C50.9,0,Positive,Positive,Negative,"
+            ",14,9,2010,3
+1094,FEMALE,Alive,"
+            ",TCGA-BH-A0HP,BH,A0HP,fcef8cb5-fb2c-4bfb-82cd-6b9f3145182c,YES,C50.9,8520/3,C50.9,0,Negative,Positive,Negative,"
+            ",11,11,2010,3
+1095,FEMALE,Alive,"
+            ",TCGA-E2-A1L8,E2,A1L8,eebad74f-5961-4e91-b0eb-157a2f6f952b,YES,C50.9,8520/3,C50.9,0,Positive,Positive,Equivocal,"
+            ",7,6,2011,2
+1096,FEMALE,Alive,"
+            ",TCGA-AN-A04C,AN,A04C,66072c06-f251-4f0b-b6ae-12b407c52cc6,YES,C50.9,8500/3,C50.9,0,Negative,Negative,Positive,"
+            ",29,12,2010,2
+1097,FEMALE,Dead,"
+            ",TCGA-AO-A03U,AO,A03U,0685edd2-ce1c-4e0e-8dda-393139af4223,YES,C50.9,8502/3,C50.9,0,Negative,Negative,Negative,"
+            ",9,1,2011,3
