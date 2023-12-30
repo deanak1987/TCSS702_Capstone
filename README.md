@@ -1,8 +1,23 @@
 # Dean Kelley TCSS 702 Master's Capstone Project
 The purpose of this project was to utilise the skills and tools acquired throughout my time as a graduate student at the University of Washington to produce a data processing pipeline and a model to accurately classify a status for cancer hormone receptors for a given tissue sample whole slide image (WSI).
 
-To run the model on the TCGA dataset clone this repository to your working directory, start a Jupyter Hub session in the same directory, and follow the instructions listed below:
-## Data Process Pipeline
+## Installation
+Prior to running the data processing pipeline and model, it is necessary to install the essential packages. These include:
+1. Openslide
+2. numpy
+3. pandas
+4. shutil
+5. PIL
+6. matplotlib
+7. sklearn
+8. torch
+9. torchvision
+10. cv2
+11. Jupyter
+
+To run the model on the TCGA dataset clone this repository to your working directory, start a Jupyter Hub session in that same directory, and follow the instructions listed below:
+
+## Data Processing Pipeline
 Open Data_Preprocess.ipynb inside Jupyter Hub and Run through the cells. Under the cell Split Manifest, it is possible to download the dataset in segments should one not want to process everything simultaneously. This can be seen below Notice the line 'list_df' uses split and is currently set to use the whole dataset. Changing the value of 1 to another number, n, will split it into n parts. Subsequently, df_manifest_slice will need to be updated as different subsections are desired.
 
 ```
@@ -39,5 +54,7 @@ After the usable tiles are saved, each tile's file location is saved to a CSV fi
 
 Finally, to reduce space, the original WSI image file is removed.
 
-  
+If the files are not on the same machine, transfer them now.
+
+In the event that the images are processed in batches as described above, it is necessary to consolidate the new batch into the total population. After each batch is processed, run Update_New_Dataset.ipynb and run through each cell. This program integrates the new data into the dataset
 ## Prediction Model
