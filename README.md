@@ -58,4 +58,4 @@ If the files are not on the same machine, transfer them now.
 
 In the event that the images are processed in batches as described above, it is necessary to consolidate the new batch into the total population. After each batch is processed, run Update_New_Dataset.ipynb and run through each cell. This program integrates the new data into the dataset and then rejects entries that have an insufficient number of tiles.
 
-## Prediction Model
+## Inference Model
