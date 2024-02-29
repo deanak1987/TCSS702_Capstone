@@ -1,5 +1,5 @@
 # Dean Kelley TCSS 702 Master's Capstone Project
-The purpose of this project was to utilise the skills and tools acquired throughout my time as a graduate student at the University of Washington to produce a data processing pipeline and a model to accurately classify a status for cancer hormone receptors for a given tissue sample whole slide image (WSI).
+The purpose of this project was to utilize the skills and tools acquired throughout my time as a graduate student at the University of Washington to produce a data processing pipeline and a model to accurately classify a status for cancer hormone receptors for a given tissue sample whole slide image (WSI).
 
 ## Installation
 Prior to running the data processing pipeline and model, it is necessary to install the essential packages. These include:
@@ -59,3 +59,18 @@ If the files are not on the same machine, transfer them now.
 In the event that the images are processed in batches as described above, it is necessary to consolidate the new batch into the total population. After each batch is processed, run Update_New_Dataset.ipynb and run through each cell. This program integrates the new data into the dataset and then rejects entries that have an insufficient number of tiles.
 
 ## Inference Model
+The Jupyter Notebook file Final_CrosVal_UnGated_SEResNeXt50_AMP_Model_for_TCGA_Capstone.ipynb contains the inference model, as well as the final data preparation steps. Once opened, the desired hormone receptor (HR) to run the model on is selected by updating the 'label' variable. 
+```
+label = 'ER_Label'
+```
+A tile consisting of the dataset's average pixel value is then produced. Next, the training and test datasets can be created using a stratified split based on the desired label. With the training and test datasets produced, the model is created by first establishing the MIL dataloader before running the model itself. To obtain the best performance of the dataloader, the optimal number of workers is determined by running a series of tests and utilizing the most efficient worker count. With the model built, the following cells allow for running cross-validation, testing the model on the test dataset, and then running experiments to see the effects of ensemble/aggregation.
+
+Since the model can take a significant amount of time to train depending on the GPU of the system, the model is saved after every epoch. To begin, there is a 'restart' variable that must be set to False. To restart at the most recent training epoch, one can simply change it to True.
+```
+restart = False # Restarting from a current epoch?
+```
+
+During the development of the model, an RTX2080Ti was used and models often required a whole day or more to complete, so the models were saved according to the date by a variable called 'date' found in the same initialization cell as the restart variable.
+```
+date = '2-12' # Checkpoint date
+```
