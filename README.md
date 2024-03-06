@@ -17,7 +17,7 @@ Prior to running the data processing pipeline and model, it is necessary to inst
 
 To run the model on the TCGA dataset, clone this repository to your working directory, start a Jupyter Lab or Notebook session in that same directory, and follow the instructions listed below:
 
-* **Special note**: two separate machines were used to process the data and run the model. Some or many variables may be reused between the programs and will need to be fixed if everything will be done on a single machine.*
+**Special note**: two separate machines were used to process the data and run the model. Some or many variables may be reused between the programs and will need to be fixed if everything will be done on a single machine.
 
 ## Data Processing Pipeline
 Open Data_Preprocess.ipynb inside Jupyter Hub and Run through the cells. Under the cell Split Manifest, it is possible to download the dataset in segments should one not want to process everything simultaneously. This can be seen below Notice the line 'list_df' uses split and is currently set to use the whole dataset. Changing the value of 1 to another number, n, will split it into n parts. Subsequently, df_manifest_slice will need to be updated as different subsections are desired.
