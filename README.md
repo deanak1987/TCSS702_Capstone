@@ -14,6 +14,8 @@ Prior to running the data processing pipeline and model, it is necessary to inst
 9. torchvision
 10. cv2
 11. Jupyter
+12. tqdm
+
 
 To run the model on the TCGA dataset, clone this repository to your working directory, start a Jupyter Lab or Notebook session in that same directory, and follow the instructions listed below:
 
@@ -45,7 +47,7 @@ Once the files are downloaded, a data frame is produced that can be used later b
 
 To begin splitting the WSIs into tiles, a new data frame called images_to_process is created which will keep track of the WSIs that still need to be processed in the event of a stop to the process so that it can be resumed.
 
-The processor utilizes parallel processing to reduce processing time. The number of processors being utilized is determied by taking the floor of the square root of available CPU processors as shown by:
+The processor utilizes parallel processing to reduce processing time. The number of processors being utilized is determined by taking the floor of the square root of available CPU processors as shown by:
 ```
 process_count = math.isqrt(len(os.sched_getaffinity(0)))
 ```
