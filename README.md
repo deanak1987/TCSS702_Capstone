@@ -78,3 +78,5 @@ During the development of the model, an RTX2080Ti was used and models often requ
 ```
 date = '2-12' # Checkpoint date
 ```
+### Ensembles Test
+The Ensemble test carries out a baseline test on a bag size of x before carrying out y tests of n bag sizes such that y = x // n. It will save the inference probabilities from each test and then take the max or min value depending on the given parameter e_choice and compute AUROC. It will then run this test five times and take the average before comparing the result against the baseline test AUROC.
